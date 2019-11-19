@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>D3 Stage Selection</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- container for the visualization -->
+<div class="world">
+    <!-- include two buttons to control the selection -->
+    <div class="controls">
+        <button aria-labelledby="previous-label" class="prev">
+            <span id="previous-label" hidden>Previous stage</span>
+            <svg viewBox="0 0 100 100" width="32" height="32">
+                <path
+                    d="M 30 20 l 45 30 l -45 30 z"
+                    fill="currentColor">
+                </path>
+            </svg>
+        </button>
+        <button aria-labelledby="next-label" class="next">
+            <span id="next-label" hidden>Next stage</span>
+            <svg viewBox="0 0 100 100" width="32" height="32">
+                <path
+                    d="M 30 20 l 45 30 l -45 30 z"
+                    fill="currentColor">
+                </path>
+            </svg>
+        </button>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://unpkg.com/topojson@3.0.2/dist/topojson.min.js'></script>
+<script src='https://unpkg.com/d3@5.9.7/dist/d3.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

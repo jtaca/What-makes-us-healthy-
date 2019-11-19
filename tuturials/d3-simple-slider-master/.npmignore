@@ -1,0 +1,11 @@
+dist/*.zip
+test/
+.storybook/
+stories/
+storybook-static/
+example/
+.travis.yml
+.prettierrc
+.eslintrc
+rollup.config.js
+.prettierignore
