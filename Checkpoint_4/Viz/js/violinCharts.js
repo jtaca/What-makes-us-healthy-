@@ -1,12 +1,6 @@
 
 var dataset;
 
-d3.json("../data/oscar_winners_recent.json").then(function (data) {
-  dataset = data;
-
-  violinChart();
-});
-
 
 
 function violinChart() {
