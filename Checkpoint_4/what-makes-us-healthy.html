@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>What makes us healthy?</title>
+  <link rel="stylesheet" href="what-makes-us-healthy.css">
+  <script src="d3.v5.js" charset="utf-8"></script>
+  <!--<script src="what-makes-us-healthy.js"></script>-->
+  <script srv="map.js"></script>
+  <script src="https://d3js.org/d3.v5.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" crossorigin="anonymous"
+    href="http://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cDovL2JsLm9ja3Mub3JnL0t1ZXJ6aWJlL3Jhdy8zMzgwNTI1MTliMWQyNzBiOWNkMDAzZTBmYmZiNzEyZS80Mzk1ZjMxOTQzMTg5MDFmMmE1NmE1Njk3MzZkZTdhNjllYjQwNWQyLw" />
+  <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.3.0/d3-legend.js" charset="utf-8"></script>
+
+
+  <script type="text/javascript" src="library_kaspersky-labs.js" charset="UTF-8"></script>
+  <link rel="stylesheet" crossorigin="anonymous" href="library_kaspersky-labs.css" />
+
+  <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://d3js.org/d3-path.v1.min.js" charset="utf-8"></script>
+  <script src="radarChart.js" charset="utf-8"></script>
+  <script src="teste.js" charset="utf-8"></script>
+  <script src="d3-tip.js"></script>
+
+
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      fill: #242424;
+      text-align: center;
+      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      cursor: default;
+    }
+
+    .legend {
+      font-family: 'Raleway', sans-serif;
+      fill: #333333;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>What makes us healthy?</h1>
+  <div class="col-md-12 row">
+    <div class="grid-container col-md-6">
+      <div class="grid-item col-md-2" id="the_chart"></div>
+      <div class="grid-item col-md-2" id="the_chart2"></div>
+      <div class="grid-item col-md-2" id="the_chart3"></div>
+      <div class="grid-item col-md-2" id="the_chart4"></div>
+      <div class="grid-item col-md-2" id="the_chart5"></div>
+      <div class="grid-item col-md-2" id="the_chart6"></div>
+      <div class="grid-item col-md-2" id="the_chart7"></div>
+    </div>
+    <div class="col-md-2" id="slider-vertical"></div>
+    <div class="col-md-4 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
+
+  </div>
+  <div class="col-md-6" id="slider-time"></div>
+
+  <div class="viz"></div>
+
+  <script type="text/javascript">
+
+    var files = ["HealthyData.json", "corre.json"];
+    var promises = [];
+    var data = null;
+    var selectedCircle;
+
+    files.forEach(function (url) {
+      promises.push(d3.json(url))
+    });
+
+    // Upload files
+    Promise.all(promises).then(function (values) {
+      var scatter = values[0];
+      var correlation = values[1];
+      var dispatch = d3.dispatch("timeEvent", "factorEvent", "testEvent");
+
+      var dict = {
+        "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+        "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate"
+      }
+
+
+      var yearSelected = 2010;
+      var factorSelected = "Average Wages";
+      //draw charts for the first time  
+      drawRadarChart(yearSelected, factorSelected, true);
+      gen_scatterplotaverage_wagesobese(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wageslife_at_birth(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wageslife_at_old(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wagessuicide(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wagescancer(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wagesalcohol(scatter, yearSelected, dict[factorSelected]);
+      gen_scatterplotaverage_wagessmokers(scatter, yearSelected, dict[factorSelected]);
+
+      ///////////////////////// TIME SLIDER /////////////////////////
+      var dataTime = d3.range(0, 10).map(function (d) {
+        return new Date(2007 + d, 10, 3);
+      });
+      var gTime = d3
+        .select('div#slider-time')
+        .append('svg')
+        .attr('width', 1000)
+        .attr('height', 100)
+        .append('g')
+        .attr('transform', 'translate(20,30)');
+
+      //d3.select('p#value-time').text(d3.timeFormat('%Y')(sliderTime.value()));
+
+      var sliderTime = d3
+        .sliderBottom()
+        .min(d3.min(dataTime))
+        .max(d3.max(dataTime))
+        .step(1000 * 60 * 60 * 24 * 365)
+        .width(700)
+        .tickFormat(d3.timeFormat('%Y'))
+        .tickValues(dataTime)
+        .default(new Date(2010, 10, 3))
+        .handle(
+          d3.symbol()
+            .type(d3.symbolCircle)
+            .size(200))
+        .on('onchange', val => {
+          dispatch.call("timeEvent", this, d3.timeFormat('%Y')(val))
+        });
+      gTime.call(sliderTime);
+      
+      ///////////////////////// FACTOR SLIDER /////////////////////////
+      ticks = ["Average Wages", "Hours worked", "Education", "Pollution", "GDP", "Social spending", "Employment rate"]
+
+      var sliderVertical = d3
+        .sliderRight()
+        .min(0)
+        .max(6)
+        .step(1)
+        .height(300)
+        .width(1000)
+        .tickFormat(function (i) { return ticks[i] })
+        .ticks(5)
+        .handle(
+          d3.symbol()
+            .type(d3.symbolCircle)
+            .size(200))
+        .on('onchange', val => {
+          dispatch.call("factorEvent", this, ticks[val])
+          //dispatch.call("factorEvent", this, )
+        });
+
+      var gVertical = d3
+        .select('div#slider-vertical')
+        .append('svg')
+        .attr('width', 300)
+        .attr('height', 400)
+        .append('g')
+        .attr('transform', 'translate(30,30)');
+
+      gVertical.call(sliderVertical);
+
+
+       //TIME EVENT 
+       dispatch.on("timeEvent", function (time) {
+        var dict = {
+          "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+          "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate"
+        }
+        drawRadarChart(time, factorSelected, false);
+        gen_scatterplotaverage_wagesobese(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wageslife_at_birth(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wageslife_at_old(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wagessuicide(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wagescancer(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wagesalcohol(scatter, time, dict[factorSelected]);
+        gen_scatterplotaverage_wagessmokers(scatter, time, dict[factorSelected]);
+      });
+
+      //FACTOR EVENT
+      dispatch.on("factorEvent", function (event) {
+        var dict = {
+          "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+          "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate"
+        }
+        drawRadarChart(yearSelected, event, false);
+        gen_scatterplotaverage_wagesobese(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wageslife_at_birth(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wageslife_at_old(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wagessuicide(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wagescancer(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wagesalcohol(scatter, yearSelected, dict[event]);
+        gen_scatterplotaverage_wagessmokers(scatter, yearSelected, dict[event]);
+      });
+
+      dispatch.on("testEvent", function (loc) {
+        d3.selectAll("circle").attr("fill", "blue");
+        d3.selectAll("[location=\"" + loc + "\"]").attr("fill", "red");
+        d3.selectAll("[title=\"" + loc + "\"]").attr("fill", "red");
+      });
+
+
+      function drawRadarChart(time, event, onCreate) {
+        console.log("hey");
+
+        arrayCorrelation = [];
+        for (var i = 0; i < correlation.length; i++) {
+          if (correlation[i].Time == time && correlation[i].Var == event) {
+            arrayCorrelation.push(correlation[i].Alcohol, correlation[i].Smokers, correlation[i].Cancer, correlation[i].Suicide, correlation[i].LifeAtOld, correlation[i].LifeAtBirth, correlation[i].Obese);
+          }
+        }
+        var data = [
+          {
+            name: 'Correlation ',
+            axes: [
+              { axis: 'Alcohol', value: arrayCorrelation[0] },
+              { axis: 'Obese', value: arrayCorrelation[1] },
+              { axis: 'Smokers', value: arrayCorrelation[2] },
+              { axis: 'Life expectancy at birth', value: arrayCorrelation[3] },
+              { axis: 'Life expectancy at 65', value: arrayCorrelation[4] },
+              { axis: 'Suicide rate', value: arrayCorrelation[5] },
+              { axis: 'Deaths by cancer', value: arrayCorrelation[6] },]
+          }
+        ];
+        var margin = { top: 50, right: 50, bottom: 50, left: 80 },
+          width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+          height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+
+        var radarChartOptions = {
+          w: 150,
+          h: 250,
+          margin: margin,
+          maxValue: 1,
+          levels: 5,
+          roundStrokes: false,
+          color: d3.scaleOrdinal().range(["#d6952d"]),
+          format: '.2'
+        };
+
+        
+        var tip7 = d3.tip()
+        .attr('class','d3-tip')
+        .html(function (d) {
+          var content = "<span style=\"background-color: rgb(168, 167, 166); opacity:0.9;color: white; border-radius:25px;padding:5%;text-shadow:none\">" + d.value + "</span>";
+          return content;
+        });
+
+        const parent = d3.select(".radarChart");
+        let svgRADAR = parent.select("svg");
+
+        if(onCreate){
+        //Initiate the radar chart SVG
+        svgRADAR = parent.append("svg")
+            .attr("width",  radarChartOptions.w + radarChartOptions.margin.left + radarChartOptions.margin.right)
+            .attr("height", radarChartOptions.h + radarChartOptions.margin.top + radarChartOptions.margin.bottom)
+            .attr("class", "radar");
+        }
+        svgRADAR.call(tip7);
+        let svg_radar1 = RadarChart(".radarChart", data, radarChartOptions, tip7, onCreate, svgRADAR);
+        
+        //let asdasd = drawRadarChart(".radarChart", 400,200, data)
+      }
+
+
+      function gen_scatterplotaverage_wagesobese(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 5;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.obese;
+          }), d3.min(dataset, function (d) {
+            return d.obese;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale)
+
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+          .text("Obese");
+
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.obese == 0 || d.time != selectedYear) { return padding; } else {
+
+              return xscale(d[factorSelected]);
+            }
+
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.obese == 0 || d.time != selectedYear) { return padding; } else {
+              return hscale(d.obese);
+            }
+
+
+
+          })
+          .attr("location", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wageslife_at_birth(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart2");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart2")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.life_at_birth;
+          }), d3.min(dataset, function (d) {
+            return d.life_at_birth;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+          .text("Life At Birth");
+
+
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.life_at_birth == 0 || d.time != selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.life_at_birth == 0 || d.time != selectedYear) { return padding; }
+
+            return hscale(d.life_at_birth);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wageslife_at_old(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart3");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart3")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.life_at_old;
+          }), d3.min(dataset, function (d) {
+            return d.life_at_old;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")   // text is drawn off the screen top left, move down and out and rotate
+          .text("Life At Old");
+
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.life_at_old == 0 || d.time != selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.life_at_old == 0 || d.time != selectedYear) { return padding; }
+
+            return hscale(d.life_at_old);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wagessuicide(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart4");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart4")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.suicide;
+          }), d3.min(dataset, function (d) {
+            return d.suicide;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+          .text("Suicide Rates");
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.suicide == 0 || d.time != selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.suicide == 0 || d.time != selectedYear) { return padding; }
+
+            return hscale(d.suicide);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wagescancer(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart5");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart5")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.cancer;
+          }), d3.min(dataset, function (d) {
+            return d.cancer;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+          .text("Deaths by Cancer");
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.cancer == 0 || d.time != selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.cancer == 0 || d.time != selectedYear) { return padding; }
+
+            return hscale(d.cancer);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wagesalcohol(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart6");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart6")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.alcohol;
+          }), d3.min(dataset, function (d) {
+            return d.alcohol;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")   // text is drawn off the screen top left, move down and out and rotate
+          .text("Alcohol consumption");
+
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.alcohol == 0 || d.time != selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.alcohol == 0 || d.time != selectedYear) { return padding; }
+
+            return hscale(d.alcohol);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+      function gen_scatterplotaverage_wagessmokers(dataset, selectedYear, factorSelected) {
+        const parent = d3.select("#the_chart7");
+        parent.select("svg").remove();
+        var w = 150;
+        var h = 150;
+
+        var svg = d3.select("#the_chart7")
+          .append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .attr("fill", "blue");
+
+
+        var padding = 30;
+        var bar_w = 15;
+        var r = 2;
+
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
+            return d.smokers;
+          }), d3.min(dataset, function (d) {
+            return d.smokers;
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return d[factorSelected];
+          }), d3.max(dataset, function (d) {
+            return d[factorSelected];
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale);
+
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+        //.ticks(dataset.length/2);
+
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
+
+
+        gY = svg.append("g")
+          .attr("transform", "translate(30,0)")
+          .attr("class", "y axis")
+          .call(yaxis);
+
+
+        gX = svg.append("g")
+          .attr("transform", "translate(0," + (h - padding) + ")")
+          .call(xaxis);
+
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
+
+        svg.append("text")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")   // text is drawn off the screen top left, move down and out and rotate
+          .text("Daily Smokers");
+        svg.selectAll("circle")
+          .data(dataset)
+          //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
+          .enter().append("circle")
+          .on("mouseover", function (d, i) {
+            dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+          })
+          .on("mouseout", function (d, i) {
+            d3.selectAll("circle").attr("fill", "blue");
+          })
+          .attr("r", r)
+          .attr("fill", "blue")
+          .attr("cx", function (d, i) {
+            if (d[factorSelected] == 0 || d.smoker == 0 || d.time == selectedYear) { return padding; }
+
+            return xscale(d[factorSelected]);
+          })
+          .attr("cy", function (d) {
+
+            if (d[factorSelected] == 0 || d.smoker == 0 || d.time == selectedYear) { return padding; }
+
+            return hscale(d.smokers);
+
+          })
+          .attr("title", function (d) { return d.location; });
+      }
+
+
+    });
+  </script>
+</body>
+
+</html>
