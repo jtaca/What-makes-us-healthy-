@@ -50,17 +50,13 @@
 
    .grid-container {
 	  display: inline-grid;
-	  grid-template-rows: 160px 160px 160px;
-      grid-template-columns: 160px 160px ;
+	  grid-template-rows: 160px 160px ;
+      grid-template-columns: 160px 160px 160px ;
 	}
 
 	.grid-container1 {
-	  display: inline-grid;
-	  grid-template-rows: auto auto;
-	  grid-template-columns: auto auto;
-      grid-column-gap: -10px;
-      background-color: #2196FF;
-      padding: 10px;
+	  
+	  grid-template-rows: 150px auto;
 
 	}
 
@@ -75,7 +71,7 @@
 <body>
   <h1>What makes us healthy?</h1>
 
-  <div class="col-md-12 row">
+  <div class="grid-container1 col-md-12 row">
         
     <div class="col-md-6">
       <div class = "col-md-12"> aquele mapa mm nice </div>
@@ -83,7 +79,7 @@
     </div>
     <div class="col-md-2" id="slider-vertical"></div>
 
-    <div class="col-md-4">
+    <div class="grid-container1 col-md-4">
         <div class="col-md-12 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
     </div>
   
@@ -199,7 +195,7 @@
         .select('div#slider-vertical')
         .append('svg')
         .attr('width', 300)
-        .attr('height', 500)
+        .attr('height', 250)
         .append('g')
         .attr('transform', 'translate(30,30)');
 
@@ -273,7 +269,7 @@
 
         var radarChartOptions = {
           w: 150,
-          h: 250,
+          h: 150,
           margin: margin,
           maxValue: 1,
           levels: 5,
@@ -333,7 +329,7 @@
           .append("svg")
           .attr("width", w)
           .attr("height", h)
-          .attr("fill", "blue") : d3.select("#the_chart"+k);
+          .attr("fill", "black") : d3.select("#the_chart"+k);
 
           var hscale = d3.scaleLinear()
             .domain([d3.max(dataset, function (d) {
@@ -360,6 +356,7 @@
           var xaxis = d3.axisBottom()
             .scale(xscale)
             .ticks(5);
+            
           //.ticks(dataset.length/2);
 
           var cscale = d3.scaleLinear()
