@@ -33,7 +33,7 @@ const RadarChart = function RadarChart(parent_selector, data, options, tip7, onC
 	const cfg = {
 	 w: 600,				//Width of the circle
 	 h: 600,				//Height of the circle
-	 margin: {top: 20, right: 20, bottom: 20, left: 20}, //The margins of the SVG
+	 margin: {top: 0, right: 20, bottom: 20, left: 20}, //The margins of the SVG
 	 levels: 3,				//How many levels or inner circles should there be drawn
 	 maxValue: 0, 			//What is the value that the biggest circle will represent
 	 labelFactor: 1.35, 	//How much farther than the radius of the outer circle should the labels be placed
@@ -81,7 +81,7 @@ const RadarChart = function RadarChart(parent_selector, data, options, tip7, onC
 
 	const parent = d3.select(parent_selector);
 
-	let g = onCreate ? svg.append("g").attr("transform", "translate(" + (cfg.w/2 + cfg.margin.left) + "," + (cfg.h/2 + cfg.margin.top) + ")")
+	let g = onCreate ? svg.append("g").attr("transform", "translate(" + (cfg.w/2 + cfg.margin.left) + "," + (cfg.h/3 + cfg.margin.top) + ")")
 	        : svg.select("g");
 	
 	let filter = null;

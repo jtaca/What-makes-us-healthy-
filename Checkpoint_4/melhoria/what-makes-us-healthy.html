@@ -75,35 +75,32 @@
 <body>
   <h1>What makes us healthy?</h1>
 
-    <div class="col-md-12 row">
+  <div class="col-md-12 row">
+        
+    <div class="col-md-6">
+      <div class = "col-md-12"> aquele mapa mm nice </div>
+      <div class="col-md-12" id="slider-time"></div>
+    </div>
+    <div class="col-md-2" id="slider-vertical"></div>
 
-        <div class="col-md-6">
-          <div class = "col-md-12"> aquele mapa mm nice </div>
-          <div class="col-md-12" id="slider-time"></div>
-
-        </div>
-
-        <div class="col-md-6">
-            <div class="col-md-2" id="slider-vertical"></div>
-            <div class="col-md-8 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
-        </div>
-
-
-        <div class="col-md-6">aqueles violins mm nice</div>
-
-        <div class="grid-container col-md-6">
-          <div class="grid-item" id="the_chart0"></div>
-          <div class="grid-item" id="the_chart1"></div>
-          <div class="grid-item" id="the_chart2"></div>
-          <div class="grid-item" id="the_chart3"></div>
-          <div class="grid-item" id="the_chart4"></div>
-          <div class="grid-item" id="the_chart5"></div>
-          <div class="grid-item" id="the_chart6"></div>
-        </div>
-
-
-
+    <div class="col-md-4">
+        <div class="col-md-12 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
+    </div>
+  
+    <div class="col-md-6">aqueles violins mm nice</div>
+    
+    <div class="grid-container col-md-6">
+      <div class="grid-item" id="the_chart0"></div>
+      <div class="grid-item" id="the_chart1"></div>
+      <div class="grid-item" id="the_chart2"></div>
+      <div class="grid-item" id="the_chart3"></div>
+      <div class="grid-item" id="the_chart4"></div>
+      <div class="grid-item" id="the_chart5"></div>
+      <div class="grid-item" id="the_chart6"></div>
+    </div>
   </div>
+
+
 
   <script type="text/javascript">
 
@@ -185,8 +182,8 @@
         .min(0)
         .max(6)
         .step(1)
-        .height(300)
-        .width(1000)
+        .height(200)
+        .width(300)
         .tickFormat(function (i) { return ticks[i] })
         .ticks(5)
         .handle(
@@ -202,7 +199,7 @@
         .select('div#slider-vertical')
         .append('svg')
         .attr('width', 300)
-        .attr('height', 400)
+        .attr('height', 500)
         .append('g')
         .attr('transform', 'translate(30,30)');
 
@@ -435,16 +432,12 @@
                 .attr("cx", function (d, i) {
                  if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
                    return xscale(d[factorSelected]);
-                }else{
-
                 }
 
               })
             .attr("cy", function (d) {
               if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
                 return hscale(d[healthList[k].value]);
-              }else{
-
               }
               
               })
