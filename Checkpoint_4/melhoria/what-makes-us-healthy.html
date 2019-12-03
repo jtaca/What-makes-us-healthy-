@@ -125,13 +125,7 @@
       var factorSelected = "Average Wages";
       //draw charts for the first time
       drawRadarChart(yearSelected, factorSelected, true);
-      gen_scatterplotaverage_wagesobese(scatter, yearSelected, dict[factorSelected], true);
-      // gen_scatterplotaverage_wageslife_at_birth(scatter, yearSelected, dict[factorSelected]);
-      // gen_scatterplotaverage_wageslife_at_old(scatter, yearSelected, dict[factorSelected]);
-      // gen_scatterplotaverage_wagessuicide(scatter, yearSelected, dict[factorSelected]);
-      // gen_scatterplotaverage_wagescancer(scatter, yearSelected, dict[factorSelected]);
-      // gen_scatterplotaverage_wagesalcohol(scatter, yearSelected, dict[factorSelected]);
-      // gen_scatterplotaverage_wagessmokers(scatter, yearSelected, dict[factorSelected]);
+      drawScatterPlot(scatter, yearSelected, dict[factorSelected], true);
 
       ///////////////////////// TIME SLIDER /////////////////////////
       var dataTime = d3.range(0, 11).map(function (d) {
@@ -209,13 +203,7 @@
           "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate"
         }
         drawRadarChart(time, factorSelected, false);
-        gen_scatterplotaverage_wagesobese(scatter, time, dict[factorSelected], false);
-        // gen_scatterplotaverage_wageslife_at_birth(scatter, time, dict[factorSelected]);
-        // gen_scatterplotaverage_wageslife_at_old(scatter, time, dict[factorSelected]);
-        // gen_scatterplotaverage_wagessuicide(scatter, time, dict[factorSelected]);
-        // gen_scatterplotaverage_wagescancer(scatter, time, dict[factorSelected]);
-        // gen_scatterplotaverage_wagesalcohol(scatter, time, dict[factorSelected]);
-        // gen_scatterplotaverage_wagessmokers(scatter, time, dict[factorSelected]);
+        drawScatterPlot(scatter, time, dict[factorSelected], false);
       });
 
       //FACTOR EVENT
@@ -225,13 +213,7 @@
           "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate"
         }
         drawRadarChart(yearSelected, event, false);
-        gen_scatterplotaverage_wagesobese(scatter, yearSelected, dict[event], false);
-        // gen_scatterplotaverage_wageslife_at_birth(scatter, yearSelected, dict[event]);
-        // gen_scatterplotaverage_wageslife_at_old(scatter, yearSelected, dict[event]);
-        // gen_scatterplotaverage_wagessuicide(scatter, yearSelected, dict[event]);
-        // gen_scatterplotaverage_wagescancer(scatter, yearSelected, dict[event]);
-        // gen_scatterplotaverage_wagesalcohol(scatter, yearSelected, dict[event]);
-        // gen_scatterplotaverage_wagessmokers(scatter, yearSelected, dict[event]);
+        drawScatterPlot(scatter, yearSelected, dict[event], false);
       });
 
       dispatch.on("testEvent", function (loc) {
@@ -303,7 +285,7 @@
       }
 
 
-      function gen_scatterplotaverage_wagesobese(dataset, selectedYear, factorSelected, onCreate) {
+      function drawScatterPlot(dataset, selectedYear, factorSelected, onCreate) {
 
         var w = 150;
         var h = 150;
