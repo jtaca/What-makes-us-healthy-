@@ -171,6 +171,10 @@
         .on('onchange', val => {
           dispatch.call("timeEvent", this, d3.timeFormat('%Y')(val))
         });
+      
+      // var ticks = d3.selectAll("#slider-time").selectAll(".tick");
+      // console.log(ticks);
+      // ticks.selectAll("text").attr("dy","0");
       gTime.call(sliderTime);
       
       ///////////////////////// FACTOR SLIDER /////////////////////////
