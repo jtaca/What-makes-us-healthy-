@@ -50,6 +50,26 @@
       fill: #333333;
     }
 
+   .grid-container {
+	  display: inline-grid;
+	  grid-template-rows: 160px 160px 160px;
+      grid-template-columns: 160px 160px ;
+	}
+
+	.grid-container1 {
+	  display: inline-grid;
+	  grid-template-rows: auto auto;
+	  grid-template-columns: auto auto;
+      grid-column-gap: -10px;
+      background-color: #2196FF;
+      padding: 10px;
+      
+	}
+
+	.grid-item{
+
+	}
+
     
   </style>
 </head>
@@ -57,19 +77,21 @@
 <body>
   <h1>What makes us healthy?</h1>
   <div class="col-md-12 row">
+    
     <div class="grid-container col-md-6">
-      <div class="grid-item col-md-2" id="the_chart0"></div>
-      <div class="grid-item col-md-2" id="the_chart1"></div>
-      <div class="grid-item col-md-2" id="the_chart2"></div>
-      <div class="grid-item col-md-2" id="the_chart3"></div>
-      <div class="grid-item col-md-2" id="the_chart4"></div>
-      <div class="grid-item col-md-2" id="the_chart5"></div>
-      <div class="grid-item col-md-2" id="the_chart6"></div>
+      <div class="grid-item" id="the_chart0"></div>
+      <div class="grid-item" id="the_chart1"></div>
+      <div class="grid-item" id="the_chart2"></div>
+      <div class="grid-item" id="the_chart3"></div>
+      <div class="grid-item" id="the_chart4"></div>
+      <div class="grid-item" id="the_chart5"></div>
+      <div class="grid-item" id="the_chart6"></div>
     </div>
     <div class="col-md-2" id="slider-vertical"></div>
     <div class="col-md-4 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
 
   </div>
+  
   <div class="col-md-6" id="slider-time"></div>
 
   <div class="viz"></div>
@@ -278,7 +300,7 @@
         
         var w = 150;
         var h = 150;
-        var padding = 30;
+        var padding = 20;
         var bar_w = 15;
         var r = 2;
         
