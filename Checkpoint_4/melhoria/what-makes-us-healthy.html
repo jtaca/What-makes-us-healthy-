@@ -27,7 +27,7 @@
   <script src="https://d3js.org/d3-path.v1.min.js" charset="utf-8"></script>
 
   <script src="radarChart.js" charset="utf-8"></script>
-  
+
   <script src="d3-tip.js"></script>
 
 
@@ -61,9 +61,9 @@
       grid-column-gap: -10px;
       background-color: #2196FF;
       padding: 10px;
-      
+
 	}
-  
+
   .grid-container {
      display: inline-grid;
      grid-template-rows: auto auto ;
@@ -74,23 +74,23 @@
 
 <body>
   <h1>What makes us healthy?</h1>
- 
+
     <div class="col-md-12 row">
-        
+
         <div class="col-md-6">
           <div class = "col-md-12"> aquele mapa mm nice </div>
           <div class="col-md-12" id="slider-time"></div>
 
         </div>
-        
+
         <div class="col-md-6">
             <div class="col-md-2" id="slider-vertical"></div>
             <div class="col-md-8 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
         </div>
-        
-        
+
+
         <div class="col-md-6">aqueles violins mm nice</div>
-        
+
         <div class="grid-container col-md-6">
           <div class="grid-item" id="the_chart0"></div>
           <div class="grid-item" id="the_chart1"></div>
@@ -100,11 +100,11 @@
           <div class="grid-item" id="the_chart5"></div>
           <div class="grid-item" id="the_chart6"></div>
         </div>
-        
-       
+
+
 
   </div>
-  
+
   <script type="text/javascript">
 
     var files = ["HealthyData.json", "corre.json"];
@@ -130,7 +130,7 @@
 
       var yearSelected = 2010;
       var factorSelected = "Average Wages";
-      //draw charts for the first time  
+      //draw charts for the first time
       drawRadarChart(yearSelected, factorSelected, true);
       gen_scatterplotaverage_wagesobese(scatter, yearSelected, dict[factorSelected], true);
       // gen_scatterplotaverage_wageslife_at_birth(scatter, yearSelected, dict[factorSelected]);
@@ -171,12 +171,12 @@
         .on('onchange', val => {
           dispatch.call("timeEvent", this, d3.timeFormat('%Y')(val))
         });
-      
+
       // var ticks = d3.selectAll("#slider-time").selectAll(".tick");
       // console.log(ticks);
       // ticks.selectAll("text").attr("dy","0");
       gTime.call(sliderTime);
-      
+
       ///////////////////////// FACTOR SLIDER /////////////////////////
       ticks = ["Average Wages", "Hours worked", "Education", "Pollution", "GDP", "Social spending", "Employment rate"]
 
@@ -209,7 +209,7 @@
       gVertical.call(sliderVertical);
 
 
-       //TIME EVENT 
+       //TIME EVENT
        dispatch.on("timeEvent", function (time) {
         var dict = {
           "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
@@ -285,7 +285,7 @@
           format: '.2'
         };
 
-        
+
         var tip7 = d3.tip()
         .attr('class','d3-tip')
         .html(function (d) {
@@ -305,19 +305,19 @@
         }
         svgRADAR.call(tip7);
         let svg_radar1 = RadarChart(".radarChart", data, radarChartOptions, tip7, onCreate, svgRADAR);
-        
+
         //let asdasd = drawRadarChart(".radarChart", 400,200, data)
       }
 
 
       function gen_scatterplotaverage_wagesobese(dataset, selectedYear, factorSelected, onCreate) {
-        
+
         var w = 150;
         var h = 150;
         var padding = 20;
         var bar_w = 15;
         var r = 2;
-        
+
         var healthList = [
               { title: 'Obese', value: "obese" },
               { title: 'Alcohol',  value: "alcohol" },
@@ -326,23 +326,24 @@
               { title: 'Life expectancy at 65', value: "life_at_old" },
               { title: 'Suicide rate', value: "suicide" },
               { title: 'Deaths by cancer', value: "cancer" }]
-         
+
         for(var k = 0; k<healthList.length; k++){
           console.log(healthList[k].value);
-          
-         
+          console.log(healthList[k]);
+
+
           var svg = onCreate ? d3.select("#the_chart"+k)
           .append("svg")
           .attr("width", w)
           .attr("height", h)
           .attr("fill", "blue") : d3.select("#the_chart"+k);
-        
-                 
+
           var hscale = d3.scaleLinear()
             .domain([d3.max(dataset, function (d) {
-              return d[healthList[k].value];
+
+              return parseInt(d[healthList[k].value]);
             }), d3.min(dataset, function (d) {
-              return d[healthList[k].value];
+              return parseInt(d[healthList[k].value]);
             })])
             .range([padding, h - padding]);
 
@@ -385,7 +386,7 @@
               return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
             });
 
-          if(onCreate){  
+          if(onCreate){
           svg.append("text")
             .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
             .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
@@ -434,20 +435,25 @@
                 .attr("cx", function (d, i) {
                  if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
                    return xscale(d[factorSelected]);
+                }else{
+
                 }
 
               })
             .attr("cy", function (d) {
               if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
                 return hscale(d[healthList[k].value]);
+              }else{
+
               }
+              
               })
 		        };
 
           }
         }
       }
-    
+
     });
   </script>
 </body>
