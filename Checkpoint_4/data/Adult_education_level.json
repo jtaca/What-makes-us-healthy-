@@ -1,0 +1,2247 @@
+[
+  {
+    "LOCATION": "ARG",
+    "TIME": 2008,
+    "Education": 35.2
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2009,
+    "Education": 35.7
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2011,
+    "Education": 37
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2012,
+    "Education": 38
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2013,
+    "Education": 38.3
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2014,
+    "Education": 38.2
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2017,
+    "Education": 40.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2007,
+    "Education": 34.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2008,
+    "Education": 33.8
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2009,
+    "Education": 34.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "Education": 35.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "Education": 35.7
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "Education": 35.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "Education": 36.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "Education": 35.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "Education": 36.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "Education": 36.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2017,
+    "Education": 35.6
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2007,
+    "Education": 54.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2008,
+    "Education": 54.7
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2009,
+    "Education": 54.7
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "Education": 54.6
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "Education": 54.4
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "Education": 54.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "Education": 53.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "Education": 54
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "Education": 54.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2016,
+    "Education": 53.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2017,
+    "Education": 52.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2007,
+    "Education": 35.9
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2008,
+    "Education": 37.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2009,
+    "Education": 37.2
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "Education": 35.5
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "Education": 36.7
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "Education": 36.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "Education": 37.2
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "Education": 36.7
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "Education": 37.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2016,
+    "Education": 37.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2017,
+    "Education": 36.5
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2007,
+    "Education": 27.2
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2008,
+    "Education": 28
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2009,
+    "Education": 29.8
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2011,
+    "Education": 31.7
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2012,
+    "Education": 32
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2013,
+    "Education": 32.7
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2014,
+    "Education": 33
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2015,
+    "Education": 34.1
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2016,
+    "Education": 33.6
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2017,
+    "Education": 34.1
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2007,
+    "Education": 38.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2008,
+    "Education": 38.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2009,
+    "Education": 38.2
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "Education": 38
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "Education": 37.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "Education": 36.7
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "Education": 36.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "Education": 36.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "Education": 35.2
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2016,
+    "Education": 34.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2017,
+    "Education": 34.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2007,
+    "Education": 54.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2008,
+    "Education": 53.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2009,
+    "Education": 51.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "Education": 51.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "Education": 50.8
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "Education": 50.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "Education": 49
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "Education": 48.8
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "Education": 47.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2016,
+    "Education": 46.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2017,
+    "Education": 45.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2009,
+    "Education": 39.4
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "Education": 39.9
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "Education": 40.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "Education": 42.3
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2010,
+    "Education": 14.8
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2014,
+    "Education": 29.6
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2015,
+    "Education": 28.8
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2016,
+    "Education": 30.2
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2017,
+    "Education": 31.3
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2007,
+    "Education": 15.3
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2008,
+    "Education": 15.7
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2009,
+    "Education": 15.5
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2010,
+    "Education": 15.9
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2011,
+    "Education": 15.8
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2012,
+    "Education": 15.9
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2013,
+    "Education": 17
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2014,
+    "Education": 17
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2015,
+    "Education": 16.2
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2016,
+    "Education": 16.9
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2017,
+    "Education": 16.5
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2007,
+    "Education": 76.8
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2008,
+    "Education": 76.4
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2009,
+    "Education": 75.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "Education": 75.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "Education": 74.1
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "Education": 73.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "Education": 72.4
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "Education": 71.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "Education": 71
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2016,
+    "Education": 70.5
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2017,
+    "Education": 69.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2007,
+    "Education": 60.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2008,
+    "Education": 59.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2009,
+    "Education": 59.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "Education": 59.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "Education": 58.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "Education": 58.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "Education": 57.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "Education": 59.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "Education": 59.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2016,
+    "Education": 58.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2017,
+    "Education": 57.9
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2007,
+    "Education": 43.4
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2008,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2009,
+    "Education": 42.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "Education": 43.2
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "Education": 43.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "Education": 42.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "Education": 43.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "Education": 43.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2016,
+    "Education": 42.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2017,
+    "Education": 42.1
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2007,
+    "Education": 21.4
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2008,
+    "Education": 21.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2009,
+    "Education": 21.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "Education": 21.9
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "Education": 22.1
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "Education": 22
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "Education": 21.7
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "Education": 21.9
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "Education": 22.4
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2016,
+    "Education": 22.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2017,
+    "Education": 22.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2007,
+    "Education": 55.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2008,
+    "Education": 54.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2009,
+    "Education": 52.6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "Education": 53.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "Education": 52.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "Education": 52.3
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "Education": 53.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "Education": 50.6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "Education": 50.5
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2016,
+    "Education": 50.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2017,
+    "Education": 49
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2007,
+    "Education": 44.2
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2008,
+    "Education": 44.5
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2009,
+    "Education": 44.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "Education": 44.8
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "Education": 44.4
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "Education": 45.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "Education": 45.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "Education": 44.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "Education": 44.4
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2016,
+    "Education": 44.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2017,
+    "Education": 43.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2007,
+    "Education": 41.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2008,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2009,
+    "Education": 41.7
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "Education": 41.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "Education": 41.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "Education": 41.7
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "Education": 42.7
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "Education": 43.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "Education": 43.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2016,
+    "Education": 43.5
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2017,
+    "Education": 43.2
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2010,
+    "Education": 36.8
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2011,
+    "Education": 36.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2007,
+    "Education": 36.7
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2008,
+    "Education": 36.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2009,
+    "Education": 36.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "Education": 36.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "Education": 37.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "Education": 37.1
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "Education": 37.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "Education": 36.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "Education": 35.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2016,
+    "Education": 35
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2017,
+    "Education": 35.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2007,
+    "Education": 37.2
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2008,
+    "Education": 37.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2009,
+    "Education": 37.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "Education": 38
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "Education": 38.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "Education": 39.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "Education": 39.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "Education": 40.2
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "Education": 41.2
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2016,
+    "Education": 41.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2017,
+    "Education": 41.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2007,
+    "Education": 61.2
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2008,
+    "Education": 60.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2009,
+    "Education": 60.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "Education": 61.2
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "Education": 60.6
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "Education": 60.1
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "Education": 60
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "Education": 59.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "Education": 59
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2016,
+    "Education": 59.6
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2017,
+    "Education": 60
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2007,
+    "Education": 19.4
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2008,
+    "Education": 14.1
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2009,
+    "Education": 21.4
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2010,
+    "Education": 22.3
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2011,
+    "Education": 22.9
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2012,
+    "Education": 22.7
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2013,
+    "Education": 23.3
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2014,
+    "Education": 23.9
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2015,
+    "Education": 24.9
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2016,
+    "Education": 25.7
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2017,
+    "Education": 26
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2011,
+    "Education": 18.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2007,
+    "Education": 35.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2008,
+    "Education": 35.6
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2009,
+    "Education": 35.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "Education": 35.2
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "Education": 35.5
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "Education": 34.9
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "Education": 35.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "Education": 37.8
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "Education": 37
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2017,
+    "Education": 36.3
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2007,
+    "Education": 38.4
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2008,
+    "Education": 37.5
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2009,
+    "Education": 37.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "Education": 38.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "Education": 37
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "Education": 35.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "Education": 36.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "Education": 36.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "Education": 35.9
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2016,
+    "Education": 37.5
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2017,
+    "Education": 34.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2007,
+    "Education": 36.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2008,
+    "Education": 37.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2009,
+    "Education": 36.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "Education": 36.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "Education": 36.6
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "Education": 38.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "Education": 37.6
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "Education": 36.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "Education": 36.7
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "Education": 36.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "Education": 36.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2007,
+    "Education": 38.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2008,
+    "Education": 39
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2009,
+    "Education": 39.8
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "Education": 40.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "Education": 41.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "Education": 41.9
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "Education": 42.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2016,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2017,
+    "Education": 42.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2007,
+    "Education": 43.4
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2008,
+    "Education": 42.7
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2009,
+    "Education": 42.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "Education": 41.9
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "Education": 40.8
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "Education": 40.6
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "Education": 40.5
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "Education": 40.4
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "Education": 40.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "Education": 39.9
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2007,
+    "Education": 60
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2008,
+    "Education": 60.1
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2009,
+    "Education": 60.4
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "Education": 59.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "Education": 59.4
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "Education": 59.3
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "Education": 58.2
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "Education": 54.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "Education": 52.6
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2016,
+    "Education": 52.8
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2017,
+    "Education": 52.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2007,
+    "Education": 39.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2008,
+    "Education": 40.3
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2009,
+    "Education": 42.5
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "Education": 42.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "Education": 40.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "Education": 39.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "Education": 39.8
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "Education": 36
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "Education": 34.8
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2016,
+    "Education": 36
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2017,
+    "Education": 36.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2007,
+    "Education": 62.5
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2008,
+    "Education": 61
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2009,
+    "Education": 60.9
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "Education": 61.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "Education": 60.2
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "Education": 59.9
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "Education": 58.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "Education": 56.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "Education": 56.2
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2016,
+    "Education": 55.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2017,
+    "Education": 53.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2007,
+    "Education": 16
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2008,
+    "Education": 16.2
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2009,
+    "Education": 17
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "Education": 17.4
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "Education": 18.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "Education": 18.3
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "Education": 18.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "Education": 19.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "Education": 19.4
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "Education": 19.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2017,
+    "Education": 20.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2007,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2008,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2009,
+    "Education": 40.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "Education": 40.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "Education": 40.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "Education": 39
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "Education": 41.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "Education": 41.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2016,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2017,
+    "Education": 41.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2007,
+    "Education": 44.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2008,
+    "Education": 44.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2009,
+    "Education": 44
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "Education": 43.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "Education": 43.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "Education": 43.5
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "Education": 42.6
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "Education": 40.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "Education": 39.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2016,
+    "Education": 39.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2017,
+    "Education": 38.8
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "Education": 38.4
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "Education": 40.7
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "Education": 40.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "Education": 41.2
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2007,
+    "Education": 45.1
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2008,
+    "Education": 45
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2009,
+    "Education": 44.7
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2010,
+    "Education": 44.8
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2011,
+    "Education": 44.5
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2012,
+    "Education": 44.5
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2013,
+    "Education": 44.3
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2014,
+    "Education": 43.6
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2015,
+    "Education": 43.4
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2016,
+    "Education": 43.1
+  },
+  {
+    "LOCATION": "OAV",
+    "TIME": 2017,
+    "Education": 42.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2007,
+    "Education": 67.6
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2008,
+    "Education": 67.6
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2009,
+    "Education": 66.8
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "Education": 66
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "Education": 65.6
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "Education": 65.1
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "Education": 64.4
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "Education": 63.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2015,
+    "Education": 63
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2016,
+    "Education": 62.6
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2017,
+    "Education": 62.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2007,
+    "Education": 13.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2008,
+    "Education": 13.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2009,
+    "Education": 15.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "Education": 16.5
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "Education": 17.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "Education": 19.1
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "Education": 20.7
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "Education": 21.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "Education": 22.3
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2016,
+    "Education": 23.1
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2017,
+    "Education": 23.9
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2010,
+    "Education": 42.4
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2011,
+    "Education": 42.2
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2012,
+    "Education": 42.5
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2013,
+    "Education": 42
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2014,
+    "Education": 41.8
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2015,
+    "Education": 41.2
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2016,
+    "Education": 40.9
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2017,
+    "Education": 38.5
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2014,
+    "Education": 31.8
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2016,
+    "Education": 32.9
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2007,
+    "Education": 74.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2008,
+    "Education": 75.2
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2009,
+    "Education": 75.2
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "Education": 73.6
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "Education": 72.6
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "Education": 72.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "Education": 71.9
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "Education": 70.5
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "Education": 70.1
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2016,
+    "Education": 69.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2017,
+    "Education": 68.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2007,
+    "Education": 59.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2008,
+    "Education": 59.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2009,
+    "Education": 60
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "Education": 59.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "Education": 59.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "Education": 58.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "Education": 57.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "Education": 57.1
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "Education": 56.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2016,
+    "Education": 56.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2017,
+    "Education": 53.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2007,
+    "Education": 53.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2008,
+    "Education": 53
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2009,
+    "Education": 52.7
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "Education": 52.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "Education": 51.9
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "Education": 51.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "Education": 51.1
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "Education": 42.9
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "Education": 42.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2016,
+    "Education": 41.6
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2017,
+    "Education": 41.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2007,
+    "Education": 18.3
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2008,
+    "Education": 18.3
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2009,
+    "Education": 18.3
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2010,
+    "Education": 18.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2011,
+    "Education": 18.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2012,
+    "Education": 18.6
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2013,
+    "Education": 18.9
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2014,
+    "Education": 18.9
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2015,
+    "Education": 19
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2016,
+    "Education": 19.2
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2017,
+    "Education": 19.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2007,
+    "Education": 47.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2008,
+    "Education": 47.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2009,
+    "Education": 47.4
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "Education": 47.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "Education": 46.8
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "Education": 46.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "Education": 45.7
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "Education": 45.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "Education": 44.9
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "Education": 44.5
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2017,
+    "Education": 44.3
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2008,
+    "Education": 56.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2009,
+    "Education": 58.8
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2010,
+    "Education": 59.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2011,
+    "Education": 60.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2012,
+    "Education": 62.2
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2013,
+    "Education": 62.9
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2014,
+    "Education": 64.3
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2015,
+    "Education": 63.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2016,
+    "Education": 64.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2017,
+    "Education": 65.8
+  }
+]

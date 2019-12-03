@@ -1,0 +1,2066 @@
+[
+  {
+    "LOCATION": "AUS",
+    "TIME": 2007,
+    "GDP": 39612.9,
+    "Social spending": 6612.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2008,
+    "GDP": 40094.8,
+    "Social spending": 7097.9
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2009,
+    "GDP": 41613.6,
+    "Social spending": 7066.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "GDP": 42812.1,
+    "Social spending": 6997
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "GDP": 44419.3,
+    "Social spending": 7342.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "GDP": 43879.2,
+    "Social spending": 7514.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "GDP": 47761.2,
+    "Social spending": 7744.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "GDP": 47638.6,
+    "Social spending": 8095.5
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "GDP": 47351,
+    "Social spending": 8328.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "GDP": 50262.6,
+    "Social spending": 8029.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2007,
+    "GDP": 39394,
+    "Social spending": 10695.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2008,
+    "GDP": 41316,
+    "Social spending": 11001.9
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2009,
+    "GDP": 40935.5,
+    "Social spending": 11370.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "GDP": 42017.8,
+    "Social spending": 11592.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "GDP": 44469.2,
+    "Social spending": 11538.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "GDP": 46477.7,
+    "Social spending": 11723.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "GDP": 47936.7,
+    "Social spending": 11829.5
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "GDP": 48813.5,
+    "Social spending": 11930
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "GDP": 49955.5,
+    "Social spending": 11926.1
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2007,
+    "GDP": 36871.6,
+    "Social spending": 10108.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2008,
+    "GDP": 38133.4,
+    "Social spending": 10663.7
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2009,
+    "GDP": 38010.5,
+    "Social spending": 11244.1
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "GDP": 40050.4,
+    "Social spending": 11338.9
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "GDP": 41450.4,
+    "Social spending": 11621
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "GDP": 42585.2,
+    "Social spending": 11551.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "GDP": 43746,
+    "Social spending": 11727.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "GDP": 44720.5,
+    "Social spending": 11915.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "GDP": 45739.2,
+    "Social spending": 11917.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2007,
+    "GDP": 39544.7,
+    "Social spending": 6608.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2008,
+    "GDP": 40378,
+    "Social spending": 6569.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2009,
+    "GDP": 38896,
+    "Social spending": 7081.9
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "GDP": 40106.2,
+    "Social spending": 7028.2
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "GDP": 41662.5,
+    "Social spending": 6943.9
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "GDP": 42246.7,
+    "Social spending": 7009.8
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "GDP": 44211,
+    "Social spending": 6993.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "GDP": 45627.6,
+    "Social spending": 7047.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "GDP": 44671.4,
+    "Social spending": 7456.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2007,
+    "GDP": 49500.2,
+    "Social spending": 7498.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2008,
+    "GDP": 52362.6,
+    "Social spending": 7425.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2009,
+    "GDP": 51564.6,
+    "Social spending": 7918.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "GDP": 52859.8,
+    "Social spending": 7968.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "GDP": 56183.8,
+    "Social spending": 7974.7
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "GDP": 57849.6,
+    "Social spending": 8161.7
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "GDP": 60108.5,
+    "Social spending": 8299.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "GDP": 61902.2,
+    "Social spending": 8433.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "GDP": 63939,
+    "Social spending": 8649.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2007,
+    "GDP": 16872.3,
+    "Social spending": 1461.6
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2008,
+    "GDP": 16447.3,
+    "Social spending": 1687.1
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2009,
+    "GDP": 16119.9,
+    "Social spending": 1916.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2010,
+    "GDP": 18129.1,
+    "Social spending": 1894.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "GDP": 20302.8,
+    "Social spending": 1900.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2012,
+    "GDP": 21446.5,
+    "Social spending": 2003.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "GDP": 22352.5,
+    "Social spending": 2045.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2014,
+    "GDP": 22687.9,
+    "Social spending": 2113.7
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "GDP": 22593.3,
+    "Social spending": 2243.1
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2016,
+    "GDP": 22788.3,
+    "Social spending": 2294.8
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "GDP": 24180.8,
+    "Social spending": 2282.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2007,
+    "GDP": 26064.5,
+    "Social spending": 4924.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2008,
+    "GDP": 27724.4,
+    "Social spending": 5085.3
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2009,
+    "GDP": 27474.2,
+    "Social spending": 5438.8
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "GDP": 27554.7,
+    "Social spending": 5439.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "GDP": 28795.8,
+    "Social spending": 5557.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "GDP": 29051.4,
+    "Social spending": 5564.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "GDP": 30496,
+    "Social spending": 5796.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "GDP": 32265,
+    "Social spending": 5751.1
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "GDP": 33701.4,
+    "Social spending": 5799.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2007,
+    "GDP": 37024.4,
+    "Social spending": 9602.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2008,
+    "GDP": 38662.6,
+    "Social spending": 9785.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2009,
+    "GDP": 37695.7,
+    "Social spending": 10203.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "GDP": 39916.1,
+    "Social spending": 10347
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "GDP": 42692.5,
+    "Social spending": 10215.3
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "GDP": 43564.1,
+    "Social spending": 10192.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "GDP": 45232,
+    "Social spending": 10280.4
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "GDP": 47190.5,
+    "Social spending": 10442.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "GDP": 47979.2,
+    "Social spending": 10598.7
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2007,
+    "GDP": 38978.8,
+    "Social spending": 11336.2
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2008,
+    "GDP": 41283,
+    "Social spending": 11384.9
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2009,
+    "GDP": 40340.4,
+    "Social spending": 11989.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "GDP": 43004.9,
+    "Social spending": 12308.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "GDP": 44408,
+    "Social spending": 12439.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "GDP": 44808.5,
+    "Social spending": 12469.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "GDP": 46742.9,
+    "Social spending": 12549.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "GDP": 47905.5,
+    "Social spending": 12705.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "GDP": 49071.3,
+    "Social spending": 12895.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2007,
+    "GDP": 32431.6,
+    "Social spending": 7016.7
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2008,
+    "GDP": 33242.2,
+    "Social spending": 7447.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2009,
+    "GDP": 32095.8,
+    "Social spending": 8146.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "GDP": 31690,
+    "Social spending": 7902.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "GDP": 31872.4,
+    "Social spending": 8006.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "GDP": 31724.6,
+    "Social spending": 7750.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "GDP": 32452.7,
+    "Social spending": 7712.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "GDP": 33544.4,
+    "Social spending": 7741.4
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "GDP": 34938.6,
+    "Social spending": 7832.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2007,
+    "GDP": 21928,
+    "Social spending": 3265.5
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2008,
+    "GDP": 22641.8,
+    "Social spending": 3784.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2009,
+    "GDP": 20484.2,
+    "Social spending": 4116.8
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "GDP": 21552.2,
+    "Social spending": 3948.4
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "GDP": 24501.3,
+    "Social spending": 3796.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "GDP": 25973.3,
+    "Social spending": 3862.9
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "GDP": 27449.9,
+    "Social spending": 3938
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "GDP": 28936.5,
+    "Social spending": 4230.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "GDP": 29259.8,
+    "Social spending": 4639.2
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2007,
+    "GDP": 37703.3,
+    "Social spending": 9428.4
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2008,
+    "GDP": 39969.4,
+    "Social spending": 9645.8
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2009,
+    "GDP": 37829.8,
+    "Social spending": 10162.5
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "GDP": 38737.1,
+    "Social spending": 10601.6
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "GDP": 40683.3,
+    "Social spending": 10722.8
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "GDP": 40619.9,
+    "Social spending": 11009.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "GDP": 41293.3,
+    "Social spending": 11288.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "GDP": 41462.7,
+    "Social spending": 11460.6
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "GDP": 42213.5,
+    "Social spending": 11514.6
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2007,
+    "GDP": 34095.4,
+    "Social spending": 10355.6
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2008,
+    "GDP": 35102.9,
+    "Social spending": 10414.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2009,
+    "GDP": 34693.2,
+    "Social spending": 11012.1
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "GDP": 35909.2,
+    "Social spending": 11180
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "GDP": 37447.9,
+    "Social spending": 11276.2
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "GDP": 37684.2,
+    "Social spending": 11438.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "GDP": 39528.5,
+    "Social spending": 11634.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "GDP": 40144.1,
+    "Social spending": 11808.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "GDP": 40840.8,
+    "Social spending": 11796.1
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2007,
+    "GDP": 35409.5,
+    "Social spending": 7090.1
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2008,
+    "GDP": 36416.5,
+    "Social spending": 7412.1
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2009,
+    "GDP": 34777.9,
+    "Social spending": 7915.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "GDP": 36016.3,
+    "Social spending": 8045.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "GDP": 36805.1,
+    "Social spending": 8003.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "GDP": 37908.5,
+    "Social spending": 8106
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "GDP": 39519.1,
+    "Social spending": 8320.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "GDP": 40877.7,
+    "Social spending": 8269.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "GDP": 42055.1,
+    "Social spending": 8292.3
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2007,
+    "GDP": 29291.9,
+    "Social spending": 6423
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2008,
+    "GDP": 30855.9,
+    "Social spending": 6652.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2009,
+    "GDP": 30365.4,
+    "Social spending": 7155.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "GDP": 28148.3,
+    "Social spending": 7001.9
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "GDP": 26141.1,
+    "Social spending": 6675.9
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "GDP": 25284.4,
+    "Social spending": 6423.2
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "GDP": 26097.8,
+    "Social spending": 5843.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "GDP": 26838.6,
+    "Social spending": 5945.9
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "GDP": 26902.3,
+    "Social spending": 6027.6
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2007,
+    "GDP": 19030.1,
+    "Social spending": 5071.3
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2008,
+    "GDP": 20678.7,
+    "Social spending": 5178.8
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2009,
+    "GDP": 20651.8,
+    "Social spending": 4972.9
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "GDP": 21534.9,
+    "Social spending": 4965.4
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "GDP": 22841.2,
+    "Social spending": 4913.2
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "GDP": 23094.5,
+    "Social spending": 4922.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "GDP": 24464.1,
+    "Social spending": 4950.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "GDP": 25518.2,
+    "Social spending": 5004.3
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "GDP": 26356.3,
+    "Social spending": 5031.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2007,
+    "GDP": 46746.5,
+    "Social spending": 8060.8
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2008,
+    "GDP": 44219.8,
+    "Social spending": 8949
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2009,
+    "GDP": 41587.1,
+    "Social spending": 10142.5
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "GDP": 43298.7,
+    "Social spending": 10638.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "GDP": 44870.5,
+    "Social spending": 10516.2
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "GDP": 46277.6,
+    "Social spending": 10350.2
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "GDP": 47936.4,
+    "Social spending": 9968.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "GDP": 51125.9,
+    "Social spending": 9902.5
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "GDP": 69147,
+    "Social spending": 9397.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2007,
+    "GDP": 41182.2,
+    "Social spending": 6281.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2008,
+    "GDP": 43049,
+    "Social spending": 6412.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2009,
+    "GDP": 41813.3,
+    "Social spending": 6884.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "GDP": 39582.1,
+    "Social spending": 6514
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "GDP": 40769,
+    "Social spending": 6670.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "GDP": 41928.4,
+    "Social spending": 6580.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "GDP": 44152.6,
+    "Social spending": 6609.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "GDP": 45712.8,
+    "Social spending": 6733.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "GDP": 48856.6,
+    "Social spending": 6589.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2007,
+    "GDP": 27341.5,
+    "Social spending": 4038.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2008,
+    "GDP": 27275.3,
+    "Social spending": 4129.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2009,
+    "GDP": 27514.3,
+    "Social spending": 4266.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "GDP": 28872.4,
+    "Social spending": 4452.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "GDP": 30550.7,
+    "Social spending": 4522.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "GDP": 31707,
+    "Social spending": 4628.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "GDP": 34160.4,
+    "Social spending": 4729.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "GDP": 34228.1,
+    "Social spending": 4808.6
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "GDP": 35449.5,
+    "Social spending": 4852.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "GDP": 37474.7,
+    "Social spending": 4928
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "GDP": 38882.1,
+    "Social spending": 5171.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2007,
+    "GDP": 33794.6,
+    "Social spending": 8968.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2008,
+    "GDP": 35154.8,
+    "Social spending": 9151.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2009,
+    "GDP": 34234.2,
+    "Social spending": 9293.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "GDP": 34685,
+    "Social spending": 9417.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "GDP": 35935.5,
+    "Social spending": 9323.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "GDP": 35757,
+    "Social spending": 9283.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "GDP": 35885.4,
+    "Social spending": 9266.8
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "GDP": 36070.8,
+    "Social spending": 9320.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "GDP": 36836.4,
+    "Social spending": 9456.9
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2007,
+    "GDP": 34507.2,
+    "Social spending": 6406.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2008,
+    "GDP": 34803.7,
+    "Social spending": 6622.9
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2009,
+    "GDP": 33202,
+    "Social spending": 7161.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2010,
+    "GDP": 34994.4,
+    "Social spending": 7512.3
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2011,
+    "GDP": 35775.3,
+    "Social spending": 7915.1
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2012,
+    "GDP": 37213.8,
+    "Social spending": 8037.5
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2013,
+    "GDP": 39008.4,
+    "Social spending": 8149.7
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2014,
+    "GDP": 39183.5,
+    "Social spending": 8116.2
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2015,
+    "GDP": 40406.1,
+    "Social spending": 8214.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2007,
+    "GDP": 27822.1,
+    "Social spending": 1986
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2008,
+    "GDP": 28655.8,
+    "Social spending": 2172
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2009,
+    "GDP": 28325.1,
+    "Social spending": 2421
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "GDP": 30365.3,
+    "Social spending": 2495.8
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "GDP": 31228.3,
+    "Social spending": 2545.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "GDP": 32097.1,
+    "Social spending": 2769.5
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "GDP": 32615.7,
+    "Social spending": 3018.5
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "GDP": 33587.4,
+    "Social spending": 3233.5
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "GDP": 35760.7,
+    "Social spending": 3493.3
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "GDP": 37142.6,
+    "Social spending": 3687
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "GDP": 38839.4,
+    "Social spending": 3824.1
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2007,
+    "GDP": 19095.6,
+    "Social spending": 3215.3
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2008,
+    "GDP": 20744,
+    "Social spending": 3723.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2009,
+    "GDP": 18145.9,
+    "Social spending": 4226.8
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "GDP": 20090.7,
+    "Social spending": 3899.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "GDP": 22854.3,
+    "Social spending": 3789.1
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "GDP": 24658.1,
+    "Social spending": 3779.6
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "GDP": 26660.6,
+    "Social spending": 3713.9
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "GDP": 28174.3,
+    "Social spending": 3901.2
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "GDP": 28910.3,
+    "Social spending": 4084.3
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2007,
+    "GDP": 83858.2,
+    "Social spending": 18448.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2008,
+    "GDP": 86592,
+    "Social spending": 19423.1
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2009,
+    "GDP": 82206.4,
+    "Social spending": 19988
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "GDP": 85514.9,
+    "Social spending": 19806.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "GDP": 91814,
+    "Social spending": 18173
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "GDP": 91526.7,
+    "Social spending": 19116.4
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "GDP": 95246.1,
+    "Social spending": 19474.1
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "GDP": 100933.6,
+    "Social spending": 19496.7
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "GDP": 102817.3,
+    "Social spending": 19427.6
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2007,
+    "GDP": 18123.6,
+    "Social spending": 2339.5
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2008,
+    "GDP": 19428.6,
+    "Social spending": 2679.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2009,
+    "GDP": 16869.3,
+    "Social spending": 3250.6
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "GDP": 17560.8,
+    "Social spending": 3427.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "GDP": 19781.8,
+    "Social spending": 3160.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "GDP": 21259.8,
+    "Social spending": 3087.1
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "GDP": 22674.5,
+    "Social spending": 3226.8
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "GDP": 23802.4,
+    "Social spending": 3282.5
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "GDP": 24726.2,
+    "Social spending": 3481.5
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2007,
+    "GDP": 14233,
+    "Social spending": 986.3
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2008,
+    "GDP": 14885.9,
+    "Social spending": 1054.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2009,
+    "GDP": 14532.4,
+    "Social spending": 1067.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "GDP": 15257.7,
+    "Social spending": 1124.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "GDP": 16546.6,
+    "Social spending": 1128.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "GDP": 17220.1,
+    "Social spending": 1157.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "GDP": 17461.8,
+    "Social spending": 1213
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "GDP": 18167.5,
+    "Social spending": 1234.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "GDP": 18438,
+    "Social spending": 1280
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "GDP": 18968.9,
+    "Social spending": 1276.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2007,
+    "GDP": 43895.9,
+    "Social spending": 7550.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2008,
+    "GDP": 46419,
+    "Social spending": 7258.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2009,
+    "GDP": 44567.1,
+    "Social spending": 7667.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "GDP": 45041.4,
+    "Social spending": 7922.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "GDP": 46599.2,
+    "Social spending": 7999.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "GDP": 47272,
+    "Social spending": 8094.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "GDP": 49242.8,
+    "Social spending": 8160.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "GDP": 49233.2,
+    "Social spending": 8088
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "GDP": 50301.8,
+    "Social spending": 8069.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2007,
+    "GDP": 55878.3,
+    "Social spending": 11868.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2008,
+    "GDP": 61719.3,
+    "Social spending": 11547.5
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2009,
+    "GDP": 55372.4,
+    "Social spending": 13089.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "GDP": 57918,
+    "Social spending": 12780.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "GDP": 62077.8,
+    "Social spending": 12431.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "GDP": 65349.2,
+    "Social spending": 12560.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "GDP": 66956.3,
+    "Social spending": 12813.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "GDP": 65895.7,
+    "Social spending": 13473
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "GDP": 60357.3,
+    "Social spending": 14711.2
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2007,
+    "GDP": 29308.2,
+    "Social spending": 5830.2
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2008,
+    "GDP": 29782.1,
+    "Social spending": 6124.9
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2009,
+    "GDP": 30590.2,
+    "Social spending": 6504.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2010,
+    "GDP": 31164.9,
+    "Social spending": 6416.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2011,
+    "GDP": 32667.5,
+    "Social spending": 6420.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2012,
+    "GDP": 32912.1,
+    "Social spending": 6575.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2013,
+    "GDP": 36074.1,
+    "Social spending": 6425.9
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "GDP": 37060.9,
+    "Social spending": 6592.4
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "GDP": 37158.2,
+    "Social spending": 6612.5
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "GDP": 38783.7,
+    "Social spending": 6600.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "GDP": 40120.5,
+    "Social spending": 6536.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2007,
+    "GDP": 34064.6,
+    "Social spending": 6490.1
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2008,
+    "GDP": 34928.8,
+    "Social spending": 6726.8
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2009,
+    "GDP": 33982,
+    "Social spending": 7132.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "GDP": 35277.6,
+    "Social spending": 7203.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "GDP": 36668.4,
+    "Social spending": 7171.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "GDP": 37644,
+    "Social spending": 7232.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "GDP": 39003.5,
+    "Social spending": 7314.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "GDP": 40162.6,
+    "Social spending": 7404.3
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "GDP": 41339.8,
+    "Social spending": 7071.1
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2007,
+    "GDP": 16790,
+    "Social spending": 3674.6
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2008,
+    "GDP": 18315.1,
+    "Social spending": 3966.8
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2009,
+    "GDP": 19080.7,
+    "Social spending": 4259.4
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "GDP": 20789.2,
+    "Social spending": 4292.7
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "GDP": 22576.2,
+    "Social spending": 4247.8
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "GDP": 23542,
+    "Social spending": 4340.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "GDP": 24422.8,
+    "Social spending": 4612
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "GDP": 25298,
+    "Social spending": 4735
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2007,
+    "GDP": 25708.2,
+    "Social spending": 6012.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2008,
+    "GDP": 26665.8,
+    "Social spending": 6142.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2009,
+    "GDP": 26464.4,
+    "Social spending": 6586.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "GDP": 27259.8,
+    "Social spending": 6689.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "GDP": 26769.4,
+    "Social spending": 6554.3
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "GDP": 26438.1,
+    "Social spending": 6351.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "GDP": 27936,
+    "Social spending": 6583.7
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "GDP": 28742.3,
+    "Social spending": 6546.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "GDP": 29668.8,
+    "Social spending": 6418.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2007,
+    "GDP": 21079.1,
+    "Social spending": 3635.5
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2008,
+    "GDP": 23574.9,
+    "Social spending": 3847.1
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2009,
+    "GDP": 22925.8,
+    "Social spending": 4308.2
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "GDP": 24785.1,
+    "Social spending": 4465.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "GDP": 25836.3,
+    "Social spending": 4538.5
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "GDP": 26654,
+    "Social spending": 4646.6
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "GDP": 27899.6,
+    "Social spending": 4758.6
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "GDP": 28928.2,
+    "Social spending": 4902.3
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "GDP": 29699.5,
+    "Social spending": 5005.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2007,
+    "GDP": 27595.5,
+    "Social spending": 5761.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2008,
+    "GDP": 29625.9,
+    "Social spending": 5987.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2009,
+    "GDP": 27449.2,
+    "Social spending": 6187.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "GDP": 27736.1,
+    "Social spending": 6495.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "GDP": 28804.7,
+    "Social spending": 6555.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "GDP": 28906.4,
+    "Social spending": 6374.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "GDP": 29802.7,
+    "Social spending": 6371.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "GDP": 30847.3,
+    "Social spending": 6345.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "GDP": 31649,
+    "Social spending": 6364.5
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2007,
+    "GDP": 40592.8,
+    "Social spending": 10882.1
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2008,
+    "GDP": 41971.8,
+    "Social spending": 10765.5
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2009,
+    "GDP": 40156.5,
+    "Social spending": 10945.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "GDP": 42179.5,
+    "Social spending": 10929.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "GDP": 44503.7,
+    "Social spending": 10854.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "GDP": 45304.3,
+    "Social spending": 11128.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "GDP": 46138.4,
+    "Social spending": 11452.6
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "GDP": 47045.7,
+    "Social spending": 11476.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "GDP": 48974.9,
+    "Social spending": 11664.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2007,
+    "GDP": 14727.4,
+    "Social spending": 1879.6
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2008,
+    "GDP": 15910.7,
+    "Social spending": 1906.2
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2009,
+    "GDP": 15335.6,
+    "Social spending": 2101.8
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2010,
+    "GDP": 17231.7,
+    "Social spending": 2131.8
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2011,
+    "GDP": 19445.1,
+    "Social spending": 2247.8
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2012,
+    "GDP": 20473.4,
+    "Social spending": 2354.3
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2013,
+    "GDP": 22204.9,
+    "Social spending": 2482.5
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2014,
+    "GDP": 23982.6,
+    "Social spending": 2558.5
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2015,
+    "GDP": 25727.6,
+    "Social spending": 2656.9
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2016,
+    "GDP": 26329.8,
+    "Social spending": 2936.5
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2007,
+    "GDP": 47902.1,
+    "Social spending": 7900.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2008,
+    "GDP": 48311.2,
+    "Social spending": 8158
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2009,
+    "GDP": 47028.2,
+    "Social spending": 8915.4
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "GDP": 48393.6,
+    "Social spending": 9317.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "GDP": 49800.3,
+    "Social spending": 9277.2
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "GDP": 51521.5,
+    "Social spending": 9275.9
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "GDP": 53016.3,
+    "Social spending": 9364.7
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "GDP": 54952.5,
+    "Social spending": 9505.7
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "GDP": 56717.9,
+    "Social spending": 9734.4
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "GDP": 57821.7,
+    "Social spending": 9875.2
+  }
+]

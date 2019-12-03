@@ -1,0 +1,2132 @@
+[
+  {
+    "LOCATION": "AUS",
+    "TIME": 2007,
+    "Hours worked": 1722.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2008,
+    "Hours worked": 1720.9
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2009,
+    "Hours worked": 1692.3
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "Hours worked": 1699.9
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "Hours worked": 1699.9
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "Hours worked": 1692.5
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "Hours worked": 1689.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "Hours worked": 1683.3
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "Hours worked": 1683.5
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "Hours worked": 1673.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2017,
+    "Hours worked": 1674.9
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2007,
+    "Hours worked": 1612
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2008,
+    "Hours worked": 1605
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2009,
+    "Hours worked": 1564
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "Hours worked": 1557
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "Hours worked": 1562
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "Hours worked": 1540
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "Hours worked": 1525
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "Hours worked": 1516
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "Hours worked": 1500
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2016,
+    "Hours worked": 1512
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2017,
+    "Hours worked": 1511
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2007,
+    "Hours worked": 1577
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2008,
+    "Hours worked": 1570
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2009,
+    "Hours worked": 1548
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "Hours worked": 1546
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "Hours worked": 1560
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "Hours worked": 1560
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "Hours worked": 1558
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "Hours worked": 1545
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "Hours worked": 1545
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2016,
+    "Hours worked": 1545
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2017,
+    "Hours worked": 1545
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2007,
+    "Hours worked": 1744
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2008,
+    "Hours worked": 1741
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2009,
+    "Hours worked": 1712
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "Hours worked": 1715
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "Hours worked": 1713
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "Hours worked": 1722
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "Hours worked": 1716
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "Hours worked": 1710
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "Hours worked": 1712
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2016,
+    "Hours worked": 1706
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2017,
+    "Hours worked": 1695
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2007,
+    "Hours worked": 1668.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2008,
+    "Hours worked": 1659.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2009,
+    "Hours worked": 1650.8
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "Hours worked": 1624.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "Hours worked": 1619.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "Hours worked": 1603.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "Hours worked": 1582.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "Hours worked": 1575.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "Hours worked": 1589.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2016,
+    "Hours worked": 1589.7
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2017,
+    "Hours worked": 1570
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2007,
+    "Hours worked": 2128
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2008,
+    "Hours worked": 2095
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2009,
+    "Hours worked": 2074
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2010,
+    "Hours worked": 2070
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "Hours worked": 2047
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2012,
+    "Hours worked": 2024
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "Hours worked": 2015
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2014,
+    "Hours worked": 1990
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "Hours worked": 1988
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2016,
+    "Hours worked": 1974
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "Hours worked": 1954
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2007,
+    "Hours worked": 2387
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2008,
+    "Hours worked": 2392
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2009,
+    "Hours worked": 2348
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2010,
+    "Hours worked": 2243.1
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2011,
+    "Hours worked": 2285.3
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2012,
+    "Hours worked": 2233.4
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2013,
+    "Hours worked": 2140.6
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2014,
+    "Hours worked": 2121.7
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2015,
+    "Hours worked": 2148.2
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2016,
+    "Hours worked": 2204.7
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2017,
+    "Hours worked": 2178.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2007,
+    "Hours worked": 1784
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2008,
+    "Hours worked": 1790
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2009,
+    "Hours worked": 1779
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "Hours worked": 1800
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "Hours worked": 1806
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "Hours worked": 1776
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "Hours worked": 1763
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "Hours worked": 1777
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "Hours worked": 1756
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2016,
+    "Hours worked": 1779
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2017,
+    "Hours worked": 1784
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2007,
+    "Hours worked": 1424.4
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2008,
+    "Hours worked": 1418.4
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2009,
+    "Hours worked": 1372.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "Hours worked": 1389.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "Hours worked": 1392.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "Hours worked": 1375
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "Hours worked": 1362.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "Hours worked": 1366.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "Hours worked": 1369.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2016,
+    "Hours worked": 1362.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2017,
+    "Hours worked": 1360.4
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2007,
+    "Hours worked": 1433
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2008,
+    "Hours worked": 1430
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2009,
+    "Hours worked": 1417
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "Hours worked": 1422
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "Hours worked": 1437
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "Hours worked": 1423
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "Hours worked": 1426
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "Hours worked": 1414
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "Hours worked": 1407
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2016,
+    "Hours worked": 1412
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2017,
+    "Hours worked": 1405
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2007,
+    "Hours worked": 1703.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2008,
+    "Hours worked": 1712.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2009,
+    "Hours worked": 1719.7
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "Hours worked": 1710.4
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "Hours worked": 1715.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "Hours worked": 1701.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "Hours worked": 1693.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "Hours worked": 1694.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "Hours worked": 1699.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2016,
+    "Hours worked": 1701.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2017,
+    "Hours worked": 1690.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2007,
+    "Hours worked": 1929
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2008,
+    "Hours worked": 1900
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2009,
+    "Hours worked": 1769
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "Hours worked": 1810
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "Hours worked": 1852
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "Hours worked": 1820
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "Hours worked": 1801
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "Hours worked": 1795
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "Hours worked": 1788
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2016,
+    "Hours worked": 1791
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2017,
+    "Hours worked": 1792
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2007,
+    "Hours worked": 1614
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2008,
+    "Hours worked": 1608
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2009,
+    "Hours worked": 1585
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "Hours worked": 1592
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "Hours worked": 1587
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "Hours worked": 1575
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "Hours worked": 1565
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "Hours worked": 1562
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "Hours worked": 1563
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2016,
+    "Hours worked": 1560
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2017,
+    "Hours worked": 1556
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2007,
+    "Hours worked": 1537
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2008,
+    "Hours worked": 1543
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2009,
+    "Hours worked": 1531
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "Hours worked": 1540
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "Hours worked": 1546
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "Hours worked": 1541
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "Hours worked": 1526
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "Hours worked": 1518
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "Hours worked": 1519
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2016,
+    "Hours worked": 1526
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2017,
+    "Hours worked": 1522
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2007,
+    "Hours worked": 1541
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2008,
+    "Hours worked": 1521
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2009,
+    "Hours worked": 1516
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "Hours worked": 1506
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "Hours worked": 1518
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "Hours worked": 1531
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "Hours worked": 1541
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "Hours worked": 1547
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "Hours worked": 1531
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2016,
+    "Hours worked": 1545
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2017,
+    "Hours worked": 1543
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2007,
+    "Hours worked": 2019
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2008,
+    "Hours worked": 2015
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2009,
+    "Hours worked": 1991
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "Hours worked": 1932
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "Hours worked": 1949
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "Hours worked": 1966
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "Hours worked": 1970
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "Hours worked": 1933
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "Hours worked": 1943
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2016,
+    "Hours worked": 1942
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2017,
+    "Hours worked": 1956
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2007,
+    "Hours worked": 1795
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2008,
+    "Hours worked": 1798
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2009,
+    "Hours worked": 1781
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "Hours worked": 1777
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "Hours worked": 1769.9
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "Hours worked": 1750
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "Hours worked": 1744.6
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "Hours worked": 1751.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "Hours worked": 1748.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2016,
+    "Hours worked": 1760
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2017,
+    "Hours worked": 1741.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2007,
+    "Hours worked": 1763
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2008,
+    "Hours worked": 1743
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2009,
+    "Hours worked": 1713
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "Hours worked": 1702
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "Hours worked": 1702
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "Hours worked": 1707
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "Hours worked": 1720
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "Hours worked": 1731
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "Hours worked": 1741
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2016,
+    "Hours worked": 1739
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2017,
+    "Hours worked": 1738
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2007,
+    "Hours worked": 1608
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2008,
+    "Hours worked": 1610
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2009,
+    "Hours worked": 1523
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "Hours worked": 1514
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "Hours worked": 1524
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "Hours worked": 1510
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "Hours worked": 1510
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "Hours worked": 1503
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "Hours worked": 1504
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2016,
+    "Hours worked": 1494
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2017,
+    "Hours worked": 1483
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2007,
+    "Hours worked": 1966.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2008,
+    "Hours worked": 1963.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2009,
+    "Hours worked": 1962.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "Hours worked": 1956.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "Hours worked": 1947.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "Hours worked": 1918.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "Hours worked": 1908.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "Hours worked": 1894.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "Hours worked": 1895.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "Hours worked": 1922.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "Hours worked": 1918
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2007,
+    "Hours worked": 1818.2
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2008,
+    "Hours worked": 1807
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2009,
+    "Hours worked": 1775.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "Hours worked": 1777.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "Hours worked": 1773.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "Hours worked": 1734.2
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "Hours worked": 1719.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "Hours worked": 1717.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "Hours worked": 1718
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2016,
+    "Hours worked": 1721.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2017,
+    "Hours worked": 1719
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2007,
+    "Hours worked": 1785
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2008,
+    "Hours worked": 1771
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2009,
+    "Hours worked": 1714
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2010,
+    "Hours worked": 1733
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2011,
+    "Hours worked": 1728
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2012,
+    "Hours worked": 1745
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2013,
+    "Hours worked": 1734
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2014,
+    "Hours worked": 1729
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2015,
+    "Hours worked": 1719
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2016,
+    "Hours worked": 1714
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2017,
+    "Hours worked": 1709
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2008,
+    "Hours worked": 2228
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2009,
+    "Hours worked": 2174
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "Hours worked": 2163
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "Hours worked": 2136
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "Hours worked": 2119
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "Hours worked": 2106
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "Hours worked": 2076
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "Hours worked": 2083
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "Hours worked": 2068
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "Hours worked": 2018
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2007,
+    "Hours worked": 1660
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2008,
+    "Hours worked": 1686
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2009,
+    "Hours worked": 1625
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "Hours worked": 1643
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "Hours worked": 1621
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "Hours worked": 1620
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "Hours worked": 1606
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "Hours worked": 1599
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "Hours worked": 1622
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2016,
+    "Hours worked": 1644
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2017,
+    "Hours worked": 1608
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2007,
+    "Hours worked": 1566
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2008,
+    "Hours worked": 1567
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2009,
+    "Hours worked": 1517
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "Hours worked": 1517
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "Hours worked": 1515
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "Hours worked": 1508
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "Hours worked": 1503
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "Hours worked": 1506
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "Hours worked": 1514
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2016,
+    "Hours worked": 1513
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2017,
+    "Hours worked": 1507
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2007,
+    "Hours worked": 1687
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2008,
+    "Hours worked": 1799
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2009,
+    "Hours worked": 1754
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "Hours worked": 1738
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "Hours worked": 1753
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "Hours worked": 1738
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "Hours worked": 1732
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "Hours worked": 1741
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "Hours worked": 1708
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2016,
+    "Hours worked": 1709
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2017,
+    "Hours worked": 1695
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2007,
+    "Hours worked": 2045
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2008,
+    "Hours worked": 2105
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2009,
+    "Hours worked": 1973
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "Hours worked": 2150
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "Hours worked": 2121
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "Hours worked": 2120
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "Hours worked": 2136
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "Hours worked": 2134
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "Hours worked": 2140
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "Hours worked": 2146
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2017,
+    "Hours worked": 2148
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2007,
+    "Hours worked": 1429
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2008,
+    "Hours worked": 1429
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2009,
+    "Hours worked": 1420
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "Hours worked": 1420
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "Hours worked": 1420
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "Hours worked": 1411
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "Hours worked": 1415
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "Hours worked": 1426
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "Hours worked": 1426
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2016,
+    "Hours worked": 1438
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2017,
+    "Hours worked": 1435
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2007,
+    "Hours worked": 1426
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2008,
+    "Hours worked": 1429.5
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2009,
+    "Hours worked": 1406.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "Hours worked": 1415.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "Hours worked": 1421.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "Hours worked": 1419.7
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "Hours worked": 1408.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "Hours worked": 1426.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "Hours worked": 1423.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2016,
+    "Hours worked": 1424.4
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2017,
+    "Hours worked": 1419.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2007,
+    "Hours worked": 1774
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2008,
+    "Hours worked": 1761
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2009,
+    "Hours worked": 1740
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2010,
+    "Hours worked": 1755
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2011,
+    "Hours worked": 1746
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2012,
+    "Hours worked": 1734
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2013,
+    "Hours worked": 1752
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "Hours worked": 1762
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "Hours worked": 1757
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "Hours worked": 1752
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "Hours worked": 1753
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2007,
+    "Hours worked": 1768
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2008,
+    "Hours worked": 1766
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2009,
+    "Hours worked": 1731
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "Hours worked": 1751
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "Hours worked": 1750
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "Hours worked": 1748
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "Hours worked": 1744
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "Hours worked": 1742
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "Hours worked": 1743
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2016,
+    "Hours worked": 1743
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2017,
+    "Hours worked": 1737
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2007,
+    "Hours worked": 1859
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2008,
+    "Hours worked": 1852
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2009,
+    "Hours worked": 1838
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "Hours worked": 1834
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "Hours worked": 1829
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "Hours worked": 1824
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "Hours worked": 1821
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "Hours worked": 1827
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2015,
+    "Hours worked": 1834
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2016,
+    "Hours worked": 1836
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2017,
+    "Hours worked": 1815
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2007,
+    "Hours worked": 1745
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2008,
+    "Hours worked": 1733
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2009,
+    "Hours worked": 1733
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "Hours worked": 1735
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "Hours worked": 1714
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "Hours worked": 1698
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "Hours worked": 1707
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "Hours worked": 1714
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "Hours worked": 1722
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2016,
+    "Hours worked": 1725
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2017,
+    "Hours worked": 1727
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2007,
+    "Hours worked": 1999
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2008,
+    "Hours worked": 1997
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2009,
+    "Hours worked": 1974
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2010,
+    "Hours worked": 1976
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2011,
+    "Hours worked": 1979
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2012,
+    "Hours worked": 1982
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2013,
+    "Hours worked": 1980
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2014,
+    "Hours worked": 1985
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2015,
+    "Hours worked": 1978
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2016,
+    "Hours worked": 1974
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2017,
+    "Hours worked": 1980
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2007,
+    "Hours worked": 1791
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2008,
+    "Hours worked": 1793
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2009,
+    "Hours worked": 1780
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "Hours worked": 1805
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "Hours worked": 1793
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "Hours worked": 1789
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "Hours worked": 1772
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "Hours worked": 1760
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "Hours worked": 1754
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2016,
+    "Hours worked": 1740
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2017,
+    "Hours worked": 1714
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2007,
+    "Hours worked": 1654.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2008,
+    "Hours worked": 1673.7
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2009,
+    "Hours worked": 1678.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "Hours worked": 1680.1
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "Hours worked": 1663.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "Hours worked": 1644.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "Hours worked": 1662.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "Hours worked": 1681.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "Hours worked": 1687.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2016,
+    "Hours worked": 1652.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2017,
+    "Hours worked": 1621.7
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2007,
+    "Hours worked": 1472
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2008,
+    "Hours worked": 1477
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2009,
+    "Hours worked": 1470
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "Hours worked": 1494
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "Hours worked": 1491
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "Hours worked": 1478
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "Hours worked": 1470
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "Hours worked": 1470
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "Hours worked": 1471
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2016,
+    "Hours worked": 1482
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2017,
+    "Hours worked": 1470
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2007,
+    "Hours worked": 1911
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2008,
+    "Hours worked": 1900
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2009,
+    "Hours worked": 1881
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2010,
+    "Hours worked": 1877
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2011,
+    "Hours worked": 1864.2
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2012,
+    "Hours worked": 1855.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2013,
+    "Hours worked": 1832
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2014,
+    "Hours worked": 1832
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2015,
+    "Hours worked": 1832
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2007,
+    "Hours worked": 1795
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2008,
+    "Hours worked": 1787
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2009,
+    "Hours worked": 1762
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "Hours worked": 1773
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "Hours worked": 1780
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "Hours worked": 1783
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "Hours worked": 1781
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "Hours worked": 1784
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "Hours worked": 1785
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "Hours worked": 1781
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2017,
+    "Hours worked": 1780
+  }
+]

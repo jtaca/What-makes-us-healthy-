@@ -1,0 +1,2312 @@
+[
+  {
+    "LOCATION": "AUS",
+    "TIME": 2007,
+    "Employment rate": 72.8
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2008,
+    "Employment rate": 73.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2009,
+    "Employment rate": 72.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "Employment rate": 72.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "Employment rate": 72.7
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "Employment rate": 72.3
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "Employment rate": 72
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "Employment rate": 71.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "Employment rate": 72.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "Employment rate": 72.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2017,
+    "Employment rate": 73
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2007,
+    "Employment rate": 69.9
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2008,
+    "Employment rate": 70.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2009,
+    "Employment rate": 70.3
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "Employment rate": 70.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "Employment rate": 71.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "Employment rate": 71.4
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "Employment rate": 71.4
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "Employment rate": 71.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "Employment rate": 71.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2016,
+    "Employment rate": 71.5
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2017,
+    "Employment rate": 72.2
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2007,
+    "Employment rate": 62
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2008,
+    "Employment rate": 62.4
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2009,
+    "Employment rate": 61.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "Employment rate": 62
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "Employment rate": 61.9
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "Employment rate": 61.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "Employment rate": 61.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "Employment rate": 61.9
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "Employment rate": 61.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2016,
+    "Employment rate": 62.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2017,
+    "Employment rate": 63.1
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2007,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2008,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2009,
+    "Employment rate": 71.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "Employment rate": 71.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "Employment rate": 71.8
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "Employment rate": 72
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "Employment rate": 72.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "Employment rate": 72.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "Employment rate": 72.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2016,
+    "Employment rate": 72.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2017,
+    "Employment rate": 73.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2007,
+    "Employment rate": 78.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2008,
+    "Employment rate": 79.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2009,
+    "Employment rate": 79
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "Employment rate": 77.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "Employment rate": 78.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "Employment rate": 78.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "Employment rate": 78.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "Employment rate": 78.8
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "Employment rate": 79.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2016,
+    "Employment rate": 79.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2017,
+    "Employment rate": 79.8
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2007,
+    "Employment rate": 56.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2008,
+    "Employment rate": 57.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2009,
+    "Employment rate": 56.1
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2010,
+    "Employment rate": 59.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "Employment rate": 61.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2012,
+    "Employment rate": 61.8
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "Employment rate": 62.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2014,
+    "Employment rate": 62.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "Employment rate": 62.4
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2016,
+    "Employment rate": 62.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "Employment rate": 62.7
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2007,
+    "Employment rate": 60.2
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2008,
+    "Employment rate": 60.5
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2009,
+    "Employment rate": 62.3
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2010,
+    "Employment rate": 63.7
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2011,
+    "Employment rate": 65.1
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2012,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2013,
+    "Employment rate": 66.5
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2014,
+    "Employment rate": 67.1
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2015,
+    "Employment rate": 67.6
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2016,
+    "Employment rate": 67.2
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2017,
+    "Employment rate": 66.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2007,
+    "Employment rate": 66.1
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2008,
+    "Employment rate": 66.5
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2009,
+    "Employment rate": 65.4
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "Employment rate": 65
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "Employment rate": 65.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "Employment rate": 66.5
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "Employment rate": 67.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "Employment rate": 69
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "Employment rate": 70.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2016,
+    "Employment rate": 72
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2017,
+    "Employment rate": 73.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2007,
+    "Employment rate": 69
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2008,
+    "Employment rate": 70.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2009,
+    "Employment rate": 70.3
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "Employment rate": 71.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "Employment rate": 72.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "Employment rate": 73
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "Employment rate": 73.8
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "Employment rate": 74
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2016,
+    "Employment rate": 74.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2017,
+    "Employment rate": 75.2
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2007,
+    "Employment rate": 77
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2008,
+    "Employment rate": 77.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2009,
+    "Employment rate": 75.4
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "Employment rate": 73.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "Employment rate": 73.2
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "Employment rate": 72.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "Employment rate": 72.5
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "Employment rate": 72.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2016,
+    "Employment rate": 74.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2017,
+    "Employment rate": 74.2
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2007,
+    "Employment rate": 65.4
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2008,
+    "Employment rate": 65.8
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2009,
+    "Employment rate": 64.3
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2010,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2011,
+    "Employment rate": 64.2
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2012,
+    "Employment rate": 63.7
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2013,
+    "Employment rate": 63.5
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2014,
+    "Employment rate": 63.8
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2015,
+    "Employment rate": 64.5
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2016,
+    "Employment rate": 65.4
+  },
+  {
+    "LOCATION": "EA1",
+    "TIME": 2017,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2007,
+    "Employment rate": 65.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2008,
+    "Employment rate": 64.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2009,
+    "Employment rate": 60
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "Employment rate": 58.9
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "Employment rate": 58
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "Employment rate": 55.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "Employment rate": 54.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "Employment rate": 56
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "Employment rate": 57.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2016,
+    "Employment rate": 59.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2017,
+    "Employment rate": 61.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2007,
+    "Employment rate": 69.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2008,
+    "Employment rate": 70.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2009,
+    "Employment rate": 63.8
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "Employment rate": 61.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "Employment rate": 65.3
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "Employment rate": 67.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "Employment rate": 68.5
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "Employment rate": 69.6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "Employment rate": 71.9
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2016,
+    "Employment rate": 72.1
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2017,
+    "Employment rate": 74.1
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2007,
+    "Employment rate": 65.2
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2008,
+    "Employment rate": 65.7
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2009,
+    "Employment rate": 64.4
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2010,
+    "Employment rate": 64.1
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2011,
+    "Employment rate": 64.2
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2012,
+    "Employment rate": 64.1
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2013,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2014,
+    "Employment rate": 64.8
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2015,
+    "Employment rate": 65.6
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2016,
+    "Employment rate": 66.6
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2017,
+    "Employment rate": 67.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2007,
+    "Employment rate": 70.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2008,
+    "Employment rate": 71
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2009,
+    "Employment rate": 68.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "Employment rate": 68.2
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "Employment rate": 69
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "Employment rate": 69.4
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "Employment rate": 68.9
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "Employment rate": 68.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "Employment rate": 68.5
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2016,
+    "Employment rate": 69.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2017,
+    "Employment rate": 70
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2007,
+    "Employment rate": 64.3
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2008,
+    "Employment rate": 64.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2009,
+    "Employment rate": 64.1
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "Employment rate": 63.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "Employment rate": 63.6
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "Employment rate": 63.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2016,
+    "Employment rate": 64.2
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2017,
+    "Employment rate": 64.7
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2007,
+    "Employment rate": 69.6
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2008,
+    "Employment rate": 69.5
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2009,
+    "Employment rate": 67.6
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2010,
+    "Employment rate": 67.2
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2011,
+    "Employment rate": 67.5
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2012,
+    "Employment rate": 67.7
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2013,
+    "Employment rate": 68
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2014,
+    "Employment rate": 68.6
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2015,
+    "Employment rate": 69.1
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2016,
+    "Employment rate": 69.9
+  },
+  {
+    "LOCATION": "G-7",
+    "TIME": 2017,
+    "Employment rate": 70.6
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2007,
+    "Employment rate": 71.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2008,
+    "Employment rate": 71.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2009,
+    "Employment rate": 69.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "Employment rate": 69.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "Employment rate": 69.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "Employment rate": 70
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "Employment rate": 70.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "Employment rate": 71.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "Employment rate": 72.7
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2016,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2017,
+    "Employment rate": 74.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2007,
+    "Employment rate": 60.9
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2008,
+    "Employment rate": 61.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2009,
+    "Employment rate": 60.9
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "Employment rate": 59.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "Employment rate": 55.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "Employment rate": 50.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "Employment rate": 48.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "Employment rate": 49.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "Employment rate": 50.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2016,
+    "Employment rate": 52
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2017,
+    "Employment rate": 53.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2007,
+    "Employment rate": 57
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2008,
+    "Employment rate": 56.4
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2009,
+    "Employment rate": 55
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "Employment rate": 55
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "Employment rate": 55.4
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "Employment rate": 56.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "Employment rate": 58.1
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "Employment rate": 61.8
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2016,
+    "Employment rate": 66.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2017,
+    "Employment rate": 68.2
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2007,
+    "Employment rate": 71.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2008,
+    "Employment rate": 69.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2009,
+    "Employment rate": 63.6
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "Employment rate": 61
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "Employment rate": 60
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "Employment rate": 59.9
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "Employment rate": 61.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "Employment rate": 63.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "Employment rate": 64.8
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2016,
+    "Employment rate": 66.4
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2017,
+    "Employment rate": 67.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2007,
+    "Employment rate": 85.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2008,
+    "Employment rate": 83.6
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2009,
+    "Employment rate": 78.3
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "Employment rate": 78.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "Employment rate": 78.5
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "Employment rate": 79.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "Employment rate": 81.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "Employment rate": 83
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "Employment rate": 84.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2016,
+    "Employment rate": 86.5
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2017,
+    "Employment rate": 86.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2007,
+    "Employment rate": 58.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2008,
+    "Employment rate": 59.8
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2009,
+    "Employment rate": 59.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "Employment rate": 60.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "Employment rate": 60.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "Employment rate": 66.5
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "Employment rate": 67.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "Employment rate": 67.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "Employment rate": 68.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "Employment rate": 68.6
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "Employment rate": 69
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2007,
+    "Employment rate": 58.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2008,
+    "Employment rate": 58.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2009,
+    "Employment rate": 57.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "Employment rate": 56.8
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "Employment rate": 56.8
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "Employment rate": 56.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "Employment rate": 55.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "Employment rate": 55.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "Employment rate": 56.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2016,
+    "Employment rate": 57.2
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2017,
+    "Employment rate": 58
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2007,
+    "Employment rate": 70.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2008,
+    "Employment rate": 70.9
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2009,
+    "Employment rate": 70.2
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2010,
+    "Employment rate": 70.3
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2011,
+    "Employment rate": 70.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2012,
+    "Employment rate": 70.6
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2013,
+    "Employment rate": 71.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2014,
+    "Employment rate": 72.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2015,
+    "Employment rate": 73.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2016,
+    "Employment rate": 74.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2017,
+    "Employment rate": 75.3
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2007,
+    "Employment rate": 64.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2008,
+    "Employment rate": 64
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2009,
+    "Employment rate": 63
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "Employment rate": 63.4
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "Employment rate": 63.9
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "Employment rate": 64.3
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "Employment rate": 64.6
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "Employment rate": 65.6
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "Employment rate": 65.9
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "Employment rate": 66.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "Employment rate": 66.6
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2007,
+    "Employment rate": 65
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2008,
+    "Employment rate": 64.4
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2009,
+    "Employment rate": 59.9
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "Employment rate": 57.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "Employment rate": 60.2
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "Employment rate": 62
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "Employment rate": 63.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "Employment rate": 65.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "Employment rate": 67.2
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2016,
+    "Employment rate": 69.4
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2017,
+    "Employment rate": 70.4
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2007,
+    "Employment rate": 64.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2008,
+    "Employment rate": 63.4
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2009,
+    "Employment rate": 65.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "Employment rate": 65.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "Employment rate": 64.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "Employment rate": 65.8
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "Employment rate": 65.7
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "Employment rate": 66.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "Employment rate": 66.2
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2016,
+    "Employment rate": 65.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2017,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2007,
+    "Employment rate": 68.1
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2008,
+    "Employment rate": 68.2
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2009,
+    "Employment rate": 60.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "Employment rate": 58.5
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "Employment rate": 60.8
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "Employment rate": 63
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "Employment rate": 65
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "Employment rate": 68.1
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2016,
+    "Employment rate": 68.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2017,
+    "Employment rate": 70.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2007,
+    "Employment rate": 61
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2008,
+    "Employment rate": 60.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2009,
+    "Employment rate": 59.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "Employment rate": 59.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "Employment rate": 60
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "Employment rate": 60.9
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "Employment rate": 60.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "Employment rate": 60.4
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "Employment rate": 60.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "Employment rate": 61
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2017,
+    "Employment rate": 61.1
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2007,
+    "Employment rate": 73.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2008,
+    "Employment rate": 74.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2009,
+    "Employment rate": 74.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "Employment rate": 73.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "Employment rate": 74.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "Employment rate": 74.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "Employment rate": 73.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "Employment rate": 73.1
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "Employment rate": 74.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2016,
+    "Employment rate": 74.8
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2017,
+    "Employment rate": 75.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2007,
+    "Employment rate": 76.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2008,
+    "Employment rate": 78
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2009,
+    "Employment rate": 76.4
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "Employment rate": 75.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "Employment rate": 75.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "Employment rate": 75.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "Employment rate": 75.4
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "Employment rate": 75.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "Employment rate": 74.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2016,
+    "Employment rate": 74.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2017,
+    "Employment rate": 74
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2007,
+    "Employment rate": 75.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2008,
+    "Employment rate": 74.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2009,
+    "Employment rate": 72.8
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2010,
+    "Employment rate": 72.2
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2011,
+    "Employment rate": 72.5
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2012,
+    "Employment rate": 72
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2013,
+    "Employment rate": 72.8
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "Employment rate": 74.2
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "Employment rate": 74.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "Employment rate": 75.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "Employment rate": 76.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2007,
+    "Employment rate": 66.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2008,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2009,
+    "Employment rate": 64.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "Employment rate": 64.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "Employment rate": 64.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "Employment rate": 64.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "Employment rate": 65.1
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "Employment rate": 65.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "Employment rate": 66.3
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2016,
+    "Employment rate": 67
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2017,
+    "Employment rate": 67.7
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2007,
+    "Employment rate": 57
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2008,
+    "Employment rate": 59.2
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2009,
+    "Employment rate": 59.4
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "Employment rate": 59
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "Employment rate": 59.3
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "Employment rate": 59.7
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "Employment rate": 60
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "Employment rate": 61.7
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2015,
+    "Employment rate": 62.9
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2016,
+    "Employment rate": 64.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2017,
+    "Employment rate": 66.1
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2007,
+    "Employment rate": 67.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2008,
+    "Employment rate": 68
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2009,
+    "Employment rate": 66.1
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "Employment rate": 65.3
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "Employment rate": 63.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "Employment rate": 61.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "Employment rate": 60.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "Employment rate": 62.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "Employment rate": 63.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2016,
+    "Employment rate": 65.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2017,
+    "Employment rate": 67.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2007,
+    "Employment rate": 60.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2008,
+    "Employment rate": 62.2
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2009,
+    "Employment rate": 60.2
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "Employment rate": 58.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "Employment rate": 59.3
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "Employment rate": 59.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "Employment rate": 59.9
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "Employment rate": 61
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "Employment rate": 62.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2016,
+    "Employment rate": 64.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2017,
+    "Employment rate": 66.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2007,
+    "Employment rate": 67.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2008,
+    "Employment rate": 68.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2009,
+    "Employment rate": 67.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "Employment rate": 66.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "Employment rate": 64.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "Employment rate": 64.1
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "Employment rate": 63.3
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "Employment rate": 63.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "Employment rate": 65.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2016,
+    "Employment rate": 65.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2017,
+    "Employment rate": 69.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2007,
+    "Employment rate": 74.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2008,
+    "Employment rate": 74.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2009,
+    "Employment rate": 72.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "Employment rate": 72.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "Employment rate": 73.6
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "Employment rate": 73.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "Employment rate": 74.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "Employment rate": 74.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "Employment rate": 75.5
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2016,
+    "Employment rate": 76.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2017,
+    "Employment rate": 76.8
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2007,
+    "Employment rate": 44.6
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2008,
+    "Employment rate": 44.9
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2009,
+    "Employment rate": 44.2
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2010,
+    "Employment rate": 46.3
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2011,
+    "Employment rate": 48.4
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2012,
+    "Employment rate": 48.9
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2013,
+    "Employment rate": 49.5
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2014,
+    "Employment rate": 49.5
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2015,
+    "Employment rate": 50.1
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2016,
+    "Employment rate": 50.6
+  },
+  {
+    "LOCATION": "TUR",
+    "TIME": 2017,
+    "Employment rate": 51.5
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2007,
+    "Employment rate": 71.8
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2008,
+    "Employment rate": 70.9
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2009,
+    "Employment rate": 67.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "Employment rate": 66.7
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "Employment rate": 66.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "Employment rate": 67.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "Employment rate": 67.4
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "Employment rate": 68.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "Employment rate": 68.7
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "Employment rate": 69.4
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2017,
+    "Employment rate": 70.1
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2007,
+    "Employment rate": 44.4
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2008,
+    "Employment rate": 45.9
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2009,
+    "Employment rate": 43.9
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2010,
+    "Employment rate": 41.8
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2011,
+    "Employment rate": 41.9
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2012,
+    "Employment rate": 42.2
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2013,
+    "Employment rate": 42.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2014,
+    "Employment rate": 42.8
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2015,
+    "Employment rate": 43.7
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2016,
+    "Employment rate": 43
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2017,
+    "Employment rate": 43.4
+  }
+]

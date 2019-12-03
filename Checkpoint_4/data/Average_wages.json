@@ -1,0 +1,1982 @@
+[
+  {
+    "LOCATION": "AUS",
+    "TIME": 2007,
+    "Average Wages": 50565.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2008,
+    "Average Wages": 50973.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2009,
+    "Average Wages": 50511
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "Average Wages": 52253
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "Average Wages": 53905.8
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "Average Wages": 54226.2
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "Average Wages": 53977.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "Average Wages": 54391.8
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "Average Wages": 53946.3
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "Average Wages": 53971.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2017,
+    "Average Wages": 53507.3
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2007,
+    "Average Wages": 48644.6
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2008,
+    "Average Wages": 49509.4
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2009,
+    "Average Wages": 50312.2
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "Average Wages": 50096.7
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "Average Wages": 49578.9
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "Average Wages": 49835.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "Average Wages": 49896.5
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "Average Wages": 50082.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "Average Wages": 50373.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2016,
+    "Average Wages": 50906
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2017,
+    "Average Wages": 50851.4
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2007,
+    "Average Wages": 50575.4
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2008,
+    "Average Wages": 50725
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2009,
+    "Average Wages": 51159.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "Average Wages": 50872.5
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "Average Wages": 51204.9
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "Average Wages": 51550.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "Average Wages": 52221.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "Average Wages": 52514.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "Average Wages": 52120.1
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2016,
+    "Average Wages": 51951.7
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2017,
+    "Average Wages": 51736.1
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2007,
+    "Average Wages": 43968.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2008,
+    "Average Wages": 44810.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2009,
+    "Average Wages": 45309
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "Average Wages": 45502.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "Average Wages": 46203.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "Average Wages": 47275.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "Average Wages": 48191.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "Average Wages": 48717.5
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "Average Wages": 48979.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2016,
+    "Average Wages": 47793.4
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2017,
+    "Average Wages": 48247.1
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2007,
+    "Average Wages": 60304.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2008,
+    "Average Wages": 60629.7
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2009,
+    "Average Wages": 61856.1
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "Average Wages": 62002.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "Average Wages": 62107.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "Average Wages": 63207.3
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "Average Wages": 64180.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "Average Wages": 64284.5
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "Average Wages": 64222.8
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2016,
+    "Average Wages": 64063.9
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2017,
+    "Average Wages": 63899.9
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2007,
+    "Average Wages": 21967.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2008,
+    "Average Wages": 22409.1
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2009,
+    "Average Wages": 24037.7
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2010,
+    "Average Wages": 24960.8
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "Average Wages": 25106.4
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2012,
+    "Average Wages": 25914.9
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "Average Wages": 26583.8
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2014,
+    "Average Wages": 26803.5
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "Average Wages": 26759.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2016,
+    "Average Wages": 27655.3
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "Average Wages": 26766.6
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2007,
+    "Average Wages": 22412.3
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2008,
+    "Average Wages": 22423
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2009,
+    "Average Wages": 22371.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "Average Wages": 22944.5
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "Average Wages": 23102
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "Average Wages": 23089.7
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "Average Wages": 22846.1
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "Average Wages": 23324.3
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "Average Wages": 23962.8
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2016,
+    "Average Wages": 24778.2
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2017,
+    "Average Wages": 25804.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2007,
+    "Average Wages": 43802.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2008,
+    "Average Wages": 44079.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2009,
+    "Average Wages": 44253.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "Average Wages": 44451.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "Average Wages": 45209.4
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "Average Wages": 45725.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "Average Wages": 46277.2
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "Average Wages": 47010
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "Average Wages": 48034.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2016,
+    "Average Wages": 48709.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2017,
+    "Average Wages": 49161.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2007,
+    "Average Wages": 49771.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2008,
+    "Average Wages": 50445.5
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2009,
+    "Average Wages": 51668.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "Average Wages": 52263.9
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "Average Wages": 51993.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "Average Wages": 51923.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "Average Wages": 52260.7
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "Average Wages": 53260.7
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "Average Wages": 54196.9
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2016,
+    "Average Wages": 55032.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2017,
+    "Average Wages": 54722.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2007,
+    "Average Wages": 37589.7
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2008,
+    "Average Wages": 39102.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2009,
+    "Average Wages": 41750.9
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "Average Wages": 41034.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "Average Wages": 40452.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "Average Wages": 39301.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "Average Wages": 39391.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "Average Wages": 39397.8
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "Average Wages": 40087.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2016,
+    "Average Wages": 39860.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2017,
+    "Average Wages": 39073.3
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2007,
+    "Average Wages": 21771.9
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2008,
+    "Average Wages": 22052.8
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2009,
+    "Average Wages": 21304.5
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "Average Wages": 21192.4
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "Average Wages": 20320.6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "Average Wages": 21161.9
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "Average Wages": 21459.6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "Average Wages": 22570.8
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "Average Wages": 23436.4
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2016,
+    "Average Wages": 24691.3
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2017,
+    "Average Wages": 25368.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2007,
+    "Average Wages": 42110.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2008,
+    "Average Wages": 42518.6
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2009,
+    "Average Wages": 42861.7
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "Average Wages": 43535.2
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "Average Wages": 43684.9
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "Average Wages": 43715.2
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "Average Wages": 43245.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "Average Wages": 43229.1
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "Average Wages": 43617.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2016,
+    "Average Wages": 43968.9
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2017,
+    "Average Wages": 43801.9
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2007,
+    "Average Wages": 40386.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2008,
+    "Average Wages": 40308.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2009,
+    "Average Wages": 41589.7
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "Average Wages": 42435.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "Average Wages": 42370.3
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "Average Wages": 42654.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "Average Wages": 43012.5
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "Average Wages": 43308.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "Average Wages": 43731.7
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2016,
+    "Average Wages": 44220.3
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2017,
+    "Average Wages": 44469
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2007,
+    "Average Wages": 45881.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2008,
+    "Average Wages": 44679.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2009,
+    "Average Wages": 45455.2
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "Average Wages": 45526.6
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "Average Wages": 44375.7
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "Average Wages": 44006.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "Average Wages": 44141.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "Average Wages": 43782.3
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "Average Wages": 44125.7
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2016,
+    "Average Wages": 44465.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2017,
+    "Average Wages": 44589.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2007,
+    "Average Wages": 32739.7
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2008,
+    "Average Wages": 32246.4
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2009,
+    "Average Wages": 33761.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "Average Wages": 31510.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "Average Wages": 29445.3
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "Average Wages": 28108
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "Average Wages": 26289.8
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "Average Wages": 26803.2
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "Average Wages": 26585.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2016,
+    "Average Wages": 26506.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2017,
+    "Average Wages": 26486.3
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2007,
+    "Average Wages": 21951.7
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2008,
+    "Average Wages": 22199.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2009,
+    "Average Wages": 21364.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "Average Wages": 21617.8
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "Average Wages": 21604.2
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "Average Wages": 20852.3
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "Average Wages": 20893.4
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "Average Wages": 20707.5
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "Average Wages": 20150.1
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2016,
+    "Average Wages": 21077.6
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2017,
+    "Average Wages": 22492.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2007,
+    "Average Wages": 43479.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2008,
+    "Average Wages": 44888.4
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2009,
+    "Average Wages": 48160
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "Average Wages": 48697.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "Average Wages": 48764.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "Average Wages": 48153.4
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "Average Wages": 46724.8
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "Average Wages": 46314.7
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "Average Wages": 47244.9
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2016,
+    "Average Wages": 47709
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2017,
+    "Average Wages": 47302.8
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2007,
+    "Average Wages": 59636.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2008,
+    "Average Wages": 52850.9
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2009,
+    "Average Wages": 44701.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "Average Wages": 45951.9
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "Average Wages": 48156.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "Average Wages": 48049.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "Average Wages": 48858.2
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "Average Wages": 49471.5
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "Average Wages": 53261.7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2016,
+    "Average Wages": 58131.1
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2017,
+    "Average Wages": 64415.1
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2007,
+    "Average Wages": 37025.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2008,
+    "Average Wages": 36073.7
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2009,
+    "Average Wages": 35294.3
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "Average Wages": 34997.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "Average Wages": 35274.9
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "Average Wages": 33166.7
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "Average Wages": 33428.2
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "Average Wages": 33516
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "Average Wages": 34481.7
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "Average Wages": 35701.4
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "Average Wages": 36678.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2007,
+    "Average Wages": 38448.9
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2008,
+    "Average Wages": 38488.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2009,
+    "Average Wages": 38680.9
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "Average Wages": 39051.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "Average Wages": 38438.7
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "Average Wages": 37279.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "Average Wages": 37338.3
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "Average Wages": 37481.9
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "Average Wages": 37793.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2016,
+    "Average Wages": 38059.9
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2017,
+    "Average Wages": 37696.6
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2007,
+    "Average Wages": 39872.6
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2008,
+    "Average Wages": 39848
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2009,
+    "Average Wages": 39470.3
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2010,
+    "Average Wages": 40175.2
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2011,
+    "Average Wages": 41082.1
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2012,
+    "Average Wages": 40380.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2013,
+    "Average Wages": 40352.8
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2014,
+    "Average Wages": 39633.3
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2015,
+    "Average Wages": 39591.6
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2016,
+    "Average Wages": 40304.6
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2017,
+    "Average Wages": 40510
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2007,
+    "Average Wages": 34583.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2008,
+    "Average Wages": 34272.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2009,
+    "Average Wages": 34361.8
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "Average Wages": 34955.6
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "Average Wages": 35294.6
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "Average Wages": 34864.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "Average Wages": 35528.8
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "Average Wages": 35321.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "Average Wages": 35949.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "Average Wages": 37165.1
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "Average Wages": 37849.4
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2007,
+    "Average Wages": 21165.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2008,
+    "Average Wages": 21493.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2009,
+    "Average Wages": 18767.9
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "Average Wages": 18835.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "Average Wages": 19367.2
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "Average Wages": 19671.1
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "Average Wages": 20471.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "Average Wages": 21367.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "Average Wages": 22741.7
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2016,
+    "Average Wages": 23933.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2017,
+    "Average Wages": 25207.1
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2007,
+    "Average Wages": 60156.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2008,
+    "Average Wages": 59918.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2009,
+    "Average Wages": 61588.3
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "Average Wages": 62131.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "Average Wages": 61213.3
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "Average Wages": 60707.1
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "Average Wages": 61305.5
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "Average Wages": 63606.7
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "Average Wages": 64551.5
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2016,
+    "Average Wages": 64453.1
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2017,
+    "Average Wages": 65891
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2007,
+    "Average Wages": 20280.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2008,
+    "Average Wages": 20949.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2009,
+    "Average Wages": 18917.1
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "Average Wages": 18174.9
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "Average Wages": 17541.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "Average Wages": 18272.9
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "Average Wages": 19152
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "Average Wages": 20429.5
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "Average Wages": 22295.3
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2016,
+    "Average Wages": 23591.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2017,
+    "Average Wages": 24634
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2007,
+    "Average Wages": 17283.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2008,
+    "Average Wages": 17150.2
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2009,
+    "Average Wages": 17269
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "Average Wages": 16183.1
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "Average Wages": 16328.2
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "Average Wages": 16050.3
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "Average Wages": 16050.3
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "Average Wages": 16028.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "Average Wages": 16231.2
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "Average Wages": 16135.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2017,
+    "Average Wages": 16110.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2007,
+    "Average Wages": 51917.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2008,
+    "Average Wages": 52231.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2009,
+    "Average Wages": 54464
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "Average Wages": 54477.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "Average Wages": 54140.3
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "Average Wages": 54362.2
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "Average Wages": 54555
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "Average Wages": 54260.7
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "Average Wages": 54892.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2016,
+    "Average Wages": 55131.6
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2017,
+    "Average Wages": 54633.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2007,
+    "Average Wages": 44498.6
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2008,
+    "Average Wages": 45529
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2009,
+    "Average Wages": 46005.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "Average Wages": 46594.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "Average Wages": 48180
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "Average Wages": 49465.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "Average Wages": 50448.6
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "Average Wages": 50749
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "Average Wages": 50994.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2016,
+    "Average Wages": 50207.1
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2017,
+    "Average Wages": 50412.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2007,
+    "Average Wages": 38387.9
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2008,
+    "Average Wages": 37964.8
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2009,
+    "Average Wages": 38433.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2010,
+    "Average Wages": 38802.8
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2011,
+    "Average Wages": 38803.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2012,
+    "Average Wages": 39621.7
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2013,
+    "Average Wages": 39110.6
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "Average Wages": 39419.1
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "Average Wages": 40255.7
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "Average Wages": 41765
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "Average Wages": 41953.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2007,
+    "Average Wages": 44014.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2008,
+    "Average Wages": 43934.2
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2009,
+    "Average Wages": 44258.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "Average Wages": 44418.8
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "Average Wages": 44590.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "Average Wages": 44581.8
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "Average Wages": 44696.3
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "Average Wages": 44996.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "Average Wages": 45708.8
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2016,
+    "Average Wages": 46016.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2017,
+    "Average Wages": 46293.9
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2007,
+    "Average Wages": 21878.2
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2008,
+    "Average Wages": 23045
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2009,
+    "Average Wages": 22999
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "Average Wages": 23652.3
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "Average Wages": 23654.2
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "Average Wages": 23445.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "Average Wages": 23713
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "Average Wages": 24195.8
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2015,
+    "Average Wages": 24726.1
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2016,
+    "Average Wages": 25956.4
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2017,
+    "Average Wages": 27058
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2007,
+    "Average Wages": 26068.6
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2008,
+    "Average Wages": 25983.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2009,
+    "Average Wages": 27184.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "Average Wages": 27080.3
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "Average Wages": 26436.5
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "Average Wages": 25294.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "Average Wages": 25813.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "Average Wages": 25360.1
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "Average Wages": 25307.3
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2016,
+    "Average Wages": 25349.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2017,
+    "Average Wages": 25288.7
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2007,
+    "Average Wages": 20514.4
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2008,
+    "Average Wages": 20718.3
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2009,
+    "Average Wages": 21416.5
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "Average Wages": 22359.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "Average Wages": 22161.1
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "Average Wages": 21916.8
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "Average Wages": 22082.5
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "Average Wages": 22510.9
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "Average Wages": 23344
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2016,
+    "Average Wages": 24053.1
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2017,
+    "Average Wages": 24719.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2007,
+    "Average Wages": 33606.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2008,
+    "Average Wages": 34097.2
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2009,
+    "Average Wages": 34435.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "Average Wages": 35473.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "Average Wages": 35340.8
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "Average Wages": 34227.7
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "Average Wages": 33748.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "Average Wages": 34282.5
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "Average Wages": 34933.6
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2016,
+    "Average Wages": 36153.4
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2017,
+    "Average Wages": 36883
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2007,
+    "Average Wages": 39137.1
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2008,
+    "Average Wages": 39678.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2009,
+    "Average Wages": 39938.3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "Average Wages": 40175.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "Average Wages": 40680.6
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "Average Wages": 41581
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "Average Wages": 42015.8
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "Average Wages": 42444.1
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "Average Wages": 43159.4
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2016,
+    "Average Wages": 43735.7
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2017,
+    "Average Wages": 43987.5
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2007,
+    "Average Wages": 58597.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2008,
+    "Average Wages": 58400.9
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2009,
+    "Average Wages": 58872.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "Average Wages": 59476.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "Average Wages": 59562.5
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "Average Wages": 60047.2
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "Average Wages": 59765.8
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "Average Wages": 60618
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "Average Wages": 62106.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "Average Wages": 62153.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2017,
+    "Average Wages": 62727.4
+  }
+]
