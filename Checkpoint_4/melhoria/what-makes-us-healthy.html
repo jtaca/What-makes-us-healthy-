@@ -65,6 +65,12 @@
      grid-template-rows: auto auto ;
    }
 
+   .line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+
   </style>
 </head>
 
@@ -287,145 +293,139 @@
 
       function drawScatterPlot(dataset, selectedYear, factorSelected, onCreate) {
 
-        var w = 150;
-        var h = 150;
-        var padding = 20;
-        var bar_w = 15;
-        var r = 2;
+      var w = 150;
+      var h = 150;
+      var padding = 32;
+      var bar_w = 15;
+      var r = 2;
 
-        var healthList = [
-              { title: 'Obese', value: "obese" },
-              { title: 'Alcohol',  value: "alcohol" },
-              { title: 'Smokers', value: "smokers"},
-              { title: 'Life expectancy at birth', value: "life_at_birth" },
-              { title: 'Life expectancy at 65', value: "life_at_old" },
-              { title: 'Suicide rate', value: "suicide" },
-              { title: 'Deaths by cancer', value: "cancer" }]
+      var healthList = [
+            { title: 'Obese', value: "obese" },
+            { title: 'Alcohol',  value: "alcohol" },
+            { title: 'Smokers', value: "smokers"},
+            { title: 'Life expectancy at birth', value: "life_at_birth" },
+            { title: 'Life expectancy at 65', value: "life_at_old" },
+            { title: 'Suicide rate', value: "suicide" },
+            { title: 'Deaths by cancer', value: "cancer" }]
 
-        for(var k = 0; k<healthList.length; k++){
-          console.log(healthList[k].value);
-          console.log(healthList[k]);
-
-
-          var svg = onCreate ? d3.select("#the_chart"+k)
-          .append("svg")
-          .attr("width", w)
-          .attr("height", h)
-          .attr("fill", "black") : d3.select("#the_chart"+k);
-
-          var hscale = d3.scaleLinear()
-            .domain([d3.max(dataset, function (d) {
-
-              return parseInt(d[healthList[k].value]);
-            }), d3.min(dataset, function (d) {
-              return parseInt(d[healthList[k].value]);
-            })])
-            .range([padding, h - padding]);
-
-          var xscale = d3.scaleLinear()
-            .domain([d3.min(dataset, function (d) {
-              return d[factorSelected];
-            }), d3.max(dataset, function (d) {
-              return d[factorSelected];
-            })])
-            .range([padding, w - padding]);
-
-          var yaxis = d3.axisLeft()
-            .scale(hscale)
-            .ticks(5);
+      for(var k = 0; k<healthList.length; k++){
+        console.log(healthList[k].value);
+        console.log(healthList[k]);
 
 
-          var xaxis = d3.axisBottom()
-            .scale(xscale)
-            .ticks(5);
-            
-          //.ticks(dataset.length/2);
+        var svg = onCreate ? d3.select("#the_chart"+k)
+        .append("svg")
+        .attr("width", w)
+        .attr("height", h)
+        .attr("fill", "blue") : d3.select("#the_chart"+k);
 
-          var cscale = d3.scaleLinear()
-            .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
-            d3.max(dataset, function (d) { return d[factorSelected]; })])
-            .range(["red", "blue"]);
+        var hscale = d3.scaleLinear()
+          .domain([d3.max(dataset, function (d) {
 
-          if(onCreate){
-            gY = svg.append("g")
-              .attr("transform", "translate(30,0)")
-              .attr("class", "y axis")
-              .call(yaxis);
+            return parseInt(d[healthList[k].value]);
+          }), d3.min(dataset, function (d) {
+            return parseInt(d[healthList[k].value]);
+          })])
+          .range([padding, h - padding]);
+
+        var xscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) {
+            return parseInt(d[factorSelected]);
+          }), d3.max(dataset, function (d) {
+            return parseInt(d[factorSelected]);
+          })])
+          .range([padding, w - padding]);
+
+        var yaxis = d3.axisLeft()
+          .scale(hscale)
+          .ticks(5);
 
 
-            gX = svg.append("g")
-              .attr("transform", "translate(0," + (h - padding) + ")")
-              .call(xaxis);
-          }
-          svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
-            .attr("transform", function (d) {
-              return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
-            });
+        var xaxis = d3.axisBottom()
+          .scale(xscale)
+          .ticks(5);
+        //.ticks(dataset.length/2);
 
-          if(onCreate){
-          svg.append("text")
-            .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
-            .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
-            .text(healthList[k].title);
+        var cscale = d3.scaleLinear()
+          .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+          d3.max(dataset, function (d) { return d[factorSelected]; })])
+          .range(["red", "blue"]);
 
-          }
-          if(onCreate){
-            svg.selectAll("circle")
-              .data(dataset)
-              //.data(dataset.slice(0,10)) // only the fisrt 10 are shown
-              .enter().append("circle")
-              .style("opacity",0.7)
-              .on("mouseover", function (d, i) {
-                dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
-              })
+        if(onCreate){
+          gY = svg.append("g")
+            .attr("transform", "translate(30,0)")
+            .attr("class", "y_axis")
+            .call(yaxis);
 
-              .on("mouseout", function (d, i) {
-                d3.selectAll("circle").attr("fill", "blue");
-              })
-              .attr("r", r)
-              .attr("fill", "blue")
-              .attr("id", (d,i) => "scatter_"+i)
-              .attr("class", healthList[k].value)
-              .attr("cx", function (d, i) {
-                if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
 
-                  return xscale(d[factorSelected]);
-                }
+          gX = svg.append("g")
+          .attr("class", "x_axis")
+            .attr("transform", "translate(0," + (h - padding) + ")")
+            .call(xaxis);
+        }else{
+          gX = d3.selectAll(".x_axis")
+          .transition()
+          .duration(500)
+          .attr("transform", "translate(0," + (h - padding) + ")")
+            .call(xaxis);
+        }
+        svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+          .attr("transform", function (d) {
+            return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+          });
 
-              })
-              .attr("cy", function (d) {
+        if(onCreate){
+        svg.append("text")
+          .attr("fill", "black")
+          .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+          .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+          .text(healthList[k].title);
 
-                if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
-                  return hscale(d[healthList[k].value]);
-                }
+        }
+        if(onCreate){
+          svg.selectAll("circle")
+            .data(dataset.filter(function(d){return d.time == selectedYear;}).filter(function(d){return d[factorSelected] != "";}).filter(function(d){return d[healthList[k].value] != "";}))
+            .enter().append("circle")
+            .style("opacity",0.7)
+            .on("mouseover", function (d, i) {
+              dispatch.call("testEvent", this, d3.select(this).attr("location") ? d3.select(this).attr("location") : d3.select(this).attr("title"));
+            })
 
-              })
-              .attr("location", function (d) { return d.location; });
-          }else{
-            var nrOfCircles = d3.selectAll("."+healthList[k].value).size();
-            console.log("."+healthList[k].value);
-            for(var j = 0; j < nrOfCircles; j++){
-              svg.select("#scatter_"+j)
-                .transition()
-                .duration(1000)
-                .attr("cx", function (d, i) {
-                 if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
-                   return xscale(d[factorSelected]);
-                }
-
-              })
+            .on("mouseout", function (d, i) {
+              d3.selectAll("circle").attr("fill", "blue");
+            })
+            .attr("r", r)
+            .attr("fill", "blue")
+            .attr("id", (d,i) => "scatter_"+i)
+            .attr("class", healthList[k].value)
+            .attr("cx", function (d, i) {
+              //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                return xscale(d[factorSelected]);
+            })
             .attr("cy", function (d) {
-              if (d[factorSelected] == 0 || d[healthList[k].value] == 0 || d.time != selectedYear) { return padding; } else {
-                return hscale(d[healthList[k].value]);
-              }
-              
-              })
-		        };
+              return hscale(d[healthList[k].value]);
+            })
+            .attr("location", function (d) { return d.location; });
+        }else{
+          var nrOfCircles = d3.selectAll("."+healthList[k].value).size();
+          for(var j = 0; j < nrOfCircles; j++){
+            svg.select("#scatter_"+j)
+              .transition()
+              .duration(1000)
+              .attr("cx", function (d, i) {
+                return xscale(d[factorSelected]);
+               })
+          .attr("cy", function (d) {
+              return hscale(d[healthList[k].value]);
+            
+            })
+          };
 
-          }
         }
       }
+      }
 
+      
     });
   </script>
 </body>
