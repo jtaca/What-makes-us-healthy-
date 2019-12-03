@@ -4650,7 +4650,7 @@
     "smokers": 18.2,
     "cancer": 221.8,
     "suicide": 10.6,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 80.4,
     "obese": 49.1
   },
@@ -4669,7 +4669,7 @@
     "smokers": 17.5,
     "cancer": 218.1,
     "suicide": 10.7,
-    "life_at_old": 196,
+    "life_at_old": 19.6,
     "life_at_birth": 80.6,
     "obese": 60
   },
@@ -4688,7 +4688,7 @@
     "smokers": 17.5,
     "cancer": 218.1,
     "suicide": 10.7,
-    "life_at_old": 196,
+    "life_at_old": 19.6,
     "life_at_birth": 80.6,
     "obese": 49.5
   },
@@ -4707,7 +4707,7 @@
     "smokers": 16.2,
     "cancer": 214.3,
     "suicide": 11.1,
-    "life_at_old": "1,975",
+    "life_at_old": 19.75,
     "life_at_birth": 80.8,
     "obese": 50
   },
@@ -4726,7 +4726,7 @@
     "smokers": 16.3,
     "cancer": 210.6,
     "suicide": 11.1,
-    "life_at_old": "1,995",
+    "life_at_old": 19.95,
     "life_at_birth": 81.1,
     "obese": 58.6
   },
@@ -4745,7 +4745,7 @@
     "smokers": 16.3,
     "cancer": 210.6,
     "suicide": 11.1,
-    "life_at_old": "1,995",
+    "life_at_old": 19.95,
     "life_at_birth": 81.1,
     "obese": 50.6
   },
@@ -4764,7 +4764,7 @@
     "smokers": 15.7,
     "cancer": 208.5,
     "suicide": 10.8,
-    "life_at_old": 201,
+    "life_at_old": 20.1,
     "life_at_birth": 81.3,
     "obese": 50.5
   },
@@ -4783,7 +4783,7 @@
     "smokers": 16.1,
     "cancer": 205.6,
     "suicide": 10.8,
-    "life_at_old": 203,
+    "life_at_old": 20.3,
     "life_at_birth": 81.5,
     "obese": 50.9
   },
@@ -4802,7 +4802,7 @@
     "smokers": 14.9,
     "cancer": 203,
     "suicide": 11.1,
-    "life_at_old": "2,045",
+    "life_at_old": 20.45,
     "life_at_birth": 81.7,
     "obese": 60.3
   },
@@ -4821,7 +4821,7 @@
     "smokers": 14.9,
     "cancer": 203,
     "suicide": 11.1,
-    "life_at_old": "2,045",
+    "life_at_old": 20.45,
     "life_at_birth": 81.7,
     "obese": 52.1
   },
@@ -4840,7 +4840,7 @@
     "smokers": 14,
     "cancer": 208.8,
     "suicide": 11.5,
-    "life_at_old": "2,055",
+    "life_at_old": 20.55,
     "life_at_birth": 81.8,
     "obese": 52.5
   },
@@ -4859,7 +4859,7 @@
     "smokers": 13.1,
     "cancer": 196.8,
     "suicide": 11.8,
-    "life_at_old": 206,
+    "life_at_old": 20.6,
     "life_at_birth": 81.9,
     "obese": 64.1
   },
@@ -4878,7 +4878,7 @@
     "smokers": 13.1,
     "cancer": 196.8,
     "suicide": 11.8,
-    "life_at_old": 206,
+    "life_at_old": 20.6,
     "life_at_birth": 81.9,
     "obese": 52.4
   },
@@ -4897,7 +4897,7 @@
     "smokers": 12.5,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 207,
+    "life_at_old": 20.7,
     "life_at_birth": 82,
     "obese": 53.1
   },
@@ -4916,7 +4916,7 @@
     "smokers": 12,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 207,
+    "life_at_old": 20.7,
     "life_at_birth": 82,
     "obese": 59.1
   },
@@ -4935,7 +4935,7 @@
     "smokers": 12,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 207,
+    "life_at_old": 20.7,
     "life_at_birth": 82,
     "obese": 53.8
   },
@@ -4954,7 +4954,7 @@
     "smokers": 20.4,
     "cancer": 190.6,
     "suicide": 16.9,
-    "life_at_old": 204,
+    "life_at_old": 20.4,
     "life_at_birth": 82,
     "obese": 37.3
   },
@@ -4973,7 +4973,7 @@
     "smokers": "",
     "cancer": 185.7,
     "suicide": 16,
-    "life_at_old": 206,
+    "life_at_old": 20.6,
     "life_at_birth": 82.2,
     "obese": ""
   },
@@ -4992,7 +4992,7 @@
     "smokers": "",
     "cancer": 183.2,
     "suicide": 13.4,
-    "life_at_old": 206,
+    "life_at_old": 20.6,
     "life_at_birth": 82.3,
     "obese": ""
   },
@@ -5011,7 +5011,7 @@
     "smokers": "",
     "cancer": 181.6,
     "suicide": 11.9,
-    "life_at_old": "2,075",
+    "life_at_old": 20.75,
     "life_at_birth": 82.6,
     "obese": ""
   },
@@ -5030,7 +5030,7 @@
     "smokers": "",
     "cancer": 181.2,
     "suicide": 12.1,
-    "life_at_old": 209,
+    "life_at_old": 20.9,
     "life_at_birth": 82.8,
     "obese": ""
   },
@@ -5049,7 +5049,7 @@
     "smokers": 20.4,
     "cancer": 177.7,
     "suicide": 12,
-    "life_at_old": 208,
+    "life_at_old": 20.8,
     "life_at_birth": 82.8,
     "obese": 41
   },
@@ -5068,7 +5068,7 @@
     "smokers": "",
     "cancer": 175.9,
     "suicide": 12.2,
-    "life_at_old": 209,
+    "life_at_old": 20.9,
     "life_at_birth": 82.9,
     "obese": ""
   },
@@ -5087,7 +5087,7 @@
     "smokers": "",
     "cancer": 172.9,
     "suicide": 11.4,
-    "life_at_old": "2,115",
+    "life_at_old": 21.15,
     "life_at_birth": 83.3,
     "obese": ""
   },
@@ -5106,7 +5106,7 @@
     "smokers": "",
     "cancer": 174.3,
     "suicide": 11.9,
-    "life_at_old": 209,
+    "life_at_old": 20.9,
     "life_at_birth": 83,
     "obese": ""
   },
@@ -5125,7 +5125,7 @@
     "smokers": "",
     "cancer": 171.8,
     "suicide": 11.2,
-    "life_at_old": "2,145",
+    "life_at_old": 21.45,
     "life_at_birth": 83.7,
     "obese": ""
   },
@@ -5144,7 +5144,7 @@
     "smokers": 19.1,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 214,
+    "life_at_old": 21.4,
     "life_at_birth": 83.6,
     "obese": 41.8
   },
@@ -5163,7 +5163,7 @@
     "smokers": "",
     "cancer": 201.2,
     "suicide": 11.8,
-    "life_at_old": 175,
+    "life_at_old": 17.5,
     "life_at_birth": 77.5,
     "obese": ""
   },
@@ -5182,7 +5182,7 @@
     "smokers": "",
     "cancer": 198.4,
     "suicide": 13.1,
-    "life_at_old": 181,
+    "life_at_old": 18.1,
     "life_at_birth": 78.1,
     "obese": ""
   },
@@ -5201,7 +5201,7 @@
     "smokers": 29.8,
     "cancer": 206.5,
     "suicide": 13.3,
-    "life_at_old": 183,
+    "life_at_old": 18.3,
     "life_at_birth": 78.2,
     "obese": 64.5
   },
@@ -5220,7 +5220,7 @@
     "smokers": 29.8,
     "cancer": 206.5,
     "suicide": 13.3,
-    "life_at_old": 183,
+    "life_at_old": 18.3,
     "life_at_birth": 78.2,
     "obese": 55.5
   },
@@ -5239,7 +5239,7 @@
     "smokers": "",
     "cancer": 204.4,
     "suicide": 12.2,
-    "life_at_old": 179,
+    "life_at_old": 17.9,
     "life_at_birth": 78,
     "obese": ""
   },
@@ -5258,7 +5258,7 @@
     "smokers": "",
     "cancer": 202.2,
     "suicide": 12.3,
-    "life_at_old": 184,
+    "life_at_old": 18.4,
     "life_at_birth": 78.7,
     "obese": ""
   },
@@ -5277,7 +5277,7 @@
     "smokers": "",
     "cancer": 201.8,
     "suicide": 11,
-    "life_at_old": "1,825",
+    "life_at_old": 18.25,
     "life_at_birth": 78.7,
     "obese": ""
   },
@@ -5296,7 +5296,7 @@
     "smokers": "",
     "cancer": 196.3,
     "suicide": 10.3,
-    "life_at_old": 191,
+    "life_at_old": 19.1,
     "life_at_birth": 79.5,
     "obese": ""
   },
@@ -5315,7 +5315,7 @@
     "smokers": "",
     "cancer": 193.9,
     "suicide": 10.4,
-    "life_at_old": "1,925",
+    "life_at_old": 19.25,
     "life_at_birth": 79.7,
     "obese": ""
   },
@@ -5334,7 +5334,7 @@
     "smokers": "",
     "cancer": 193.2,
     "suicide": 10.7,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 79.9,
     "obese": 48.3
   },
@@ -5353,7 +5353,7 @@
     "smokers": 24.5,
     "cancer": 230.2,
     "suicide": 10.7,
-    "life_at_old": "1,965",
+    "life_at_old": 19.65,
     "life_at_birth": 80.2,
     "obese": 74.2
   },
@@ -6607,7 +6607,7 @@
     "smokers": 9.6,
     "cancer": 154.3,
     "suicide": 6.4,
-    "life_at_old": 66,
+    "life_at_old": 6.6,
     "life_at_birth": 78.4,
     "obese": ""
   },
@@ -6626,7 +6626,7 @@
     "smokers": 9.2,
     "cancer": 150.7,
     "suicide": 6.3,
-    "life_at_old": 65,
+    "life_at_old": 6.5,
     "life_at_birth": 78.5,
     "obese": ""
   },
@@ -6664,7 +6664,7 @@
     "smokers": 8.2,
     "cancer": 170,
     "suicide": 7.1,
-    "life_at_old": 67,
+    "life_at_old": 6.7,
     "life_at_birth": 78.8,
     "obese": ""
   },
@@ -6683,7 +6683,7 @@
     "smokers": 7.7,
     "cancer": 161.7,
     "suicide": 7.1,
-    "life_at_old": 72,
+    "life_at_old": 7.2,
     "life_at_birth": 79.1,
     "obese": ""
   },
@@ -6702,7 +6702,7 @@
     "smokers": 7.2,
     "cancer": 158.7,
     "suicide": 6.7,
-    "life_at_old": 73,
+    "life_at_old": 7.3,
     "life_at_birth": 79.4,
     "obese": ""
   },
@@ -7177,7 +7177,7 @@
     "smokers": 24,
     "cancer": 261.1,
     "suicide": 12.7,
-    "life_at_old": 168,
+    "life_at_old": 16.8,
     "life_at_birth": 77,
     "obese": ""
   },
@@ -7196,7 +7196,7 @@
     "smokers": 21.8,
     "cancer": 256.7,
     "suicide": 12.6,
-    "life_at_old": "1,705",
+    "life_at_old": 17.05,
     "life_at_birth": 77.3,
     "obese": 55.1
   },
@@ -7215,7 +7215,7 @@
     "smokers": 21.8,
     "cancer": 256.7,
     "suicide": 12.6,
-    "life_at_old": "1,705",
+    "life_at_old": 17.05,
     "life_at_birth": 77.3,
     "obese": 56
   },
@@ -7234,7 +7234,7 @@
     "smokers": 23.8,
     "cancer": 253.1,
     "suicide": 13.2,
-    "life_at_old": 170,
+    "life_at_old": 17.0,
     "life_at_birth": 77.4,
     "obese": ""
   },
@@ -7253,7 +7253,7 @@
     "smokers": 22.8,
     "cancer": 250.3,
     "suicide": 13.5,
-    "life_at_old": "1,725",
+    "life_at_old": 17.25,
     "life_at_birth": 77.7,
     "obese": 55
   },
@@ -7272,7 +7272,7 @@
     "smokers": 21.7,
     "cancer": 239.8,
     "suicide": 14.3,
-    "life_at_old": 174,
+    "life_at_old": 17.4,
     "life_at_birth": 78,
     "obese": ""
   },
@@ -7291,7 +7291,7 @@
     "smokers": 22.9,
     "cancer": 236.6,
     "suicide": 14.7,
-    "life_at_old": "1,745",
+    "life_at_old": 17.45,
     "life_at_birth": 78.2,
     "obese": ""
   },
@@ -7310,7 +7310,7 @@
     "smokers": 22.2,
     "cancer": 229.8,
     "suicide": 14.2,
-    "life_at_old": 175,
+    "life_at_old": 17.5,
     "life_at_birth": 78.3,
     "obese": ""
   },
@@ -7329,7 +7329,7 @@
     "smokers": 22.3,
     "cancer": 225.8,
     "suicide": 13.3,
-    "life_at_old": "1,795",
+    "life_at_old": 17.95,
     "life_at_birth": 78.9,
     "obese": 55.4
   },
@@ -7348,7 +7348,7 @@
     "smokers": 18.2,
     "cancer": 220.5,
     "suicide": 12.3,
-    "life_at_old": "1,765",
+    "life_at_old": 17.65,
     "life_at_birth": 78.7,
     "obese": ""
   },
@@ -7367,7 +7367,7 @@
     "smokers": 19.6,
     "cancer": 219.8,
     "suicide": 11.7,
-    "life_at_old": 181,
+    "life_at_old": 18.1,
     "life_at_birth": 79.1,
     "obese": ""
   },
@@ -7386,7 +7386,7 @@
     "smokers": 18.4,
     "cancer": 215.6,
     "suicide": 12.4,
-    "life_at_old": 180,
+    "life_at_old": 18.0,
     "life_at_birth": 79.1,
     "obese": ""
   },
@@ -7405,7 +7405,7 @@
     "smokers": "",
     "cancer": 209.9,
     "suicide": 10.2,
-    "life_at_old": "1,905",
+    "life_at_old": 19.05,
     "life_at_birth": 80.1,
     "obese": ""
   },
@@ -7424,7 +7424,7 @@
     "smokers": "",
     "cancer": 210.5,
     "suicide": 10.3,
-    "life_at_old": 191,
+    "life_at_old": 19.1,
     "life_at_birth": 80.2,
     "obese": ""
   },
@@ -7443,7 +7443,7 @@
     "smokers": 21.9,
     "cancer": 207,
     "suicide": 10.3,
-    "life_at_old": 192,
+    "life_at_old": 19.2,
     "life_at_birth": 80.3,
     "obese": 51.4
   },
@@ -7481,7 +7481,7 @@
     "smokers": "",
     "cancer": 205,
     "suicide": 10.8,
-    "life_at_old": 194,
+    "life_at_old": 19.4,
     "life_at_birth": 80.5,
     "obese": ""
   },
@@ -7500,7 +7500,7 @@
     "smokers": "",
     "cancer": 201.6,
     "suicide": 10.5,
-    "life_at_old": 194,
+    "life_at_old": 19.4,
     "life_at_birth": 80.6,
     "obese": 60
   },
@@ -7519,7 +7519,7 @@
     "smokers": 20.9,
     "cancer": 204.8,
     "suicide": 10.8,
-    "life_at_old": "1,935",
+    "life_at_old": 19.35,
     "life_at_birth": 80.6,
     "obese": 52.4
   },
@@ -7538,7 +7538,7 @@
     "smokers": "",
     "cancer": 200.9,
     "suicide": 10.8,
-    "life_at_old": 198,
+    "life_at_old": 19.8,
     "life_at_birth": 81.2,
     "obese": 50.7
   },
@@ -7557,7 +7557,7 @@
     "smokers": "",
     "cancer": 199.6,
     "suicide": 10.6,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 80.7,
     "obese": ""
   },
@@ -7576,7 +7576,7 @@
     "smokers": "",
     "cancer": 200.3,
     "suicide": 10.2,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81.1,
     "obese": ""
   },
@@ -7595,7 +7595,7 @@
     "smokers": 18.8,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "1,965",
+    "life_at_old": 19.65,
     "life_at_birth": 81.1,
     "obese": 52.7
   },
@@ -7690,7 +7690,7 @@
     "smokers": 24,
     "cancer": 259.5,
     "suicide": 10.3,
-    "life_at_old": "1,785",
+    "life_at_old": 17.85,
     "life_at_birth": 78.4,
     "obese": ""
   },
@@ -7709,7 +7709,7 @@
     "smokers": 23,
     "cancer": 256.7,
     "suicide": 10.7,
-    "life_at_old": "1,805",
+    "life_at_old": 18.05,
     "life_at_birth": 78.8,
     "obese": ""
   },
@@ -7728,7 +7728,7 @@
     "smokers": 19,
     "cancer": 248.9,
     "suicide": 10.8,
-    "life_at_old": "1,815",
+    "life_at_old": 18.15,
     "life_at_birth": 79,
     "obese": ""
   },
@@ -7747,7 +7747,7 @@
     "smokers": 20.9,
     "cancer": 252.5,
     "suicide": 9.8,
-    "life_at_old": "1,835",
+    "life_at_old": 18.35,
     "life_at_birth": 79.3,
     "obese": 46.7
   },
@@ -7766,7 +7766,7 @@
     "smokers": "",
     "cancer": 246.6,
     "suicide": 10.2,
-    "life_at_old": 187,
+    "life_at_old": 18.7,
     "life_at_birth": 79.9,
     "obese": ""
   },
@@ -7785,7 +7785,7 @@
     "smokers": "",
     "cancer": 246.1,
     "suicide": 11.3,
-    "life_at_old": "1,885",
+    "life_at_old": 18.85,
     "life_at_birth": 80.1,
     "obese": ""
   },
@@ -7804,7 +7804,7 @@
     "smokers": 17,
     "cancer": 238.3,
     "suicide": 10.3,
-    "life_at_old": "1,905",
+    "life_at_old": 19.05,
     "life_at_birth": 80.4,
     "obese": 47.4
   },
@@ -7823,7 +7823,7 @@
     "smokers": "",
     "cancer": 233.4,
     "suicide": 10.6,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 80.8,
     "obese": ""
   },
@@ -7842,7 +7842,7 @@
     "smokers": "",
     "cancer": 230.4,
     "suicide": 9.4,
-    "life_at_old": "1,935",
+    "life_at_old": 19.35,
     "life_at_birth": 80.8,
     "obese": ""
   },
@@ -7861,7 +7861,7 @@
     "smokers": "",
     "cancer": "",
     "suicide": "",
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 80.9,
     "obese": ""
   },
@@ -7880,7 +7880,7 @@
     "smokers": 16.9,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 81.2,
     "obese": 51
   },
@@ -9039,7 +9039,7 @@
     "smokers": "",
     "cancer": 202.8,
     "suicide": 6.7,
-    "life_at_old": 198,
+    "life_at_old": 19.8,
     "life_at_birth": 81.2,
     "obese": ""
   },
@@ -9058,7 +9058,7 @@
     "smokers": "",
     "cancer": 199.9,
     "suicide": 7,
-    "life_at_old": 201,
+    "life_at_old": 20.1,
     "life_at_birth": 81.5,
     "obese": ""
   },
@@ -9077,7 +9077,7 @@
     "smokers": 26.2,
     "cancer": 197.8,
     "suicide": 6.9,
-    "life_at_old": 204,
+    "life_at_old": 20.4,
     "life_at_birth": 81.9,
     "obese": 52.8
   },
@@ -9096,7 +9096,7 @@
     "smokers": "",
     "cancer": 197.5,
     "suicide": 6.3,
-    "life_at_old": "2,075",
+    "life_at_old": 20.75,
     "life_at_birth": 82.4,
     "obese": ""
   },
@@ -9115,7 +9115,7 @@
     "smokers": 23.9,
     "cancer": 197.7,
     "suicide": 6.3,
-    "life_at_old": 209,
+    "life_at_old": 20.9,
     "life_at_birth": 82.6,
     "obese": 52.7
   },
@@ -9134,7 +9134,7 @@
     "smokers": "",
     "cancer": 194.1,
     "suicide": 6.9,
-    "life_at_old": "2,075",
+    "life_at_old": 20.75,
     "life_at_birth": 82.5,
     "obese": ""
   },
@@ -9153,7 +9153,7 @@
     "smokers": "",
     "cancer": 190.8,
     "suicide": 7.5,
-    "life_at_old": 213,
+    "life_at_old": 21.3,
     "life_at_birth": 83.2,
     "obese": ""
   },
@@ -9172,7 +9172,7 @@
     "smokers": 23,
     "cancer": 185.8,
     "suicide": 7.6,
-    "life_at_old": 214,
+    "life_at_old": 21.4,
     "life_at_birth": 83.3,
     "obese": 51.5
   },
@@ -9191,7 +9191,7 @@
     "smokers": "",
     "cancer": 184.2,
     "suicide": 6.9,
-    "life_at_old": 210,
+    "life_at_old": 21.0,
     "life_at_birth": 82.9,
     "obese": ""
   },
@@ -9210,7 +9210,7 @@
     "smokers": "",
     "cancer": 184.7,
     "suicide": 6.8,
-    "life_at_old": 215,
+    "life_at_old": 21.5,
     "life_at_birth": 83.4,
     "obese": ""
   },
@@ -9229,7 +9229,7 @@
     "smokers": 22.1,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "2,135",
+    "life_at_old": 21.35,
     "life_at_birth": 83.4,
     "obese": 53
   },
@@ -9248,7 +9248,7 @@
     "smokers": "",
     "cancer": 238.4,
     "suicide": 18.2,
-    "life_at_old": "1,585",
+    "life_at_old": 15.85,
     "life_at_birth": 73.2,
     "obese": ""
   },
@@ -9267,7 +9267,7 @@
     "smokers": 26.2,
     "cancer": 237.5,
     "suicide": 17.3,
-    "life_at_old": 163,
+    "life_at_old": 16.3,
     "life_at_birth": 74.2,
     "obese": 49.6
   },
@@ -9286,7 +9286,7 @@
     "smokers": "",
     "cancer": 234.7,
     "suicide": 19.3,
-    "life_at_old": 167,
+    "life_at_old": 16.7,
     "life_at_birth": 75.2,
     "obese": ""
   },
@@ -9305,7 +9305,7 @@
     "smokers": 26.2,
     "cancer": 233.4,
     "suicide": 15.9,
-    "life_at_old": 169,
+    "life_at_old": 16.9,
     "life_at_birth": 75.9,
     "obese": 48.6
   },
@@ -9324,7 +9324,7 @@
     "smokers": "",
     "cancer": 235.5,
     "suicide": 15.3,
-    "life_at_old": "1,745",
+    "life_at_old": 17.45,
     "life_at_birth": 76.4,
     "obese": ""
   },
@@ -9343,7 +9343,7 @@
     "smokers": 26,
     "cancer": 233.3,
     "suicide": 16.6,
-    "life_at_old": "1,755",
+    "life_at_old": 17.55,
     "life_at_birth": 76.5,
     "obese": 48.9
   },
@@ -9362,7 +9362,7 @@
     "smokers": "",
     "cancer": 231,
     "suicide": 15.3,
-    "life_at_old": "1,775",
+    "life_at_old": 17.75,
     "life_at_birth": 77.3,
     "obese": ""
   },
@@ -9381,7 +9381,7 @@
     "smokers": 22.1,
     "cancer": 237,
     "suicide": 17.5,
-    "life_at_old": 178,
+    "life_at_old": 17.8,
     "life_at_birth": 77.2,
     "obese": 52
   },
@@ -9400,7 +9400,7 @@
     "smokers": 22.1,
     "cancer": 237,
     "suicide": 17.5,
-    "life_at_old": 178,
+    "life_at_old": 17.8,
     "life_at_birth": 77.2,
     "obese": 51.3
   },
@@ -9419,7 +9419,7 @@
     "smokers": "",
     "cancer": 234.9,
     "suicide": 14.1,
-    "life_at_old": 181,
+    "life_at_old": 18.1,
     "life_at_birth": 77.7,
     "obese": ""
   },
@@ -9438,7 +9438,7 @@
     "smokers": 21.3,
     "cancer": 226.6,
     "suicide": 13,
-    "life_at_old": "1,825",
+    "life_at_old": 18.25,
     "life_at_birth": 77.8,
     "obese": 51.7
   },
@@ -9457,7 +9457,7 @@
     "smokers": "",
     "cancer": "",
     "suicide": "",
-    "life_at_old": 182,
+    "life_at_old": 18.2,
     "life_at_birth": 78.2,
     "obese": ""
   },
@@ -9837,7 +9837,7 @@
     "smokers": 20.6,
     "cancer": 182.4,
     "suicide": 18.2,
-    "life_at_old": 191,
+    "life_at_old": 19.1,
     "life_at_birth": 79.6,
     "obese": 48.9
   },
@@ -9856,7 +9856,7 @@
     "smokers": 20.4,
     "cancer": 180.4,
     "suicide": 19,
-    "life_at_old": 194,
+    "life_at_old": 19.4,
     "life_at_birth": 79.9,
     "obese": 48.8
   },
@@ -9875,7 +9875,7 @@
     "smokers": 18.6,
     "cancer": 176.9,
     "suicide": 18.9,
-    "life_at_old": 194,
+    "life_at_old": 19.4,
     "life_at_birth": 80.1,
     "obese": 49.3
   },
@@ -9894,7 +9894,7 @@
     "smokers": 19,
     "cancer": 182.5,
     "suicide": 17.3,
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 80.2,
     "obese": 49.7
   },
@@ -9913,7 +9913,7 @@
     "smokers": 17.8,
     "cancer": 178.4,
     "suicide": 16.4,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 80.6,
     "obese": 65
   },
@@ -9951,7 +9951,7 @@
     "smokers": 17,
     "cancer": 176.5,
     "suicide": 15.6,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 80.7,
     "obese": 58
   },
@@ -9970,7 +9970,7 @@
     "smokers": 17,
     "cancer": 176.5,
     "suicide": 15.6,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 80.7,
     "obese": 49.4
   },
@@ -9989,7 +9989,7 @@
     "smokers": 15.8,
     "cancer": 175.8,
     "suicide": 15.8,
-    "life_at_old": 199,
+    "life_at_old": 19.9,
     "life_at_birth": 81.1,
     "obese": 49.9
   },
@@ -10008,7 +10008,7 @@
     "smokers": 15.4,
     "cancer": 172.3,
     "suicide": 14.1,
-    "life_at_old": "1,995",
+    "life_at_old": 19.95,
     "life_at_birth": 81.3,
     "obese": 52.1
   },
@@ -10027,7 +10027,7 @@
     "smokers": 17.4,
     "cancer": 172.8,
     "suicide": 13.1,
-    "life_at_old": 201,
+    "life_at_old": 20.1,
     "life_at_birth": 81.6,
     "obese": 56
   },
@@ -10046,7 +10046,7 @@
     "smokers": 15,
     "cancer": 173.1,
     "suicide": 13.9,
-    "life_at_old": "2,005",
+    "life_at_old": 20.05,
     "life_at_birth": 81.5,
     "obese": 56
   },
@@ -10065,7 +10065,7 @@
     "smokers": 13,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "2,025",
+    "life_at_old": 20.25,
     "life_at_birth": 81.7,
     "obese": 67.6
   },
@@ -10084,7 +10084,7 @@
     "smokers": 13,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "2,025",
+    "life_at_old": 20.25,
     "life_at_birth": 81.7,
     "obese": 57
   },
@@ -10255,7 +10255,7 @@
     "smokers": "",
     "cancer": 215.3,
     "suicide": 15.8,
-    "life_at_old": 207,
+    "life_at_old": 20.7,
     "life_at_birth": 81.2,
     "obese": ""
   },
@@ -10274,7 +10274,7 @@
     "smokers": 26.2,
     "cancer": 213.6,
     "suicide": 16.1,
-    "life_at_old": "2,075",
+    "life_at_old": 20.75,
     "life_at_birth": 81.4,
     "obese": 39.2
   },
@@ -10293,7 +10293,7 @@
     "smokers": "",
     "cancer": 212,
     "suicide": 16.2,
-    "life_at_old": "2,095",
+    "life_at_old": 20.95,
     "life_at_birth": 81.5,
     "obese": ""
   },
@@ -10312,7 +10312,7 @@
     "smokers": 23.3,
     "cancer": 207.7,
     "suicide": 15.9,
-    "life_at_old": "2,115",
+    "life_at_old": 21.15,
     "life_at_birth": 81.8,
     "obese": 42.9
   },
@@ -10331,7 +10331,7 @@
     "smokers": "",
     "cancer": 203.5,
     "suicide": 15.8,
-    "life_at_old": "2,155",
+    "life_at_old": 21.55,
     "life_at_birth": 82.3,
     "obese": ""
   },
@@ -10350,7 +10350,7 @@
     "smokers": 24.1,
     "cancer": 201.2,
     "suicide": 14.6,
-    "life_at_old": "2,125",
+    "life_at_old": 21.25,
     "life_at_birth": 82.1,
     "obese": 44.4
   },
@@ -10369,7 +10369,7 @@
     "smokers": "",
     "cancer": 196.3,
     "suicide": 14.3,
-    "life_at_old": "2,145",
+    "life_at_old": 21.45,
     "life_at_birth": 82.3,
     "obese": ""
   },
@@ -10388,7 +10388,7 @@
     "smokers": 22.4,
     "cancer": 196.8,
     "suicide": 13.1,
-    "life_at_old": "2,185",
+    "life_at_old": 21.85,
     "life_at_birth": 82.8,
     "obese": 46.1
   },
@@ -10407,7 +10407,7 @@
     "smokers": "",
     "cancer": 197.7,
     "suicide": 13.1,
-    "life_at_old": "2,145",
+    "life_at_old": 21.45,
     "life_at_birth": 82.4,
     "obese": 49
   },
@@ -10426,7 +10426,7 @@
     "smokers": "",
     "cancer": "",
     "suicide": "",
-    "life_at_old": "2,165",
+    "life_at_old": 21.65,
     "life_at_birth": 82.6,
     "obese": ""
   },
@@ -10445,7 +10445,7 @@
     "smokers": "",
     "cancer": "",
     "suicide": "",
-    "life_at_old": 216,
+    "life_at_old": 21.6,
     "life_at_birth": 82.6,
     "obese": ""
   },
@@ -11129,7 +11129,7 @@
     "smokers": 21,
     "cancer": 234.8,
     "suicide": 6.3,
-    "life_at_old": "1,885",
+    "life_at_old": 18.85,
     "life_at_birth": 79.7,
     "obese": 60.8
   },
@@ -11148,7 +11148,7 @@
     "smokers": 21,
     "cancer": 232.9,
     "suicide": 6.9,
-    "life_at_old": 189,
+    "life_at_old": 18.9,
     "life_at_birth": 79.8,
     "obese": 61.4
   },
@@ -11167,7 +11167,7 @@
     "smokers": 21,
     "cancer": 228.5,
     "suicide": 6.8,
-    "life_at_old": "1,935",
+    "life_at_old": 19.35,
     "life_at_birth": 80.4,
     "obese": 61.3
   },
@@ -11186,7 +11186,7 @@
     "smokers": 20,
     "cancer": 226.3,
     "suicide": 6.7,
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 80.6,
     "obese": 62.8
   },
@@ -11205,7 +11205,7 @@
     "smokers": 20,
     "cancer": 225.2,
     "suicide": 6.9,
-    "life_at_old": 198,
+    "life_at_old": 19.8,
     "life_at_birth": 81,
     "obese": 61.7
   },
@@ -11224,7 +11224,7 @@
     "smokers": 20,
     "cancer": 225.8,
     "suicide": 6.9,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81,
     "obese": 61.9
   },
@@ -11243,7 +11243,7 @@
     "smokers": 19,
     "cancer": 221.9,
     "suicide": 7.5,
-    "life_at_old": "1,975",
+    "life_at_old": 19.75,
     "life_at_birth": 81.1,
     "obese": 62.1
   },
@@ -11262,7 +11262,7 @@
     "smokers": 19,
     "cancer": 219.7,
     "suicide": 7.4,
-    "life_at_old": "2,005",
+    "life_at_old": 20.05,
     "life_at_birth": 81.4,
     "obese": 61.7
   },
@@ -11281,7 +11281,7 @@
     "smokers": 17.8,
     "cancer": 217.7,
     "suicide": 7.5,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81,
     "obese": 62.9
   },
@@ -11300,7 +11300,7 @@
     "smokers": 16.1,
     "cancer": 216.4,
     "suicide": 7.3,
-    "life_at_old": "1,995",
+    "life_at_old": 19.95,
     "life_at_birth": 81.2,
     "obese": 61.4
   },
@@ -11319,7 +11319,7 @@
     "smokers": 17.2,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "1,995",
+    "life_at_old": 19.95,
     "life_at_birth": 81.3,
     "obese": 64.3
   },
@@ -12364,7 +12364,7 @@
     "smokers": "",
     "cancer": 209.6,
     "suicide": 2.8,
-    "life_at_old": 188,
+    "life_at_old": 18.8,
     "life_at_birth": 79.7,
     "obese": ""
   },
@@ -12383,7 +12383,7 @@
     "smokers": 39.7,
     "cancer": 208.8,
     "suicide": 3.1,
-    "life_at_old": 192,
+    "life_at_old": 19.2,
     "life_at_birth": 80.3,
     "obese": 58.3
   },
@@ -12402,7 +12402,7 @@
     "smokers": 31.9,
     "cancer": 203.3,
     "suicide": 3.2,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 80.4,
     "obese": 55.8
   },
@@ -12421,7 +12421,7 @@
     "smokers": "",
     "cancer": 196.5,
     "suicide": 3.1,
-    "life_at_old": 196,
+    "life_at_old": 19.6,
     "life_at_birth": 80.7,
     "obese": ""
   },
@@ -12440,7 +12440,7 @@
     "smokers": "",
     "cancer": 193.4,
     "suicide": 3.9,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 80.8,
     "obese": ""
   },
@@ -12459,7 +12459,7 @@
     "smokers": "",
     "cancer": 198.2,
     "suicide": 4.2,
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 80.7,
     "obese": ""
   },
@@ -12478,7 +12478,7 @@
     "smokers": "",
     "cancer": 200.4,
     "suicide": 4.5,
-    "life_at_old": "2,015",
+    "life_at_old": 20.15,
     "life_at_birth": 81.4,
     "obese": ""
   },
@@ -12497,7 +12497,7 @@
     "smokers": 27.3,
     "cancer": 199,
     "suicide": 4.7,
-    "life_at_old": "2,025",
+    "life_at_old": 20.25,
     "life_at_birth": 81.5,
     "obese": 56.2
   },
@@ -12516,7 +12516,7 @@
     "smokers": "",
     "cancer": 199.5,
     "suicide": 4.4,
-    "life_at_old": 199,
+    "life_at_old": 19.9,
     "life_at_birth": 81.1,
     "obese": ""
   },
@@ -12535,7 +12535,7 @@
     "smokers": "",
     "cancer": 199.2,
     "suicide": 4,
-    "life_at_old": 203,
+    "life_at_old": 20.3,
     "life_at_birth": 81.5,
     "obese": ""
   },
@@ -12554,7 +12554,7 @@
     "smokers": "",
     "cancer": "",
     "suicide": "",
-    "life_at_old": 200,
+    "life_at_old": 20.0,
     "life_at_birth": 81.4,
     "obese": 55
   },
@@ -13580,7 +13580,7 @@
     "smokers": "",
     "cancer": 293,
     "suicide": 23.3,
-    "life_at_old": "1,575",
+    "life_at_old": 15.75,
     "life_at_birth": 73.6,
     "obese": ""
   },
@@ -13599,7 +13599,7 @@
     "smokers": "",
     "cancer": 294.7,
     "suicide": 23.4,
-    "life_at_old": 160,
+    "life_at_old": 16.0,
     "life_at_birth": 74.2,
     "obese": ""
   },
@@ -13618,7 +13618,7 @@
     "smokers": 26.5,
     "cancer": 295.5,
     "suicide": 23.3,
-    "life_at_old": 161,
+    "life_at_old": 16.1,
     "life_at_birth": 74.4,
     "obese": 61.6
   },
@@ -13637,7 +13637,7 @@
     "smokers": 26.5,
     "cancer": 295.5,
     "suicide": 23.3,
-    "life_at_old": 161,
+    "life_at_old": 16.1,
     "life_at_birth": 74.4,
     "obese": 54.1
   },
@@ -13656,7 +13656,7 @@
     "smokers": "",
     "cancer": 292.2,
     "suicide": 23.4,
-    "life_at_old": "1,615",
+    "life_at_old": 16.15,
     "life_at_birth": 74.7,
     "obese": ""
   },
@@ -13675,7 +13675,7 @@
     "smokers": "",
     "cancer": 291.1,
     "suicide": 22.8,
-    "life_at_old": 163,
+    "life_at_old": 16.3,
     "life_at_birth": 75,
     "obese": ""
   },
@@ -13694,7 +13694,7 @@
     "smokers": "",
     "cancer": 293.3,
     "suicide": 22,
-    "life_at_old": 162,
+    "life_at_old": 16.2,
     "life_at_birth": 75.2,
     "obese": ""
   },
@@ -13713,7 +13713,7 @@
     "smokers": "",
     "cancer": 286.3,
     "suicide": 19.4,
-    "life_at_old": "1,645",
+    "life_at_old": 16.45,
     "life_at_birth": 75.7,
     "obese": ""
   },
@@ -13732,7 +13732,7 @@
     "smokers": 25.8,
     "cancer": 282.7,
     "suicide": 17.8,
-    "life_at_old": 166,
+    "life_at_old": 16.6,
     "life_at_birth": 75.9,
     "obese": 62.3
   },
@@ -13751,7 +13751,7 @@
     "smokers": 25.8,
     "cancer": 282.7,
     "suicide": 17.8,
-    "life_at_old": 166,
+    "life_at_old": 16.6,
     "life_at_birth": 75.9,
     "obese": 54.5
   },
@@ -13770,7 +13770,7 @@
     "smokers": "",
     "cancer": 280.1,
     "suicide": 17.3,
-    "life_at_old": "1,635",
+    "life_at_old": 16.35,
     "life_at_birth": 75.7,
     "obese": ""
   },
@@ -13789,7 +13789,7 @@
     "smokers": "",
     "cancer": 278.8,
     "suicide": 16.2,
-    "life_at_old": "1,665",
+    "life_at_old": 16.65,
     "life_at_birth": 76.2,
     "obese": ""
   },
@@ -13808,7 +13808,7 @@
     "smokers": "",
     "cancer": 275.4,
     "suicide": 15.1,
-    "life_at_old": "1,645",
+    "life_at_old": 16.45,
     "life_at_birth": 75.9,
     "obese": ""
   },
@@ -14245,7 +14245,7 @@
     "smokers": 24,
     "cancer": 240.3,
     "suicide": 10.4,
-    "life_at_old": "1,855",
+    "life_at_old": 18.55,
     "life_at_birth": 79.7,
     "obese": 61
   },
@@ -14264,7 +14264,7 @@
     "smokers": 24,
     "cancer": 240.3,
     "suicide": 10.4,
-    "life_at_old": "1,855",
+    "life_at_old": 18.55,
     "life_at_birth": 79.7,
     "obese": 51
   },
@@ -14283,7 +14283,7 @@
     "smokers": "",
     "cancer": 242.4,
     "suicide": 11.5,
-    "life_at_old": "1,855",
+    "life_at_old": 18.55,
     "life_at_birth": 80.2,
     "obese": ""
   },
@@ -14302,7 +14302,7 @@
     "smokers": "",
     "cancer": 242.5,
     "suicide": 11.7,
-    "life_at_old": "1,905",
+    "life_at_old": 19.05,
     "life_at_birth": 80.3,
     "obese": ""
   },
@@ -14321,7 +14321,7 @@
     "smokers": "",
     "cancer": 225.3,
     "suicide": 10.8,
-    "life_at_old": "1,925",
+    "life_at_old": 19.25,
     "life_at_birth": 80.8,
     "obese": ""
   },
@@ -14340,7 +14340,7 @@
     "smokers": "",
     "cancer": 237.2,
     "suicide": 12.2,
-    "life_at_old": 194,
+    "life_at_old": 19.4,
     "life_at_birth": 80.8,
     "obese": ""
   },
@@ -14359,7 +14359,7 @@
     "smokers": "",
     "cancer": 228.7,
     "suicide": 12.1,
-    "life_at_old": "1,935",
+    "life_at_old": 19.35,
     "life_at_birth": 80.9,
     "obese": ""
   },
@@ -14378,7 +14378,7 @@
     "smokers": "",
     "cancer": 227,
     "suicide": 10.9,
-    "life_at_old": "1,945",
+    "life_at_old": 19.45,
     "life_at_birth": 81,
     "obese": ""
   },
@@ -14397,7 +14397,7 @@
     "smokers": "",
     "cancer": 226.7,
     "suicide": 10.7,
-    "life_at_old": "1,975",
+    "life_at_old": 19.75,
     "life_at_birth": 81.4,
     "obese": ""
   },
@@ -14416,7 +14416,7 @@
     "smokers": 19,
     "cancer": 219.2,
     "suicide": 9.3,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81.5,
     "obese": 61
   },
@@ -14435,7 +14435,7 @@
     "smokers": 19,
     "cancer": 219.2,
     "suicide": 9.3,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81.5,
     "obese": 53
   },
@@ -14454,7 +14454,7 @@
     "smokers": 19,
     "cancer": "",
     "suicide": "",
-    "life_at_old": "1,985",
+    "life_at_old": 19.85,
     "life_at_birth": 81.8,
     "obese": ""
   },
@@ -14473,7 +14473,7 @@
     "smokers": 18,
     "cancer": "",
     "suicide": "",
-    "life_at_old": 202,
+    "life_at_old": 20.2,
     "life_at_birth": 82.2,
     "obese": 62
   },
@@ -14872,7 +14872,7 @@
     "smokers": 19,
     "cancer": 221.8,
     "suicide": 12,
-    "life_at_old": 197,
+    "life_at_old": 19.7,
     "life_at_birth": 81.5,
     "obese": 60.2
   },
@@ -14891,7 +14891,7 @@
     "smokers": 17.6,
     "cancer": 212.9,
     "suicide": 12.4,
-    "life_at_old": 195,
+    "life_at_old": 19.5,
     "life_at_birth": 81.7,
     "obese": ""
   },
@@ -14910,7 +14910,7 @@
     "smokers": 15.4,
     "cancer": 209.3,
     "suicide": 11.8,
-    "life_at_old": 198,
+    "life_at_old": 19.8,
     "life_at_birth": 81.8,
     "obese": ""
   },
@@ -14929,7 +14929,7 @@
     "smokers": 14.2,
     "cancer": 208.8,
     "suicide": 14.8,
-    "life_at_old": 199,
+    "life_at_old": 19.9,
     "life_at_birth": 82,
     "obese": 58.5
   },
@@ -14948,7 +14948,7 @@
     "smokers": 14.3,
     "cancer": 208.5,
     "suicide": 8.7,
-    "life_at_old": 202,
+    "life_at_old": 20.2,
     "life_at_birth": 82.4,
     "obese": ""
   },
