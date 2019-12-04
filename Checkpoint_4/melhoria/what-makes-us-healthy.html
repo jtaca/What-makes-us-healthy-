@@ -238,6 +238,9 @@
       });
 
 
+      
+
+
       function drawRadarChart(time, event, onCreate) {
         console.log("hey");
 
@@ -347,12 +350,29 @@
 
         var yaxis = d3.axisLeft()
           .scale(hscale)
-          .ticks(5);
+          .ticks(4);
+         
+      
+        
 
-
-        var xaxis = d3.axisBottom()
+       
+        if( function(d){d >= 1000}){
+          var xaxis = d3.axisBottom()
           .scale(xscale)
-          .ticks(5);
+          .ticks(5)
+          .tickValues(data)
+          .tickFormat(d => (d/1000 + "k"));
+        }else{
+          var xaxis = d3.axisBottom()
+          .scale(xscale)
+          .ticks(5)
+          .tickValues(data)
+          .tickFormat(d => (":"+ d));
+        }
+
+        
+        
+        //console.log(data)
         //.ticks(dataset.length/2);
 
         var cscale = d3.scaleLinear()
@@ -394,10 +414,10 @@
           
 
         }
-
+        var dataFiltered = dataset.filter(function(d){return d.time == selectedYear;}).filter(function(d){return d[factorSelected] != "";}).filter(function(d){return d[healthList[k].value] != "";})
         if(onCreate){
           svg.selectAll("circle")
-            .data(dataset.filter(function(d){return d.time == selectedYear;}).filter(function(d){return d[factorSelected] != "";}).filter(function(d){return d[healthList[k].value] != "";}))
+            .data(dataFiltered)
             .enter().append("circle")
             .style("opacity",0.7)
             .on("mouseover", function (d, i) {
@@ -420,12 +440,14 @@
             })
             .attr("location", function (d) { return d.location; });
         }else{
+
           var nrOfCircles = d3.selectAll("."+healthList[k].value).size();
           for(var j = 0; j < nrOfCircles; j++){
             svg.select("#scatter_"+j)
               .transition()
               .duration(1000)
               .attr("cx", function (d, i) {
+              //console.log(d[factorSelected]);
                 return xscale(d[factorSelected]);
                })
           .attr("cy", function (d) {
