@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+    </head>
+
+    <body>
+        <script>
+
+
+            var files = ["HealthyData.json", "corre.json"];
+            var promises = [];
+            var data = null;
+            var selectedCircle;
+
+            files.forEach(function (url) {
+            promises.push(d3.json(url))
+            });
+
+            // Upload files
+            Promise.all(promises).then(function (values) {
+                var scatter = values[0];
+                var correlation = values[1];
+
+                //console.log(scatter);
+
+                var map = scatter.map(function(i) {return parseInt(i.hours_worked);})
+                console.log(map)
+            
+                });
+         
+
+
+
+
+
+        </script>
+    </body>
+</html>
