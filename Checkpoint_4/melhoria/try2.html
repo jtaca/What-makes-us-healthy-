@@ -1,40 +1,146 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <script src="https://d3js.org/d3.v5.min.js"></script>
-    </head>
 
-    <body>
-        <script>
+<head>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="d3-tip.js"></script>
+    <style>
+      :root { --var-color-grey: #898989; }
+      body { 
+          margin:0; 
+          position:fixed; 
+          top:0; 
+          right:0; 
+          bottom:0; 
+          left:0; 
+          font-family: Helvetica; ; 
+          }
+      text {
+          font-family: Helvetica;
+          color: var(--var-color-grey);
+          font-size: 1.2em;
+      }
+      .y.axis path,
+      .y.axis line {
+          fill: none;
+          stroke: var(--var-color-grey);
+          shape-rendering: crispEdges;
+      }
+      .x.axis path,
+      .x.axis line,
+      .grid path { stroke-width: 0; }
+      .tick line {
+          stroke: lightgrey;
+          opacity: 0.6;
+          stroke-dasharray: 2,1;
+          stroke-width: 1;
+          shape-rendering: crispEdges;
+      }
+      .d3-tip {
+        line-height: 1;
+        padding: 6px;
+        background: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        border-radius: 4px;
+        font-size: 12px;
+      }
+  
+    </style>
+</head>
+
+<body>
+    <script>
 
 
-            var files = ["HealthyData.json", "corre.json"];
-            var promises = [];
-            var data = null;
-            var selectedCircle;
+        var files = ["HealthyData.json", "corre.json"];
+        var promises = [];
+        var data = null;
+        var selectedCircle;
 
-            files.forEach(function (url) {
+        files.forEach(function (url) {
             promises.push(d3.json(url))
-            });
+        });
 
-            // Upload files
-            Promise.all(promises).then(function (values) {
-                var scatter = values[0];
-                var correlation = values[1];
+        // Upload files
+        Promise.all(promises).then(function (values) {
+            var scatter = values[0];
+            var correlation = values[1];
 
-                //console.log(scatter);
 
-                var map = scatter.map(function(i) {return parseInt(i.hours_worked);})
-                console.log(map)
             
-                });
-         
+
+
+
+            function violinChart(scatter) {
+                
+                console.log(scatter);
+
+                var colorScale = d3.scaleOrdinal().range(["blue", "red", "yellow"])
+
+
+                var map = scatter.map(function (i) { return parseInt(i.hours_worked); })
+                var count = 5;
+                var x = d3.scaleLinear().domain(d3.extent(map)).nice(count);
+                var histogram = d3.histogram().domain(x.domain()).thresholds(x.ticks(count));
+                var bins = histogram(map);
+                console.log(bins.map(b => b.length));
+
+                //var normal = d3.randomNormal()    
+                //var sampleData2 = d3.range(100).map(d => normal())
+                //console.log(sampleData2);
+
+                var sampleData1 = map
+                console.log(d3.max(sampleData1));
+                console.log(d3.min(sampleData1));
+
+                var height = 400
+
+                var histoChart = d3.histogram();
+
+                histoChart
+                    .domain([d3.min(sampleData1), d3.max(sampleData1)])
+                    //.thresholds([-3, -2.5, -2, -1.5, -1, -0.5, 0, 0.5, 1, 1.5, 2, 2.5, 3])
+                    .value(d => d)
+                d3.select("body").append("svg").attr("width", 500).attr("height", 500);
+
+                var yScale = d3.scaleLinear().domain([d3.min(sampleData1), d3.max(sampleData1)]).range([height, 0])
+                var yAxis = d3.axisRight().scale(yScale)
+                    .tickSize(300)
+
+                d3.select("svg").append("g").call(yAxis)
+                    .attr("class", "yAxis")
+                    .attr("transform", "translate(0,10)")
+
+                var area = d3.area()
+                    .x0(d => -d.length)
+                    .x1(d => d.length)
+                    .y(d => yScale(d.x0))
+                    .curve(d3.curveCatmullRom)
+
+
+                d3.select("svg").selectAll("g.violin")
+                    .data([sampleData1]).enter()
+                    .append("g")
+                    .attr("transform", (d, i) => `translate(${50 + i * 100}, 10)`).append("path")
+                    .style("stroke", "black")
+                    .style("stroke-width", 2)
+                    .style("fill", (d, i) => colorScale(i))
+                    .attr("d", d => area(histoChart(d)))
+
+            }
+            violinChart(scatter);
+
+
+
+        });
 
 
 
 
 
-        </script>
-    </body>
+
+    </script>
+</body>
+
 </html>
