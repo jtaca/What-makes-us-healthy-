@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>What makes us healthy?</title>
+  <link rel="stylesheet" href="what-makes-us-healthy.css">
+  <script src="d3.v5.js" charset="utf-8"></script>
+  <!--<script src="what-makes-us-healthy.js"></script>-->
+  <script srv="map.js"></script>
+  <script src="radarChart.js" charset="utf-8"></script>
+
+  <script src="d3-tip.js"></script>
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+
+
+
+
+
+
+  <style>
+    body {
+      font-size: 11px;
+      font-weight: 300;
+      fill: #242424;
+      text-align: center;
+      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      zoom: 100%;
+      cursor: default;
+    }
+
+    .legend {
+
+      fill: #333333;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      grid-template-rows: 160px 160px;
+      grid-template-columns: 160px 160px 160px;
+    }
+
+    .grid-container1 {
+
+      grid-template-rows: 150px auto;
+
+    }
+
+    .grid-container {
+      display: inline-grid;
+      grid-template-rows: auto auto;
+    }
+
+    .line {
+      fill: none;
+      stroke: #ffab00;
+      stroke-width: 3;
+    }
+
+    .grid-item1 {
+      background-color: #2196F3;
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      font-size: 30px;
+      text-align: center;
+
+
+    }
+
+    .grid-item2 {
+      background-color: #2196FF;
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      font-size: 30px;
+      text-align: center;
+      height: 400px;
+
+    }
+    .states:hover{
+        opacity: .6;
+      }
+  </style>
+</head>
+
+<body>
+  <h1>What makes us healthy?</h1>
+
+  <div class="grid-container1 col-md-12 row">
+    <div class="col-md-2" id="slider-vertical" style=" text-align:left;">
+      <label style="display: block; background-color: #1763A9 ;text-shadow: none; color: white; border-radius: 25px;"
+        id="Laverage_wages"><input type="radio" class="radio" value="gender" id="average_wages"> Average Wages</label>
+      <label style="display: block; background-color: #F67A27 ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lhours_worked"><input type="radio" class="radio" name="gender" id="hours_worked">Hours worked</label>
+      <label style="display: block; background-color: #3BA257 ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Leducation"><input type="radio" class="radio" name="gender" id="education">Education</label>
+      <label style="display: block; background-color: #6F7270 ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lpollution"><input type="radio" class="radio" name="gender" id="pollution">Pollution</label>
+      <label style="display: block; background-color: #D7301F ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lgdp"><input type="radio" class="radio" name="gender" id="gdp">GDP</label>
+      <label style="display: block; background-color: #603E9A ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lsocial_spending"><input type="radio" class="radio" name="gender" id="social_spending">Social
+        spending</label>
+      <label style="display: block; background-color: #9CD587 ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lemployment_rate"><input type="radio" class="radio" name="gender" id="employment_rate">Employment
+        rate</label>
+      <label style="display: block; background-color: #E85EA6 ;text-shadow: none; color: white;border-radius: 25px;"
+        id="Lhappiness"><input type="radio" class="radio" name="gender" id="happiness">Happiness</label>
+      <div class="col-md-12" id="slider-time" style="padding:0px"></div>
+    </div>
+
+    <div class=" col-md-6" id="map">
+      <svg id="my_dataviz" width="400" height="200"></svg>
+      <svg id="colorScaleLegend" width="400" height="10"></svg>
+
+
+    </div>
+
+    <div class="grid-container1 col-md-4">
+      <div class="col-md-12 radarChart" style="display: inline-flex; margin-left: auto;margin-right: auto "></div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="col-md-12 violins" height="400"></div>
+    </div>
+
+
+    <div class="grid-container col-md-6">
+      <div class="grid-item" id="the_chart0"></div>
+      <div class="grid-item" id="the_chart1"></div>
+      <div class="grid-item" id="the_chart2"></div>
+      <div class="grid-item" id="the_chart3"></div>
+      <div class="grid-item" id="the_chart4"></div>
+      <div class="grid-item" id="the_chart5"></div>
+      <div class="grid-item" id="the_chart6"></div>
+      <div class="grid-item" id="the_chart7"></div>
+    </div>
+  </div>
+
+
+
+  <script type="text/javascript">
+
+    var files = ["HealthyData.json", "corre.json", "featuresMap.json"];
+    var promises = [];
+    var data = null;
+    var selectedCircle;
+
+    files.forEach(function (url) {
+      promises.push(d3.json(url))
+    });
+
+    // Upload files
+    Promise.all(promises).then(function (values) {
+      var scatter = values[0];
+      var correlation = values[1];
+      var mapData = values[2].features;
+      var countries = [];
+      for(var p=0; p<mapData.length; p++){
+        countries.push(mapData[p].id);
+      }
+      console.log(countries);
+      dataMap = new Map();
+
+
+      var dispatch = d3.dispatch("timeEvent", "factorEvent", "eventMouseOver", "eventMouseOut");
+
+      dict = {
+        "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+        "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate", "Happiness": "happiness"
+      }
+
+      yearSelected = 2010;
+      factorSelected = "Average Wages";
+      d3.select("#" + dict[factorSelected]).attr('checked', 'true');
+      //RADIO BUTTONS
+      function getKeyByValue(object, value) {
+        for (var key = 0; key < Object.keys(object).length; key++) {
+          if (object[Object.keys(object)[key]] == value) {
+            return Object.keys(object)[key];
+          }
+        }
+      }
+
+      var hexDigits = new Array
+        ("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f");
+
+      //Function to convert rgb color to hex format
+      function rgb2hex(rgb) {
+        rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
+        return "#" + hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3]);
+      }
+
+      function hex(x) {
+        return isNaN(x) ? "00" : hexDigits[(x - x % 16) / 16] + hexDigits[x % 16];
+      }
+      //////radio
+      d3.selectAll(".radio").on('click', function () {
+        d3.select("#" + dict[factorSelected]).attr('checked', null);
+        factorSelected = getKeyByValue(dict, this.id);
+        
+        var colorLegend = d3.select("#L" + dict[factorSelected]).style("background-color");
+        drawMap(scatter, yearSelected, factorSelected, false, rgb2hex(colorLegend));
+        drawRadarChart(yearSelected, factorSelected, false, rgb2hex(colorLegend));
+        drawScatterPlot(scatter, yearSelected, dict[factorSelected], false, rgb2hex(colorLegend));
+      });
+
+
+      //draw graphics for the first time
+      drawMap(scatter, yearSelected, factorSelected, true, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+      drawRadarChart(yearSelected, factorSelected, true, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+      drawScatterPlot(scatter, yearSelected, dict[factorSelected], true, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+      drawBoxPlot(scatter, yearSelected, factorSelected, true);
+      ///////////////////////// TIME SLIDER /////////////////////////
+
+      var dataTime = d3.range(0, 11).map(function (d) {
+        return new Date(2007 + d, 10, 3);
+      });
+      var gTime = d3
+        .select('#slider-time')
+        .append('svg')
+        .attr('width', 500)
+        .attr('height', 75)
+        .append('g')
+        .attr('transform', 'translate(20,30)');
+
+      //d3.select('p#value-time').text(d3.timeFormat('%Y')(sliderTime.value()));
+
+      var sliderTime = d3
+        .sliderBottom()
+        .min(d3.min(dataTime))
+        .max(d3.max(dataTime))
+        .step(1000 * 60 * 60 * 24 * 365)
+        .width(450)
+        .height(75)
+        .tickFormat(d3.timeFormat('%Y'))
+        .tickValues(dataTime)
+        .default(new Date(2010, 10, 3))
+        .handle(
+          d3.symbol()
+            .type(d3.symbolCircle)
+            .size(200))
+        .on('onchange', val => {
+          dispatch.call("timeEvent", this, d3.timeFormat('%Y')(val))
+        });
+
+      // var ticks = d3.selectAll("#slider-time").selectAll(".tick");
+      // console.log(ticks);
+      // ticks.selectAll("text").attr("dy","0");
+      gTime.call(sliderTime);
+
+      ///////////////////////// FACTOR SLIDER /////////////////////////
+
+
+      // var sliderVertical = d3
+      //   .sliderRight()
+      //   .min(0)
+      //   .max(6)
+      //   .step(1)
+      //   .height(200)
+      //   .width(300)
+      //   .tickFormat(function (i) { return ticks[i] })
+      //   .ticks(5)
+      //   .handle(
+      //     d3.symbol()
+      //       .type(d3.symbolCircle)
+      //       .size(200))
+      //   .on('onchange', val => {
+      //     dispatch.call("factorEvent", this, ticks[val])
+      //     //dispatch.call("factorEvent", this, )
+      //   });
+
+      // var gVertical = d3
+      //   .select('div#slider-vertical')
+      //   .append('svg')
+      //   .attr('width', 300)
+      //   .attr('height', 250)
+      //   .append('g')
+      //   .attr('transform', 'translate(30,30)');
+
+      // gVertical.call(sliderVertical);
+
+
+      //TIME EVENT
+      dispatch.on("timeEvent", function (time) {
+        var dict = {
+          "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+          "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate", "Happiness": "happiness"
+        }
+        yearSelected = time;
+
+        drawMap(scatter, time, factorSelected, false, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawRadarChart(time, factorSelected, false, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawScatterPlot(scatter, time, dict[factorSelected], false, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawBoxPlot(scatter, yearSelected, factorSelected, false);
+      });
+
+      //FACTOR EVENT
+      dispatch.on("factorEvent", function (event) {
+        var dict = {
+          "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+          "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate", "Happiness": "happiness"
+        }
+        factorSelected = event;
+        drawMap(scatter, yearSelected, event, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawRadarChart(yearSelected, event, false, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawScatterPlot(scatter, yearSelected, dict[event], false, rgb2hex(d3.select("#L" + dict[factorSelected]).style("background-color")));
+        drawBoxPlot(scatter, yearSelected, factorSelected, false);
+      });
+
+      dispatch.on("eventMouseOver", function ([loc, health, colorLegend]) {
+          d3.selectAll("[location=\"" + loc + "\"]").attr("r", "5").style("opacity", 1);
+          d3.selectAll(".Country")
+          .transition()
+                      .duration(200)
+                      .style("opacity", .5)
+                      d3.select("#path_"+loc)
+                      .transition()
+            .duration(200)
+            .style("opacity", 1)
+            .style("stroke", "black");
+            if(health!=null){
+              console.log(d3.select("[id=\"" + health + "\"]"));
+              d3.select("[id=\"" + health + "\"]").attr("r","6");
+              d3.select("[id=\"" + health + "\"]").style("fill",colorLegend);
+            }
+      });
+      dispatch.on("eventMouseOut", function ([loc, health, colorLegend]) {
+          d3.selectAll(".circleScatter").attr("r", "2").style("opacity", 0.7);
+
+          d3.selectAll(".Country")
+             .transition()
+             .duration(200)
+             .style("opacity", .8)
+             .style("stroke", "grey");
+          if(health!=null){
+            d3.select("[id=\"" + health + "\"]").attr("r","4");
+          }
+
+      });
+
+      function drawMap(scatter, yearSelected, factorSelected, onCreate, colorLegend) {
+        var dict = {
+          "Average Wages": "average_wages", "Hours worked": "hours_worked", "Education": "education", "Pollution": "pollution",
+          "GDP": "gdp", "Social spending": "social_spending", "Employment rate": "employment_rate", "Happiness": "happiness"
+        }
+        var max = 0;
+        var min = 100;
+        var all = [];
+        for (p = 0; p < scatter.length; p++) {
+          if (scatter[p].time == yearSelected && scatter[p][dict[factorSelected]] != "") {
+            if (max < scatter[p][dict[factorSelected]]) {
+              max = scatter[p][dict[factorSelected]];
+            }
+            if (min > scatter[p][dict[factorSelected]]) {
+              min = scatter[p][dict[factorSelected]];
+            }
+            all.push(scatter[p][dict[factorSelected]]);
+            dataMap.set(scatter[p].location, scatter[p][dict[factorSelected]]);
+          }
+        }
+        console.log(factorSelected, min, max);
+        console.log(all);
+        var tipMap = d3.tip()
+          .attr('class', 'd3-tip')
+          .direction('e')
+          .html(function (d) {
+            console.log(d);
+            var content = "<span style=\"background-color: rgb(168, 167, 166); opacity:0.9;color: white; border-radius:25px;padding:5%;text-shadow:none; top:0px\">" + d.id + "</span>";
+            return content;
+        });
+        var svg = d3.select("#my_dataviz"),
+          width = +svg.attr("width"),
+          height = +svg.attr("height");
+        svg.call(tipMap);
+        // Map and projection
+        var path = d3.geoPath();
+        var projection = d3.geoMercator()
+          .scale(70)
+          .center([0, 20])
+          .translate([width / 2, height / 1.8]);
+        console.log(all.length);
+        // Data and color scale
+        var data = d3.map();
+
+        var colorScaleBlue = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeBlues[9]);
+        var colorScaleGrey = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeGreys[9]);
+        var colorScaleGreen = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeGreens[9]);
+        var colorScalePurple = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemePurples[9]);
+        var colorScaleRed = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeYlGn[9]);
+        var colorScaleOranges = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeOranges[9]);
+        var colorScaleOrangeToRed = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemeOrRd[9]);
+        var colorScalePink = d3.scaleThreshold()
+          .domain(all)
+          .range(d3.schemePuRd[9]);
+
+        
+        var colorScale = colorScaleBlue;
+        var interpolator = "interpolateBlues";
+        if (factorSelected == "Hours worked" || colorLegend=="#F67A27") {
+          colorScale = colorScaleOranges;
+          interpolator = "interpolateOranges";
+        } else if (factorSelected == "Education" || colorLegend=="#3BA257") {
+          colorScale = colorScaleGreen;
+          interpolator = "interpolateGreens"
+        } else if (factorSelected == "Pollution" || colorLegend=="#6F7270") {
+          colorScale = colorScaleGrey;
+          interpolator = "interpolateGreys";
+        } else if (factorSelected == "GDP" || colorLegend=="#D7301F") {
+          colorScale = colorScaleOrangeToRed;
+          interpolator = "interpolateOrRd";
+        } else if (factorSelected == "Social spending" || colorLegend=="#603E9A") {
+          colorScale = colorScalePurple;
+          interpolator = "interpolatePurples";
+        } else if (factorSelected == "Employment rate" || colorLegend =="#9CD587") {
+          colorScale = colorScaleRed;
+          interpolator = "interpolateYlGn";
+        } else if (factorSelected == "Happiness" || colorLegend == "#E85EA6") {
+          colorScale = colorScalePink;
+          interpolator = "interpolatePuRd";
+        }
+
+        if (onCreate) {
+          var svg1 = d3.select("#colorScaleLegend")
+            .append("g");
+
+
+          var colorScaleLegend = d3.scaleSequential(d3["interpolateBlues"])
+            .domain([0, width]);
+
+
+          var bars = svg1.selectAll(".bars")
+            .data(d3.range(width), function (d) { return d; })
+            .enter().append("rect")
+            .attr("class", "bars")
+            .attr("x", function (d, i) { return i; })
+            .attr("y", 0)
+            .attr("height", height)
+            .attr("width", 1)
+            .style("fill", function (d, i) { return colorScaleLegend(d); })
+        }
+        else {
+          var colorScaleLegend = d3.scaleSequential(d3[interpolator])
+          .domain([0, width]);
+          d3.selectAll(".bars")
+            .transition()
+            .duration(500)
+            .style("fill", function (d, i) { return colorScaleLegend(d); })
+        }
+
+
+
+        /////////////////////////////////////
+
+        // Load external data and boot
+        let mouseOver = function (d) {
+          d3.selectAll(".Country")
+            .transition()
+            .duration(200)
+            .style("opacity", .5)
+          d3.select(this)
+            .transition()
+            .duration(200)
+            .style("opacity", 1)
+            .style("stroke", "black")
+        }
+        let mouseLeave = function (d) {
+          d3.selectAll(".Country")
+            .transition()
+            .duration(200)
+            .style("opacity", .8)
+            .style("stroke", "grey")
+          d3.select(this)
+            .transition()
+            .duration(200)
+            .style("stroke", "grey")
+        }
+        if (onCreate) {
+
+          // Draw the map
+          svg.append("g")
+            .attr("class", "gmap")
+            .selectAll("path")
+            .data(mapData)
+            .enter()
+            .append("path")
+            // draw each country
+            .attr("d", d3.geoPath()
+              .projection(projection)
+            )
+            .attr("id", (d, i) => "path_" + d.id)
+            // set the color of each country
+            .attr("fill", function (d) {
+              total = dataMap.get(d.id) || 0;
+              return colorScale(total);
+            })
+            .style("stroke", "grey")
+            .style("stroke-width", "1")
+            .attr("class", "Country")
+            .on("mouseover.text", tipMap.show)//mouseOver)
+            .on("mouseleave.text", tipMap.hide)// mouseLeave);
+            .on("mouseover.path", (d, i) =>  dispatch.call("eventMouseOver", this, [d.id, null, null]))
+            .on("mouseout.path",  (d, i) =>  dispatch.call("eventMouseOut", this, [d.id, null, null]));
+           
+           
+        
+              // d3.select(".gmap")
+              // .data(mapData).filter(function(d){ cons
+                
+              //   var dataMapp = d.geometry.coordinates[0];
+              //   for (var i = 0; i < dataMapp.length; i++) {
+              //     console.log(dataMapp[i]);                  
+              //   }
+              //   // if(d.geometry.coordinates[0] ){
+              //     return d.geometry.coordinates;
+              //   // }
+              // });
+            
+          
+          
+          
+
+            var zoom = d3.zoom()
+                .scaleExtent([1, 10])
+                .on('zoom', function() {
+                    d3.selectAll('.Country')
+                    .attr('transform', d3.event.transform);
+          });
+
+          svg.call(zoom);
+        } else {
+          //console.log(nrOfPaths);
+          for (var j = 0; j < countries.length; j++) {
+            d3.select("#path_" + countries[j])
+              .transition()
+              .duration(500)
+              // set the color of each country
+              .attr("fill", function (d) {
+                total = dataMap.get(d.id) || 0;
+                return colorScale(total);
+              });
+          }
+        }
+
+      }
+
+      function drawRadarChart(time, event, onCreate, colorLegend) {
+        console.log("hey");
+        console.log(correlation[1]);
+        arrayCorrelation = [];
+        for (var i = 0; i < correlation.length; i++) {
+          if (correlation[i].Time == time && correlation[i].Var == event) {
+            arrayCorrelation.push(correlation[i].Alcohol, correlation[i].Smokers, correlation[i].Cancer, correlation[i].Suicide, correlation[i].LifeAtOld, correlation[i].LifeAtBirth, correlation[i].Obese, correlation[i].Happiness);
+          }
+        }
+        var data = [
+          {
+            name: 'Correlation ',
+            axes: [
+              { axis: 'Alcohol', value: arrayCorrelation[0] },
+              { axis: 'Obese', value: arrayCorrelation[1] },
+              { axis: 'Smokers', value: arrayCorrelation[2] },
+              { axis: 'Life expectancy at birth', value: arrayCorrelation[3] },
+              { axis: 'Life expectancy at 65', value: arrayCorrelation[4] },
+              { axis: 'Suicide rate', value: arrayCorrelation[5] },
+              { axis: 'Deaths by cancer', value: arrayCorrelation[6] }
+            ]
+          }
+        ];
+        var margin = { top: 50, right: 50, bottom: 50, left: 80 },
+          width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+          height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+
+        var radarChartOptions = {
+          w: 150,
+          h: 170,
+          margin: margin,
+          maxValue: 1,
+          levels: 5,
+          roundStrokes: false,
+          color: colorLegend,
+          format: '.2'
+        };
+
+
+        var tip7 = d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"background-color: rgb(168, 167, 166); opacity:0.9;color: white; border-radius:25px;padding:5%;text-shadow:none\">" + d.value + "</span>";
+            return content;
+          });
+
+        const parent = d3.select(".radarChart");
+        let svgRADAR = parent.select("svg");
+
+        if (onCreate) {
+          //Initiate the radar chart SVG
+          svgRADAR = parent.append("svg")
+            .attr("width", radarChartOptions.w + radarChartOptions.margin.left + radarChartOptions.margin.right)
+            .attr("height", radarChartOptions.h + radarChartOptions.margin.top + radarChartOptions.margin.bottom)
+            .attr("class", "radar");
+        }
+        svgRADAR.call(tip7);
+        let svg_radar1 = RadarChart(".radarChart", data, radarChartOptions, tip7, onCreate, svgRADAR, colorLegend);
+      }
+
+
+      function drawScatterPlot(dataset, selectedYear, factorSelected, onCreate, colorLegend) {
+        var w = 150;
+        var h = 150;
+        var padding = 32;
+        var bar_w = 0;
+        var r = 2;
+
+        var healthList = [
+          { title: 'Obese', value: "obese" },
+          { title: 'Alcohol', value: "alcohol" },
+          { title: 'Smokers', value: "smokers" },
+          { title: 'Life expectancy at birth', value: "life_at_birth" },
+          { title: 'Life expectancy at 65', value: "life_at_old" },
+          { title: 'Suicide rate', value: "suicide" },
+          { title: 'Deaths by cancer', value: "cancer" },
+        ]
+
+        
+          var tipObese = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function (d) {
+              var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none;\">" +
+                "<b>Location: </b>" + d.location + "</br>" +
+                "<b>Obese: </b>" + d["obese"] + "% </br>"+
+                "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+                "</span>";
+                console.log(d);
+              return content;
+            });
+
+          var tipAlcohol = d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Alcohol: </b>" + d["alcohol"] + " lt/cap </br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+          var tipSmokers = d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Smokers: </b>" + d["smokers"] + " % </br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+          var tipLifeAtBirth = d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Life at birth: </b>" + d["life_at_birth"] + " years </br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+          var tipLifeAtOld = d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Life at old: </b>" + d["life_at_old"] + " years</br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+          var tipSuicide= d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"width:100%;background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Suicide: </b>" + d["suicide"] + " per 100 000 persons</br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+          var tipCancer= d3.tip()
+          .attr('class', 'd3-tip')
+          .html(function (d) {
+            var content = "<span style=\"background-color: rgb(168, 167, 166); opacity:0.9;color: white; display:block; border-radius:25px;padding:5%;text-shadow:none\">" +
+              "<b>Location: </b>" + d.location + "</br>" +
+              "<b>Cancer: </b>" + d["cancer"] + " per 100 000 persons </br>"+
+              "<b>" + getKeyByValue(dict, factorSelected) + "</b>: " + d[factorSelected] + "</br>" +
+              "</span>";
+
+            return content;
+          });
+
+
+
+
+        for (var k = 0; k < healthList.length; k++) {
+          console.log(healthList[k]);
+          var svg = onCreate ? d3.select("#the_chart" + k)
+            .append("svg")
+            .attr("width", w)
+            .attr("height", h)
+            .attr("class", "_"+healthList[k].value)
+            .attr("fill", colorLegend) : d3.select("#the_chart" + k);
+
+            var hscale = d3.scaleLinear()
+            .domain([d3.max(dataset, function (d) {
+
+              return parseInt(d[healthList[k].value]);
+            }), d3.min(dataset, function (d) {
+              return parseInt(d[healthList[k].value]);
+            })])
+            .range([padding, h - padding]);
+
+          var xscale = d3.scaleLinear()
+            .domain([d3.min(dataset, function (d) {
+              return parseInt(d[factorSelected]);
+            }), d3.max(dataset, function (d) {
+              return parseInt(d[factorSelected]);
+            })])
+            .range([padding, w - padding]);
+
+          var yaxis = d3.axisLeft()
+            .scale(hscale)
+            .ticks(5);
+
+
+          var xaxis = d3.axisBottom()
+            .scale(xscale)
+            .ticks(5);
+          //.ticks(dataset.length/2);
+          var cscale = d3.scaleLinear()
+            .domain([d3.min(dataset, function (d) { return d[factorSelected]; }),
+            d3.max(dataset, function (d) { return d[factorSelected]; })])
+            .range(["red", colorLegend]);
+
+          
+            if(healthList[k].value=="obese"){
+              d3.select("._obese").call(tipObese);
+            }else if(healthList[k].value=="alcohol"){
+              d3.select("._alcohol").call(tipAlcohol);
+            }else if(healthList[k].value=="smokers"){
+              d3.select("._smokers").call(tipSmokers);
+            } else if(healthList[k].value=="life_at_birth"){
+              d3.select("._life_at_birth").call(tipLifeAtBirth);
+            } else if(healthList[k].value=="life_at_old"){
+              d3.select("._life_at_old").call(tipLifeAtOld);
+            } else if(healthList[k].value=="suicide"){
+              d3.select("._suicide").call(tipSuicide);
+            } else if(healthList[k].value=="cancer"){
+              d3.select("._cancer").call(tipCancer);
+            }
+
+             
+          
+          if (onCreate) {
+            
+            gY = svg.append("g")
+              .attr("transform", "translate(30,0)")
+              .attr("class", "y_axis")
+              .call(yaxis);
+
+
+            gX = svg.append("g")
+              .attr("class", "x_axis")
+              .attr("transform", "translate(0," + (h - padding) + ")")
+              .call(xaxis);
+          } else {
+            gX = d3.selectAll(".x_axis")
+              .transition()
+              .duration(500)
+              .attr("transform", "translate(0," + (h - padding) + ")")
+              .call(xaxis);
+          }
+          svg.selectAll(".xaxis text")  // select all the text elements for the xaxis
+            .attr("fill", "blue")
+            .attr("transform", function (d) {
+
+              return "translate(" + this.getBBox().h * -2 + "," + this.getBBox().h + ")rotate(-45)";
+            });
+
+          if (onCreate) {
+            svg.append("text")
+              .attr("fill", "black")
+              .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+              .attr("transform", "translate(" + (w / 2) + "," + (padding / 2) + ")")  // text is drawn off the screen top left, move down and out and rotate
+              .text(healthList[k].title);
+
+            
+          }
+          
+          if (onCreate) {
+            if (healthList[k].value == "obese") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Obese", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Obese", colorLegend]);
+                })
+                .on("mouseover.text", tipObese.show)
+                .on("mouseout.text", tipObese.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });} 
+            else if (healthList[k].value == "alcohol") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Alcohol", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Alcohol", colorLegend]);
+                })
+                .on("mouseover.text", tipAlcohol.show)
+                .on("mouseout.text", tipAlcohol.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+            }              
+            else if (healthList[k].value == "smokers") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Smokers", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Smokers", colorLegend]);
+                })
+                .on("mouseover.text", tipSmokers.show)
+                .on("mouseout.text", tipSmokers.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+            }
+            else if (healthList[k].value == "life_at_birth") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Life expectancy at birth", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Life expectancy at birth", colorLegend]);
+                })
+                .on("mouseover.text", tipLifeAtBirth.show)
+                .on("mouseout.text", tipLifeAtBirth.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+
+            } 
+            else if (healthList[k].value == "life_at_old") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Life expectancy at 65", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"),  "Life expectancy at 65", colorLegend]);
+                })
+                .on("mouseover.text", tipLifeAtOld.show)
+                .on("mouseout.text", tipLifeAtOld.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+            } 
+            else if (healthList[k].value == "suicide") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                  dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Suicide rate", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Suicide rate", colorLegend]);
+                })
+                .on("mouseover.text", tipSuicide.show)
+                .on("mouseout.text", tipSuicide.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+            } 
+            else if (healthList[k].value == "cancer") {
+              svg.selectAll(".circleScatter")
+                .data(dataset.filter(function (d) { return d.time == selectedYear; }).filter(function (d) { return d[factorSelected] != ""; }).filter(function (d) { return d[healthList[k].value] != ""; }))
+                .enter().append("circle")
+                .style("opacity", 0.7)
+                .on("mouseover.circle", function (d, i) {
+                dispatch.call("eventMouseOver", this, [d3.select(this).attr("location"), "Deaths by cancer", colorLegend]);
+                })
+                .on("mouseout.circle", function (d, i) {
+                  dispatch.call("eventMouseOut", this, [d3.select(this).attr("location"), "Deaths by cancer", colorLegend]);
+                })
+                //.on("mouseover.text", tipCancer.show)
+                //.on("mouseout.text", tipCancer.hide)
+                .attr("r", r)
+                .attr("class", "circleScatter "+  healthList[k].value)
+                .attr("fill", colorLegend)
+                .attr("id", (d, i) => "scatter_" + i)
+                .attr("cx", function (d, i) {
+                  //if (d[factorSelected] != 0 && d[healthList[k].value] != 0 && d.time == selectedYear) { 
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+                })
+                .attr("location", function (d) { return d.location; });
+            }  
+          }
+           else {
+            var nrOfCircles = d3.selectAll("." + healthList[k].value).size();
+            console.log(nrOfCircles);
+              svg.selectAll(".circleScatter")
+                .transition()
+                .duration(1000)
+                .attr("fill", colorLegend)
+                .attr("cx", function (d, i) {
+                  return xscale(d[factorSelected]);
+                })
+                .attr("cy", function (d) {
+                  return hscale(d[healthList[k].value]);
+
+                })}
+           
+        d3.select("._obese").append("line")
+          .attr("x1", 30)
+          .attr("y1", 70)
+          .attr("x2", 70)
+          .attr("y2", 30)
+          .attr("stroke-width", 2)
+          .attr("stroke", "black");
+        }
+      }
+
+      function drawBoxPlot(scatter, yearSelected, factorSelected, onCreate) {
+           
+              var healthList = [
+                { title: factorSelected, value: dict[factorSelected], arr:[] },
+                { title: 'Obese', value: "obese", arr:[]},
+                { title: 'Alcohol', value: "alcohol", arr:[] },
+                { title: 'Smokers', value: "smokers", arr:[] },
+                { title: 'Life expectancy at birth', value: "life_at_birth", arr:[] },
+                { title: 'Life expectancy at 65', value: "life_at_old", arr:[] },
+                { title: 'Suicide rate', value: "suicide", arr:[] },
+                { title: 'Deaths by cancer', value: "cancer", arr:[] },
+              ]
+
+              for (var k = 0; k < healthList.length; k++) {
+                temp = [];
+                for (var i = 0; i < scatter.length; i++) {
+                  if(scatter[i][healthList[k].value] != "" && scatter[i].time == yearSelected ){
+                    temp.push(parseInt(scatter[i][healthList[k].value]));
+                  }
+                }
+                healthList[k]["arr"] = temp.sort(function (a, b) {
+                  return a-b;
+                });
+                var max = 0;
+                var min = 10000;
+                for (var i = 0; i < healthList[k].arr.length; i++) {
+                  if(healthList[k].arr[i] > max){
+                    max = healthList[k].arr[i];
+                  }
+                  if(healthList[k].arr[i]<min){
+                    min=healthList[k].arr[i];
+                  }
+                }
+
+                
+                var varcolor = "#898989";
+                var count = 5;
+  
+                // Size and color settings for the chart
+                var totalWidth = 100;
+                var totalheight = 200;
+                var margin = {top: 40, right: 30, bottom: 30, left: 20},
+                    width = totalWidth - margin.left - margin.right,
+                    height = totalheight - margin.top - margin.bottom;
+                var barWidth = 20;
+                var boxPlotColor = "#898989";
+                var medianLineColor = "#ffffff";
+                var axisColor = "#898989";
+    
+                // Setup the svg and group we will draw the box plot in
+                
+                var svg = onCreate ? d3.select(".violins").append("svg")
+                .attr("class","box"+healthList[k].title)
+                .attr("width", totalWidth)
+                .attr("height", totalheight)
+                .append("g")
+                .attr("transform", "translate(" + (margin.left - barWidth) + "," + margin.top + ")") : d3.select(".box"+healthList[k].title);
+    
+                // Move axis to center align the bars with the xAxis ticks
+                var yAxisBox = onCreate ? svg.append("g").attr("class","yAxisBox_"+healthList[k].title).attr("transform", "translate(40,0)") : svg.select(".yAxisBox_"+healthList[k].title).attr("transform", "translate(40,0)");
+                var xAxisBox = onCreate ? svg.append("g").attr("class","xAxisBox_"+healthList[k].title).attr("transform", "translate(40,0)") : svg.select(".xAxisBox_"+healthList[k].title).attr("transform", "translate(40,0)");
+    
+                var plotData = [];
+                var colorIndex = 0.1;
+                var colorIndexStepSize = 0.08;
+    
+                var record = {};
+                var localMin = min;//d3.min(map);
+                console.log(localMin);
+                var localMax = max;//d3.max(map);
+                console.log(localMax);
+    
+                record["key"] = healthList[k].title;
+                record["counts"] = healthList[k].arr;
+                record["quartile"] = boxQuartiles(healthList[k].arr);
+                record["whiskers"] = [localMax, localMin];
+                record["color"] = varcolor;
+                
+                plotData.push(record);
+                colorIndex += colorIndexStepSize;
+                
+                    // Create Tooltips
+                    var tip = d3.tip().attr('class', 'd3-tip').direction('e').offset([0,5])
+                        .html(function(d) {
+                            var content = "<span style='margin-left: 2.5px;'><b>" + d.key + "</b></span><br>";
+                            content +=`
+                                <table style="margin-top: 2.5px;">
+                                        <tr><td>Max: </td><td style="text-align: right; text-shadow:none">` + d3.format(".2f")(d.whiskers[0]) + `</td></tr>
+                                        <tr><td>Q3: </td><td style="text-align: right;text-shadow:none">` + d3.format(".2f")(d.quartile[0]) + `</td></tr>
+                                        <tr><td>Median: </td><td style="text-align: right;text-shadow:none">` + d3.format(".2f")(d.quartile[1]) + `</td></tr>
+                                        <tr><td>Q1: </td><td style="text-align: right;text-shadow:none">` + d3.format(".2f")(d.quartile[2]) + `</td></tr>
+                                        <tr><td>Min: </td><td style="text-align: right;text-shadow:none">` + d3.format(".2f")(d.whiskers[1]) + `</td></tr>
+                                </table>
+                                `;
+                            return content;
+                        });
+                    svg.call(tip);
+    
+                    // Compute an ordinal xScale for the keys in plotData
+                    var xScale = d3.scalePoint()
+                    .domain([record["key"]])
+                    .rangeRound([0, width])
+                    .padding([0.5]);
+    
+                    // Compute a global y scale based on the global counts
+                    var min = min;
+                    var max = max;
+                    var yScale = d3.scaleLinear()
+                        .range([height, 0])
+                        .domain([min, max])
+                        .nice();
+    
+                    // Setup the group the box plot elements will render in
+                    var g = onCreate ? svg.append("g")
+                    .attr("class", "boxRender_"+factorSelected)
+                    .attr("transform", "translate(20,0)") : d3.select(".boxRender_"+factorSelected);
+                  if(onCreate){
+                    // Draw the box plot vertical lines
+                    var verticalLines = g.selectAll(".verticalLines")
+                    .data(plotData)
+                    .enter()
+                    .append("line")
+                    .attr("transform", "translate(10,0)") 
+                    .attr("x1", d => { return xScale(d.key) + barWidth/2; })
+                    .attr("y1", d =>  { return yScale(d.whiskers[0]); })
+                    .attr("x2", d =>  { return xScale(d.key) + barWidth/2; })
+                    .attr("y2", d => { return yScale(d.whiskers[1]); })
+                    .attr("stroke", boxPlotColor)
+                    .attr("stroke-width", 1)
+                    .attr("stroke-dasharray", "5,5")
+                    .attr("fill", "none");
+    
+                    // Draw the boxes of the box plot, filled in white and on top of vertical lines
+                    var rects = g.selectAll("rect")
+                    .data(plotData)
+                    .enter()
+                    .append("rect")
+                    .attr("transform", "translate(10,0)") 
+                    .attr("width", barWidth)
+                    .attr("height", d => {
+                        return yScale(d.quartile[2]) - yScale(d.quartile[0]); })
+                    .attr("x", d => { return xScale(d.key); })
+                    .attr("y", d => { return yScale(d.quartile[0]); })
+                    .attr("fill", d => { return d.color; })
+                    .attr("stroke", boxPlotColor)
+                    .attr("stroke-width", 1)
+                    .on('mouseover', tip.show)
+                    .on('mouseout', tip.hide);
+    
+                    // Config for whiskers and median
+                    var horizontalLineConfigs = [
+                    {   // Top whisker
+                        x1: d => { return xScale(d.key) },
+                        y1: d => { return yScale(d.whiskers[0]) },
+                        x2: d => { return xScale(d.key) + barWidth },
+                        y2: d => { return yScale(d.whiskers[0]) },
+                        color: boxPlotColor
+                    },
+                    {   // Median
+                        x1: d => { return xScale(d.key) },
+                        y1: d => { return yScale(d.quartile[1]) },
+                        x2: d => { return xScale(d.key) + barWidth },
+                        y2: d => { return yScale(d.quartile[1]) },
+                        color: medianLineColor
+                    },
+                    {   // Bottom whisker
+                        x1: d => { return xScale(d.key) },
+                        y1: d => { return yScale(d.whiskers[1]) },
+                        x2: d => { return xScale(d.key) + barWidth },
+                        y2: d => { return yScale(d.whiskers[1]) },
+                        color: boxPlotColor
+                    }
+                    ];
+                        
+                    // Draw the whiskers and median line
+                    for(var i=0; i < horizontalLineConfigs.length; i++) {
+                        var lineConfig = horizontalLineConfigs[i];
+                        var horizontalLine = g.selectAll(".whiskers")
+                            .data(plotData)
+                            .enter()
+                            .append("line")
+                            .attr("transform", "translate(10,0)") 
+                            .attr("x1", lineConfig.x1)
+                            .attr("y1", lineConfig.y1)
+                            .attr("x2", lineConfig.x2)
+                            .attr("y2", lineConfig.y2)
+                            .attr("stroke", lineConfig.color)
+                            .attr("stroke-width", 1)
+                            .attr("fill", "none");
+                    }
+    
+                    // add the Y gridlines
+                    svg.append("g")
+                        .attr("transform", "translate(40,0)")			
+                        .attr("class", "grid")
+                        
+    
+                    // Setup a scale on the left
+                    var yAxis = d3.axisLeft(yScale).ticks(5)
+                    yAxisBox.append("g")
+                        .attr("class", "y axis")
+                        .call(yAxis);
+    
+                    // Setup a series axis on the bottom
+                    var xAxis = d3.axisBottom(xScale);
+                    xAxisBox.append("g")
+                        .attr("class", "x axis")
+                        .attr("width",barWidth)
+                        .attr("transform", "translate(0," + height + ")")
+                        .call(xAxis);
+                //});
+    
+                    // Quartile definition
+                   
+                  
+                    // Quartile definition
+                    
+                  }
+                }
+            };
+           
+            function boxQuartiles(d) {
+              console.log(d);
+                        return [
+                            d3.quantile(d, .75),
+                            d3.quantile(d, .5),
+                            d3.quantile(d, .25),
+                        ];
+                    };
+    });
+  </script>
+</body>
+
+</html>
