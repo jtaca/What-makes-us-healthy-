@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>What Makes us Healthy</title>
+<<<<<<< HEAD
+    <link rel="stylesheet" href="../css/whatMakesUsHealthy.css">
+    <script src="../d3/d3.min.js" charset="utf-8"></script>
+    <script src="../js/violinCharts.js"></script>
+    <script src="../js/worldMap.js"></script>
+    <script src="../js/oscars.js"></script>
+=======
+    <link rel="stylesheet" href="../css/worldMap.css">
+    <script src="../d3/d3.js" charset="utf-8"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="../js/violinCharts.js" charset="utf-8"></script>
+    <script src="../js/worldMap.js" charset="utf-8"></script>
+>>>>>>> aeb1ff7082a59a01edc8eca10f08c84907000cbe
+</head>
+
+<body>
+    <h1>Which life habits make us healthy?</h1>
+<<<<<<< HEAD
+
+    <div id="the_chart"></div>
+    <div id="second_chart"></div>
+
+
+    <script>
+
+        function violinChart() {
+        
+            var colorScale = d3.scaleOrdinal().range(["blue","red","yellow","purple"])
+            var normal = d3.randomNormal()    
+            var sampleData1 = d3.range(100).map(d => normal())
+            var sampleData2 = d3.range(100).map(d => normal())
+            var sampleData3 = d3.range(100).map(d => normal())
+
+            var sampleData4 = d3.range(100).map(d => normal())
+            var sampleData2 = d3.range(100).map(d => normal())
+            var sampleData3 = d3.range(100).map(d => normal())
+            
+            var histoChart = d3.histogram();
+            
+            histoChart
+                .domain([-3,3])
+                .thresholds([-3,-2.5,-2,-1.5,-1,-0.5,0,0.5,1,1.5,2,2.5,3])
+                .value(d => d)    
+            d3.select("body").append("svg").attr("width",500).attr("height",500);
+            
+            var yScale = d3.scaleLinear().domain([-3,3]).range([400,0])
+            var yAxis = d3.axisRight().scale(yScale)
+                .tickSize(300)
+            
+            d3.select("svg").append("g").call(yAxis)
+                .attr("class","yAxis")
+            .attr("transform","translate(0,10)")
+        
+            var area = d3.area()
+                .x0(d => -d.length) 
+                .x1(d => d.length)
+                .y(d => yScale(d.x0))   
+                .curve(d3.curveCatmullRom)
+                
+            
+            d3.select("svg").selectAll("g.violin")
+            .data([sampleData1,sampleData2,sampleData3]).enter()    
+            .append("g")
+            .attr("transform",(d,i) => `translate(${50 + i * 100}, 10)`)    .append("path")
+                .style("stroke","black")
+                .style("stroke-width", 2)
+                .style("fill",(d,i) => colorScale(i))
+                .attr("d", d => area(histoChart(d)))
+        
+        }
+        violinChart();
+        </script>
+        
+
+=======
+    <div id="worldMap"></div>
+    <div id="violinChart"></div>
+>>>>>>> aeb1ff7082a59a01edc8eca10f08c84907000cbe
+</body>
+
+</html>

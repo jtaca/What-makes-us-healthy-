@@ -1,0 +1,7262 @@
+[
+  {
+    "Location": "AFG",
+    "Time": 2008,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "AFG",
+    "Time": 2009,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "AFG",
+    "Time": 2010,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "AFG",
+    "Time": 2011,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "AFG",
+    "Time": 2012,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "AFG",
+    "Time": 2013,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "AFG",
+    "Time": 2014,
+    "Happiness": 3.1
+  },
+  {
+    "Location": "AFG",
+    "Time": 2015,
+    "Happiness": 4
+  },
+  {
+    "Location": "AFG",
+    "Time": 2016,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "AFG",
+    "Time": 2017,
+    "Happiness": 2.7
+  },
+  {
+    "Location": "AGO",
+    "Time": 2011,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "AGO",
+    "Time": 2012,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "AGO",
+    "Time": 2013,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "AGO",
+    "Time": 2014,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "ALB",
+    "Time": 2007,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ALB",
+    "Time": 2009,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "ALB",
+    "Time": 2010,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "ALB",
+    "Time": 2011,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "ALB",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "ALB",
+    "Time": 2013,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ALB",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "ALB",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ALB",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "ALB",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ARE",
+    "Time": 2009,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "ARE",
+    "Time": 2010,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "ARE",
+    "Time": 2011,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "ARE",
+    "Time": 2012,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "ARE",
+    "Time": 2013,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "ARE",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "ARE",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "ARE",
+    "Time": 2016,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "ARE",
+    "Time": 2017,
+    "Happiness": 7
+  },
+  {
+    "Location": "ARG",
+    "Time": 2007,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "ARG",
+    "Time": 2008,
+    "Happiness": 6
+  },
+  {
+    "Location": "ARG",
+    "Time": 2009,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ARG",
+    "Time": 2010,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ARG",
+    "Time": 2011,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "ARG",
+    "Time": 2012,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "ARG",
+    "Time": 2013,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "ARG",
+    "Time": 2014,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "ARG",
+    "Time": 2015,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "ARG",
+    "Time": 2016,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ARG",
+    "Time": 2017,
+    "Happiness": 6
+  },
+  {
+    "Location": "ARM",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "ARM",
+    "Time": 2008,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "ARM",
+    "Time": 2009,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "ARM",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "ARM",
+    "Time": 2011,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ARM",
+    "Time": 2012,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ARM",
+    "Time": 2013,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ARM",
+    "Time": 2014,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "ARM",
+    "Time": 2015,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ARM",
+    "Time": 2016,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ARM",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2007,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2008,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2010,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "AUS",
+    "Time": 2011,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "AUS",
+    "Time": 2012,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "AUS",
+    "Time": 2013,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "AUS",
+    "Time": 2014,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2015,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2016,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUS",
+    "Time": 2017,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUT",
+    "Time": 2008,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "AUT",
+    "Time": 2010,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AUT",
+    "Time": 2011,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "AUT",
+    "Time": 2012,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "AUT",
+    "Time": 2013,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "AUT",
+    "Time": 2014,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "AUT",
+    "Time": 2015,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "AUT",
+    "Time": 2016,
+    "Happiness": 7
+  },
+  {
+    "Location": "AUT",
+    "Time": 2017,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "AZE",
+    "Time": 2007,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "AZE",
+    "Time": 2008,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "AZE",
+    "Time": 2009,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "AZE",
+    "Time": 2010,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "AZE",
+    "Time": 2011,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "AZE",
+    "Time": 2012,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "AZE",
+    "Time": 2013,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "AZE",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "AZE",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "AZE",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "AZE",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "BDI",
+    "Time": 2008,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "BDI",
+    "Time": 2009,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "BDI",
+    "Time": 2011,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "BDI",
+    "Time": 2014,
+    "Happiness": 2.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2007,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "BEL",
+    "Time": 2008,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "BEL",
+    "Time": 2010,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2011,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "BEL",
+    "Time": 2012,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2013,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "BEL",
+    "Time": 2014,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2015,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2016,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEL",
+    "Time": 2017,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "BEN",
+    "Time": 2008,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "BEN",
+    "Time": 2011,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "BEN",
+    "Time": 2012,
+    "Happiness": 3.2
+  },
+  {
+    "Location": "BEN",
+    "Time": 2013,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "BEN",
+    "Time": 2014,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "BEN",
+    "Time": 2015,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "BEN",
+    "Time": 2016,
+    "Happiness": 4
+  },
+  {
+    "Location": "BEN",
+    "Time": 2017,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "BFA",
+    "Time": 2007,
+    "Happiness": 4
+  },
+  {
+    "Location": "BFA",
+    "Time": 2008,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "BFA",
+    "Time": 2010,
+    "Happiness": 4
+  },
+  {
+    "Location": "BFA",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "BFA",
+    "Time": 2012,
+    "Happiness": 4
+  },
+  {
+    "Location": "BFA",
+    "Time": 2013,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "BFA",
+    "Time": 2014,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "BFA",
+    "Time": 2015,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "BFA",
+    "Time": 2016,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "BFA",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "BGD",
+    "Time": 2007,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "BGD",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BGD",
+    "Time": 2009,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BGD",
+    "Time": 2010,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "BGD",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "BGD",
+    "Time": 2012,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "BGD",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "BGD",
+    "Time": 2014,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "BGD",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "BGD",
+    "Time": 2016,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "BGD",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "BGR",
+    "Time": 2007,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "BGR",
+    "Time": 2010,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "BGR",
+    "Time": 2011,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "BGR",
+    "Time": 2012,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "BGR",
+    "Time": 2013,
+    "Happiness": 4
+  },
+  {
+    "Location": "BGR",
+    "Time": 2014,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "BGR",
+    "Time": 2015,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "BGR",
+    "Time": 2016,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "BGR",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BHR",
+    "Time": 2009,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "BHR",
+    "Time": 2010,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "BHR",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "BHR",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "BHR",
+    "Time": 2013,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "BHR",
+    "Time": 2014,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "BHR",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "BHR",
+    "Time": 2016,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "BHR",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "BIH",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "BIH",
+    "Time": 2009,
+    "Happiness": 5
+  },
+  {
+    "Location": "BIH",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "BIH",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "BIH",
+    "Time": 2012,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "BIH",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BIH",
+    "Time": 2014,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "BIH",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BIH",
+    "Time": 2016,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "BIH",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BLR",
+    "Time": 2007,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "BLR",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "BLR",
+    "Time": 2009,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "BLR",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "BLR",
+    "Time": 2011,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "BLR",
+    "Time": 2012,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "BLR",
+    "Time": 2013,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "BLR",
+    "Time": 2014,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BLR",
+    "Time": 2015,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "BLR",
+    "Time": 2016,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "BLR",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "BLZ",
+    "Time": 2007,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "BLZ",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "BOL",
+    "Time": 2007,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "BOL",
+    "Time": 2008,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "BOL",
+    "Time": 2009,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "BOL",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BOL",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BOL",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "BOL",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BOL",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "BOL",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BOL",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "BOL",
+    "Time": 2017,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2007,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "BRA",
+    "Time": 2008,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2009,
+    "Happiness": 7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2010,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "BRA",
+    "Time": 2011,
+    "Happiness": 7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2012,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2013,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "BRA",
+    "Time": 2014,
+    "Happiness": 7
+  },
+  {
+    "Location": "BRA",
+    "Time": 2015,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "BRA",
+    "Time": 2016,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "BRA",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "BTN",
+    "Time": 2013,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "BTN",
+    "Time": 2014,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "BTN",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "BWA",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "BWA",
+    "Time": 2010,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "BWA",
+    "Time": 2011,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "BWA",
+    "Time": 2012,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "BWA",
+    "Time": 2013,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "BWA",
+    "Time": 2014,
+    "Happiness": 4
+  },
+  {
+    "Location": "BWA",
+    "Time": 2015,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "BWA",
+    "Time": 2016,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "BWA",
+    "Time": 2017,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "CAF",
+    "Time": 2007,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "CAF",
+    "Time": 2010,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "CAF",
+    "Time": 2011,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "CAF",
+    "Time": 2016,
+    "Happiness": 2.7
+  },
+  {
+    "Location": "CAF",
+    "Time": 2017,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "CAN",
+    "Time": 2007,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CAN",
+    "Time": 2008,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CAN",
+    "Time": 2009,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CAN",
+    "Time": 2010,
+    "Happiness": 7.7
+  },
+  {
+    "Location": "CAN",
+    "Time": 2011,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "CAN",
+    "Time": 2012,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "CAN",
+    "Time": 2013,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "CAN",
+    "Time": 2014,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "CAN",
+    "Time": 2015,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "CAN",
+    "Time": 2016,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "CAN",
+    "Time": 2017,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "CHE",
+    "Time": 2009,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CHE",
+    "Time": 2012,
+    "Happiness": 7.8
+  },
+  {
+    "Location": "CHE",
+    "Time": 2014,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CHE",
+    "Time": 2015,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "CHE",
+    "Time": 2016,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CHE",
+    "Time": 2017,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "CHL",
+    "Time": 2007,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "CHL",
+    "Time": 2008,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "CHL",
+    "Time": 2009,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "CHL",
+    "Time": 2010,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "CHL",
+    "Time": 2011,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "CHL",
+    "Time": 2012,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "CHL",
+    "Time": 2013,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "CHL",
+    "Time": 2014,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "CHL",
+    "Time": 2015,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "CHL",
+    "Time": 2016,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "CHL",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "CHN",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "CHN",
+    "Time": 2008,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "CHN",
+    "Time": 2009,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "CHN",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "CHN",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "CHN",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "CHN",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "CHN",
+    "Time": 2014,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "CHN",
+    "Time": 2015,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "CHN",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "CHN",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "CIV",
+    "Time": 2009,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "CIV",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "CIV",
+    "Time": 2014,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "CIV",
+    "Time": 2015,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "CIV",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "CIV",
+    "Time": 2017,
+    "Happiness": 5
+  },
+  {
+    "Location": "CMR",
+    "Time": 2007,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "CMR",
+    "Time": 2008,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "CMR",
+    "Time": 2009,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "CMR",
+    "Time": 2010,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "CMR",
+    "Time": 2011,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "CMR",
+    "Time": 2012,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "CMR",
+    "Time": 2013,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "CMR",
+    "Time": 2014,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "CMR",
+    "Time": 2015,
+    "Happiness": 5
+  },
+  {
+    "Location": "CMR",
+    "Time": 2016,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "CMR",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "COD",
+    "Time": 2009,
+    "Happiness": 4
+  },
+  {
+    "Location": "COD",
+    "Time": 2011,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "COD",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "COD",
+    "Time": 2013,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "COD",
+    "Time": 2014,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "COD",
+    "Time": 2015,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "COD",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "COD",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "COG",
+    "Time": 2008,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "COG",
+    "Time": 2011,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "COG",
+    "Time": 2012,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "COG",
+    "Time": 2013,
+    "Happiness": 4
+  },
+  {
+    "Location": "COG",
+    "Time": 2014,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "COG",
+    "Time": 2015,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "COG",
+    "Time": 2016,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "COG",
+    "Time": 2017,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "COL",
+    "Time": 2007,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "COL",
+    "Time": 2008,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "COL",
+    "Time": 2009,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "COL",
+    "Time": 2010,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "COL",
+    "Time": 2011,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "COL",
+    "Time": 2012,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "COL",
+    "Time": 2013,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "COL",
+    "Time": 2014,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "COL",
+    "Time": 2015,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "COL",
+    "Time": 2016,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "COL",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "COM",
+    "Time": 2009,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "COM",
+    "Time": 2010,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "COM",
+    "Time": 2011,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "COM",
+    "Time": 2012,
+    "Happiness": 4
+  },
+  {
+    "Location": "CRI",
+    "Time": 2007,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "CRI",
+    "Time": 2008,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "CRI",
+    "Time": 2009,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "CRI",
+    "Time": 2010,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "CRI",
+    "Time": 2011,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "CRI",
+    "Time": 2012,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "CRI",
+    "Time": 2013,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "CRI",
+    "Time": 2014,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "CRI",
+    "Time": 2015,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "CRI",
+    "Time": 2016,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "CRI",
+    "Time": 2017,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "CYP",
+    "Time": 2009,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "CYP",
+    "Time": 2010,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "CYP",
+    "Time": 2011,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "CYP",
+    "Time": 2012,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "CYP",
+    "Time": 2013,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "CYP",
+    "Time": 2014,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "CYP",
+    "Time": 2015,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "CYP",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "CYP",
+    "Time": 2017,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "CZE",
+    "Time": 2007,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "CZE",
+    "Time": 2010,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "CZE",
+    "Time": 2011,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "CZE",
+    "Time": 2012,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "CZE",
+    "Time": 2013,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "CZE",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "CZE",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "CZE",
+    "Time": 2016,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "CZE",
+    "Time": 2017,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "DEU",
+    "Time": 2007,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "DEU",
+    "Time": 2008,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "DEU",
+    "Time": 2009,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "DEU",
+    "Time": 2010,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "DEU",
+    "Time": 2011,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "DEU",
+    "Time": 2012,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "DEU",
+    "Time": 2013,
+    "Happiness": 7
+  },
+  {
+    "Location": "DEU",
+    "Time": 2014,
+    "Happiness": 7
+  },
+  {
+    "Location": "DEU",
+    "Time": 2015,
+    "Happiness": 7
+  },
+  {
+    "Location": "DEU",
+    "Time": 2016,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "DEU",
+    "Time": 2017,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "DJI",
+    "Time": 2008,
+    "Happiness": 5
+  },
+  {
+    "Location": "DJI",
+    "Time": 2009,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "DJI",
+    "Time": 2010,
+    "Happiness": 5
+  },
+  {
+    "Location": "DJI",
+    "Time": 2011,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "DNK",
+    "Time": 2007,
+    "Happiness": 7.8
+  },
+  {
+    "Location": "DNK",
+    "Time": 2008,
+    "Happiness": 8
+  },
+  {
+    "Location": "DNK",
+    "Time": 2009,
+    "Happiness": 7.7
+  },
+  {
+    "Location": "DNK",
+    "Time": 2010,
+    "Happiness": 7.8
+  },
+  {
+    "Location": "DNK",
+    "Time": 2011,
+    "Happiness": 7.8
+  },
+  {
+    "Location": "DNK",
+    "Time": 2012,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "DNK",
+    "Time": 2013,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "DNK",
+    "Time": 2014,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "DNK",
+    "Time": 2015,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "DNK",
+    "Time": 2016,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "DNK",
+    "Time": 2017,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "DOM",
+    "Time": 2007,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "DOM",
+    "Time": 2008,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "DOM",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "DOM",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "DOM",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "DOM",
+    "Time": 2012,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "DOM",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "DOM",
+    "Time": 2014,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "DOM",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "DOM",
+    "Time": 2016,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "DOM",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "DZA",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "DZA",
+    "Time": 2011,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "DZA",
+    "Time": 2012,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "DZA",
+    "Time": 2014,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "DZA",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "DZA",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "ECU",
+    "Time": 2007,
+    "Happiness": 5
+  },
+  {
+    "Location": "ECU",
+    "Time": 2008,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "ECU",
+    "Time": 2009,
+    "Happiness": 6
+  },
+  {
+    "Location": "ECU",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "ECU",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "ECU",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "ECU",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "ECU",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "ECU",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "ECU",
+    "Time": 2016,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "ECU",
+    "Time": 2017,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "EGY",
+    "Time": 2007,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "EGY",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "EGY",
+    "Time": 2009,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "EGY",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "EGY",
+    "Time": 2011,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "EGY",
+    "Time": 2012,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "EGY",
+    "Time": 2013,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "EGY",
+    "Time": 2014,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "EGY",
+    "Time": 2015,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "EGY",
+    "Time": 2016,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "EGY",
+    "Time": 2017,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "ESP",
+    "Time": 2007,
+    "Happiness": 7
+  },
+  {
+    "Location": "ESP",
+    "Time": 2008,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "ESP",
+    "Time": 2009,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "ESP",
+    "Time": 2010,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "ESP",
+    "Time": 2011,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "ESP",
+    "Time": 2012,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "ESP",
+    "Time": 2013,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "ESP",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "ESP",
+    "Time": 2015,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ESP",
+    "Time": 2016,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "ESP",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "EST",
+    "Time": 2007,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "EST",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "EST",
+    "Time": 2009,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "EST",
+    "Time": 2011,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "EST",
+    "Time": 2012,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "EST",
+    "Time": 2013,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "EST",
+    "Time": 2014,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "EST",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "EST",
+    "Time": 2016,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "EST",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "ETH",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ETH",
+    "Time": 2013,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "ETH",
+    "Time": 2014,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "ETH",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "ETH",
+    "Time": 2016,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ETH",
+    "Time": 2017,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "FIN",
+    "Time": 2008,
+    "Happiness": 7.7
+  },
+  {
+    "Location": "FIN",
+    "Time": 2010,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2011,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2012,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2013,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2014,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2015,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "FIN",
+    "Time": 2016,
+    "Happiness": 7.7
+  },
+  {
+    "Location": "FIN",
+    "Time": 2017,
+    "Happiness": 7.8
+  },
+  {
+    "Location": "FRA",
+    "Time": 2008,
+    "Happiness": 7
+  },
+  {
+    "Location": "FRA",
+    "Time": 2009,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "FRA",
+    "Time": 2010,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "FRA",
+    "Time": 2011,
+    "Happiness": 7
+  },
+  {
+    "Location": "FRA",
+    "Time": 2012,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "FRA",
+    "Time": 2013,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "FRA",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "FRA",
+    "Time": 2015,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "FRA",
+    "Time": 2016,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "FRA",
+    "Time": 2017,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "GAB",
+    "Time": 2011,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "GAB",
+    "Time": 2012,
+    "Happiness": 4
+  },
+  {
+    "Location": "GAB",
+    "Time": 2013,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "GAB",
+    "Time": 2014,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "GAB",
+    "Time": 2015,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "GAB",
+    "Time": 2016,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "GAB",
+    "Time": 2017,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "GBR",
+    "Time": 2007,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "GBR",
+    "Time": 2008,
+    "Happiness": 7
+  },
+  {
+    "Location": "GBR",
+    "Time": 2009,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "GBR",
+    "Time": 2010,
+    "Happiness": 7
+  },
+  {
+    "Location": "GBR",
+    "Time": 2011,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "GBR",
+    "Time": 2012,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "GBR",
+    "Time": 2013,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "GBR",
+    "Time": 2014,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "GBR",
+    "Time": 2015,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "GBR",
+    "Time": 2016,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "GBR",
+    "Time": 2017,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "GEO",
+    "Time": 2007,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "GEO",
+    "Time": 2008,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "GEO",
+    "Time": 2009,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "GEO",
+    "Time": 2010,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "GEO",
+    "Time": 2011,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "GEO",
+    "Time": 2012,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "GEO",
+    "Time": 2013,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "GEO",
+    "Time": 2014,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "GEO",
+    "Time": 2015,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "GEO",
+    "Time": 2016,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "GEO",
+    "Time": 2017,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "GHA",
+    "Time": 2007,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "GHA",
+    "Time": 2008,
+    "Happiness": 5
+  },
+  {
+    "Location": "GHA",
+    "Time": 2009,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "GHA",
+    "Time": 2010,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "GHA",
+    "Time": 2011,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "GHA",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "GHA",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "GHA",
+    "Time": 2014,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "GHA",
+    "Time": 2015,
+    "Happiness": 4
+  },
+  {
+    "Location": "GHA",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "GHA",
+    "Time": 2017,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "GIN",
+    "Time": 2011,
+    "Happiness": 4
+  },
+  {
+    "Location": "GIN",
+    "Time": 2012,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "GIN",
+    "Time": 2013,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "GIN",
+    "Time": 2014,
+    "Happiness": 3.4
+  },
+  {
+    "Location": "GIN",
+    "Time": 2015,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "GIN",
+    "Time": 2016,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "GIN",
+    "Time": 2017,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "GMB",
+    "Time": 2017,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "GRC",
+    "Time": 2007,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "GRC",
+    "Time": 2009,
+    "Happiness": 6
+  },
+  {
+    "Location": "GRC",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "GRC",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "GRC",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "GRC",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "GRC",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "GRC",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "GRC",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "GRC",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "GTM",
+    "Time": 2007,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "GTM",
+    "Time": 2008,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "GTM",
+    "Time": 2009,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "GTM",
+    "Time": 2010,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "GTM",
+    "Time": 2011,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "GTM",
+    "Time": 2012,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "GTM",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "GTM",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "GTM",
+    "Time": 2015,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "GTM",
+    "Time": 2016,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "GTM",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "GUY",
+    "Time": 2007,
+    "Happiness": 6
+  },
+  {
+    "Location": "HKG",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "HKG",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HKG",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "HKG",
+    "Time": 2011,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "HKG",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "HKG",
+    "Time": 2014,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "HKG",
+    "Time": 2016,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "HKG",
+    "Time": 2017,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HND",
+    "Time": 2007,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "HND",
+    "Time": 2008,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HND",
+    "Time": 2009,
+    "Happiness": 6
+  },
+  {
+    "Location": "HND",
+    "Time": 2010,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "HND",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "HND",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "HND",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "HND",
+    "Time": 2014,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "HND",
+    "Time": 2015,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "HND",
+    "Time": 2016,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "HND",
+    "Time": 2017,
+    "Happiness": 6
+  },
+  {
+    "Location": "HRV",
+    "Time": 2007,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "HRV",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HRV",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "HRV",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HRV",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "HRV",
+    "Time": 2013,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "HRV",
+    "Time": 2014,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HRV",
+    "Time": 2015,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "HRV",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HRV",
+    "Time": 2017,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "HTI",
+    "Time": 2008,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "HTI",
+    "Time": 2010,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "HTI",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "HTI",
+    "Time": 2012,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "HTI",
+    "Time": 2013,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "HTI",
+    "Time": 2014,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "HTI",
+    "Time": 2015,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "HTI",
+    "Time": 2016,
+    "Happiness": 3.4
+  },
+  {
+    "Location": "HTI",
+    "Time": 2017,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "HUN",
+    "Time": 2007,
+    "Happiness": 5
+  },
+  {
+    "Location": "HUN",
+    "Time": 2009,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "HUN",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "HUN",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "HUN",
+    "Time": 2012,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "HUN",
+    "Time": 2013,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "HUN",
+    "Time": 2014,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "HUN",
+    "Time": 2015,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "HUN",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "HUN",
+    "Time": 2017,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "IDN",
+    "Time": 2007,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IDN",
+    "Time": 2008,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "IDN",
+    "Time": 2009,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "IDN",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "IDN",
+    "Time": 2011,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "IDN",
+    "Time": 2012,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "IDN",
+    "Time": 2013,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "IDN",
+    "Time": 2014,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "IDN",
+    "Time": 2015,
+    "Happiness": 5
+  },
+  {
+    "Location": "IDN",
+    "Time": 2016,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IDN",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IND",
+    "Time": 2007,
+    "Happiness": 5
+  },
+  {
+    "Location": "IND",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IND",
+    "Time": 2009,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "IND",
+    "Time": 2010,
+    "Happiness": 5
+  },
+  {
+    "Location": "IND",
+    "Time": 2011,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "IND",
+    "Time": 2012,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IND",
+    "Time": 2013,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "IND",
+    "Time": 2014,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "IND",
+    "Time": 2015,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "IND",
+    "Time": 2016,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "IND",
+    "Time": 2017,
+    "Happiness": 4
+  },
+  {
+    "Location": "IRL",
+    "Time": 2008,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "IRL",
+    "Time": 2009,
+    "Happiness": 7
+  },
+  {
+    "Location": "IRL",
+    "Time": 2010,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "IRL",
+    "Time": 2011,
+    "Happiness": 7
+  },
+  {
+    "Location": "IRL",
+    "Time": 2012,
+    "Happiness": 7
+  },
+  {
+    "Location": "IRL",
+    "Time": 2013,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "IRL",
+    "Time": 2014,
+    "Happiness": 7
+  },
+  {
+    "Location": "IRL",
+    "Time": 2015,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "IRL",
+    "Time": 2016,
+    "Happiness": 7
+  },
+  {
+    "Location": "IRL",
+    "Time": 2017,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "IRN",
+    "Time": 2007,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "IRN",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IRN",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "IRN",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "IRN",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IRN",
+    "Time": 2014,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRN",
+    "Time": 2015,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRN",
+    "Time": 2016,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRN",
+    "Time": 2017,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2009,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2011,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2012,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2014,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2015,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2016,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "IRQ",
+    "Time": 2017,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "ISL",
+    "Time": 2008,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "ISL",
+    "Time": 2012,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "ISL",
+    "Time": 2013,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "ISL",
+    "Time": 2015,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "ISL",
+    "Time": 2016,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "ISL",
+    "Time": 2017,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "ISR",
+    "Time": 2007,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "ISR",
+    "Time": 2008,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "ISR",
+    "Time": 2009,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "ISR",
+    "Time": 2010,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "ISR",
+    "Time": 2011,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "ISR",
+    "Time": 2012,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "ISR",
+    "Time": 2013,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "ISR",
+    "Time": 2014,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "ISR",
+    "Time": 2015,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "ISR",
+    "Time": 2016,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "ISR",
+    "Time": 2017,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "ITA",
+    "Time": 2007,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "ITA",
+    "Time": 2008,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "ITA",
+    "Time": 2009,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "ITA",
+    "Time": 2010,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ITA",
+    "Time": 2011,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "ITA",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "ITA",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "ITA",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "ITA",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "ITA",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "ITA",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "JAM",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "JAM",
+    "Time": 2013,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "JAM",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "JAM",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "JOR",
+    "Time": 2007,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "JOR",
+    "Time": 2008,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "JOR",
+    "Time": 2009,
+    "Happiness": 6
+  },
+  {
+    "Location": "JOR",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "JOR",
+    "Time": 2011,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "JOR",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "JOR",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "JOR",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "JOR",
+    "Time": 2015,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "JOR",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "JOR",
+    "Time": 2017,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "JPN",
+    "Time": 2007,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "JPN",
+    "Time": 2008,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "JPN",
+    "Time": 2009,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "JPN",
+    "Time": 2010,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "JPN",
+    "Time": 2011,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "JPN",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "JPN",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "JPN",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "JPN",
+    "Time": 2015,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "JPN",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "JPN",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2007,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2008,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2011,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2015,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2016,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "KAZ",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KEN",
+    "Time": 2007,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "KEN",
+    "Time": 2008,
+    "Happiness": 4
+  },
+  {
+    "Location": "KEN",
+    "Time": 2009,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "KEN",
+    "Time": 2010,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "KEN",
+    "Time": 2011,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "KEN",
+    "Time": 2012,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "KEN",
+    "Time": 2013,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "KEN",
+    "Time": 2014,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "KEN",
+    "Time": 2015,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "KEN",
+    "Time": 2016,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "KEN",
+    "Time": 2017,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2007,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2008,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2009,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2010,
+    "Happiness": 5
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2012,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2013,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2015,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2016,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "KGZ",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "KHM",
+    "Time": 2007,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "KHM",
+    "Time": 2008,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "KHM",
+    "Time": 2009,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "KHM",
+    "Time": 2010,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "KHM",
+    "Time": 2011,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "KHM",
+    "Time": 2012,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "KHM",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "KHM",
+    "Time": 2014,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "KHM",
+    "Time": 2015,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "KHM",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "KHM",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "KOR",
+    "Time": 2007,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "KOR",
+    "Time": 2008,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "KOR",
+    "Time": 2009,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "KOR",
+    "Time": 2010,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "KOR",
+    "Time": 2011,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "KOR",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "KOR",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "KOR",
+    "Time": 2014,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "KOR",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "KOR",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "KOR",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KWT",
+    "Time": 2009,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "KWT",
+    "Time": 2010,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "KWT",
+    "Time": 2011,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "KWT",
+    "Time": 2012,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "KWT",
+    "Time": 2013,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "KWT",
+    "Time": 2014,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "KWT",
+    "Time": 2015,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "KWT",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "KWT",
+    "Time": 2017,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "LAO",
+    "Time": 2007,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "LAO",
+    "Time": 2008,
+    "Happiness": 5
+  },
+  {
+    "Location": "LAO",
+    "Time": 2011,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "LAO",
+    "Time": 2012,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "LAO",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "LBN",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "LBN",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "LBN",
+    "Time": 2010,
+    "Happiness": 5
+  },
+  {
+    "Location": "LBN",
+    "Time": 2011,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "LBN",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "LBN",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "LBN",
+    "Time": 2014,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "LBN",
+    "Time": 2015,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "LBN",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "LBN",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "LBR",
+    "Time": 2007,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "LBR",
+    "Time": 2008,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "LBR",
+    "Time": 2010,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "LBR",
+    "Time": 2014,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "LBR",
+    "Time": 2015,
+    "Happiness": 2.7
+  },
+  {
+    "Location": "LBR",
+    "Time": 2016,
+    "Happiness": 3.4
+  },
+  {
+    "Location": "LBR",
+    "Time": 2017,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "LBY",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "LBY",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "LBY",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "LBY",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "LKA",
+    "Time": 2007,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "LKA",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "LKA",
+    "Time": 2009,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "LKA",
+    "Time": 2010,
+    "Happiness": 4
+  },
+  {
+    "Location": "LKA",
+    "Time": 2011,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "LKA",
+    "Time": 2012,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "LKA",
+    "Time": 2013,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "LKA",
+    "Time": 2014,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "LKA",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "LKA",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "LSO",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "LSO",
+    "Time": 2016,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "LSO",
+    "Time": 2017,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "LTU",
+    "Time": 2007,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "LTU",
+    "Time": 2008,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "LTU",
+    "Time": 2009,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "LTU",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "LTU",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "LTU",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "LTU",
+    "Time": 2013,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "LTU",
+    "Time": 2014,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "LTU",
+    "Time": 2015,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "LTU",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "LTU",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "LUX",
+    "Time": 2009,
+    "Happiness": 7
+  },
+  {
+    "Location": "LUX",
+    "Time": 2010,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "LUX",
+    "Time": 2011,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "LUX",
+    "Time": 2012,
+    "Happiness": 7
+  },
+  {
+    "Location": "LUX",
+    "Time": 2013,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "LUX",
+    "Time": 2014,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "LUX",
+    "Time": 2015,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "LUX",
+    "Time": 2016,
+    "Happiness": 7
+  },
+  {
+    "Location": "LUX",
+    "Time": 2017,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "LVA",
+    "Time": 2007,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "LVA",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "LVA",
+    "Time": 2009,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "LVA",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "LVA",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "LVA",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "LVA",
+    "Time": 2014,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "LVA",
+    "Time": 2015,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "LVA",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "LVA",
+    "Time": 2017,
+    "Happiness": 6
+  },
+  {
+    "Location": "MAR",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "MAR",
+    "Time": 2011,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MAR",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "MAR",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MAR",
+    "Time": 2015,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MAR",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "MAR",
+    "Time": 2017,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MDA",
+    "Time": 2007,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MDA",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "MDA",
+    "Time": 2009,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MDA",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MDA",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MDA",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "MDA",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MDA",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "MDA",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "MDA",
+    "Time": 2016,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MDA",
+    "Time": 2017,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MDG",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MDG",
+    "Time": 2011,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "MDG",
+    "Time": 2012,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "MDG",
+    "Time": 2013,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "MDG",
+    "Time": 2014,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "MDG",
+    "Time": 2015,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "MDG",
+    "Time": 2016,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "MDG",
+    "Time": 2017,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "MEX",
+    "Time": 2007,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "MEX",
+    "Time": 2008,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "MEX",
+    "Time": 2009,
+    "Happiness": 7
+  },
+  {
+    "Location": "MEX",
+    "Time": 2010,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "MEX",
+    "Time": 2011,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "MEX",
+    "Time": 2012,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "MEX",
+    "Time": 2013,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "MEX",
+    "Time": 2014,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "MEX",
+    "Time": 2015,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "MEX",
+    "Time": 2016,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "MEX",
+    "Time": 2017,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "MKD",
+    "Time": 2007,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MKD",
+    "Time": 2009,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "MKD",
+    "Time": 2010,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MKD",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "MKD",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MKD",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MKD",
+    "Time": 2014,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MKD",
+    "Time": 2015,
+    "Happiness": 5
+  },
+  {
+    "Location": "MKD",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MKD",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MLI",
+    "Time": 2008,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "MLI",
+    "Time": 2009,
+    "Happiness": 4
+  },
+  {
+    "Location": "MLI",
+    "Time": 2010,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "MLI",
+    "Time": 2011,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "MLI",
+    "Time": 2012,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "MLI",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "MLI",
+    "Time": 2014,
+    "Happiness": 4
+  },
+  {
+    "Location": "MLI",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MLI",
+    "Time": 2016,
+    "Happiness": 4
+  },
+  {
+    "Location": "MLI",
+    "Time": 2017,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "MLT",
+    "Time": 2009,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "MLT",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MLT",
+    "Time": 2011,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "MLT",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "MLT",
+    "Time": 2013,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "MLT",
+    "Time": 2014,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "MLT",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "MLT",
+    "Time": 2016,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "MLT",
+    "Time": 2017,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "MMR",
+    "Time": 2012,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "MMR",
+    "Time": 2013,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MMR",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MMR",
+    "Time": 2015,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MMR",
+    "Time": 2016,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MMR",
+    "Time": 2017,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MNE",
+    "Time": 2007,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MNE",
+    "Time": 2009,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MNE",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "MNE",
+    "Time": 2011,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MNE",
+    "Time": 2012,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "MNE",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MNE",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MNE",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MNE",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MNE",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MNG",
+    "Time": 2007,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MNG",
+    "Time": 2008,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MNG",
+    "Time": 2010,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MNG",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "MNG",
+    "Time": 2012,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "MNG",
+    "Time": 2013,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "MNG",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MNG",
+    "Time": 2015,
+    "Happiness": 5
+  },
+  {
+    "Location": "MNG",
+    "Time": 2016,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MNG",
+    "Time": 2017,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "MOZ",
+    "Time": 2007,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MOZ",
+    "Time": 2008,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "MOZ",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "MOZ",
+    "Time": 2015,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MOZ",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "MRT",
+    "Time": 2007,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "MRT",
+    "Time": 2008,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MRT",
+    "Time": 2009,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MRT",
+    "Time": 2010,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MRT",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "MRT",
+    "Time": 2012,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "MRT",
+    "Time": 2013,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "MRT",
+    "Time": 2014,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MRT",
+    "Time": 2015,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "MRT",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "MRT",
+    "Time": 2017,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "MUS",
+    "Time": 2011,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "MUS",
+    "Time": 2014,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MUS",
+    "Time": 2016,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MUS",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "MWI",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "MWI",
+    "Time": 2009,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "MWI",
+    "Time": 2011,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "MWI",
+    "Time": 2012,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "MWI",
+    "Time": 2013,
+    "Happiness": 4
+  },
+  {
+    "Location": "MWI",
+    "Time": 2014,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "MWI",
+    "Time": 2015,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "MWI",
+    "Time": 2016,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "MWI",
+    "Time": 2017,
+    "Happiness": 3.4
+  },
+  {
+    "Location": "MYS",
+    "Time": 2007,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "MYS",
+    "Time": 2008,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MYS",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "MYS",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "MYS",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MYS",
+    "Time": 2012,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "MYS",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "MYS",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "MYS",
+    "Time": 2015,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "NAM",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NAM",
+    "Time": 2014,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "NAM",
+    "Time": 2017,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "NER",
+    "Time": 2007,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "NER",
+    "Time": 2008,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "NER",
+    "Time": 2009,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "NER",
+    "Time": 2010,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "NER",
+    "Time": 2011,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "NER",
+    "Time": 2012,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "NER",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "NER",
+    "Time": 2014,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "NER",
+    "Time": 2015,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "NER",
+    "Time": 2016,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "NER",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "NGA",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NGA",
+    "Time": 2008,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NGA",
+    "Time": 2009,
+    "Happiness": 5
+  },
+  {
+    "Location": "NGA",
+    "Time": 2010,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "NGA",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "NGA",
+    "Time": 2013,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "NGA",
+    "Time": 2015,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NGA",
+    "Time": 2016,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "NGA",
+    "Time": 2017,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "NIC",
+    "Time": 2007,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NIC",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "NIC",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "NIC",
+    "Time": 2010,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "NIC",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "NIC",
+    "Time": 2012,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "NIC",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "NIC",
+    "Time": 2014,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "NIC",
+    "Time": 2015,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "NIC",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "NIC",
+    "Time": 2017,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "NLD",
+    "Time": 2007,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "NLD",
+    "Time": 2008,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NLD",
+    "Time": 2010,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "NLD",
+    "Time": 2011,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NLD",
+    "Time": 2012,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "NLD",
+    "Time": 2013,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "NLD",
+    "Time": 2014,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "NLD",
+    "Time": 2015,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "NLD",
+    "Time": 2016,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "NLD",
+    "Time": 2017,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "NOR",
+    "Time": 2008,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NOR",
+    "Time": 2012,
+    "Happiness": 7.7
+  },
+  {
+    "Location": "NOR",
+    "Time": 2014,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "NOR",
+    "Time": 2015,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NOR",
+    "Time": 2016,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NOR",
+    "Time": 2017,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NPL",
+    "Time": 2007,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "NPL",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "NPL",
+    "Time": 2009,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "NPL",
+    "Time": 2010,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "NPL",
+    "Time": 2011,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "NPL",
+    "Time": 2012,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "NPL",
+    "Time": 2013,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "NPL",
+    "Time": 2014,
+    "Happiness": 5
+  },
+  {
+    "Location": "NPL",
+    "Time": 2015,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "NPL",
+    "Time": 2016,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "NPL",
+    "Time": 2017,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "NZL",
+    "Time": 2007,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "NZL",
+    "Time": 2008,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "NZL",
+    "Time": 2010,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "NZL",
+    "Time": 2011,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "NZL",
+    "Time": 2012,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "NZL",
+    "Time": 2013,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "NZL",
+    "Time": 2014,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "NZL",
+    "Time": 2015,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "NZL",
+    "Time": 2016,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "NZL",
+    "Time": 2017,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "OMN",
+    "Time": 2011,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "OWI",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "OWI",
+    "Time": 2013,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "OWI",
+    "Time": 2014,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "OWI",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "OWI",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "OWI",
+    "Time": 2007,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "OWI",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "OWI",
+    "Time": 2009,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "OWI",
+    "Time": 2010,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "OWI",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "OWI",
+    "Time": 2012,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "OWI",
+    "Time": 2013,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "OWI",
+    "Time": 2014,
+    "Happiness": 5
+  },
+  {
+    "Location": "OWI",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "OWI",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "OWI",
+    "Time": 2017,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "PAK",
+    "Time": 2007,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PAK",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "PAK",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "PAK",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PAK",
+    "Time": 2011,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "PAK",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PAK",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PAK",
+    "Time": 2014,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "PAK",
+    "Time": 2015,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "PAK",
+    "Time": 2016,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "PAK",
+    "Time": 2017,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PAN",
+    "Time": 2007,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "PAN",
+    "Time": 2008,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "PAN",
+    "Time": 2009,
+    "Happiness": 7
+  },
+  {
+    "Location": "PAN",
+    "Time": 2010,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "PAN",
+    "Time": 2011,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "PAN",
+    "Time": 2012,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "PAN",
+    "Time": 2013,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "PAN",
+    "Time": 2014,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "PAN",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "PAN",
+    "Time": 2016,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "PAN",
+    "Time": 2017,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "PER",
+    "Time": 2007,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "PER",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PER",
+    "Time": 2009,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "PER",
+    "Time": 2010,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "PER",
+    "Time": 2011,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "PER",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PER",
+    "Time": 2013,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PER",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "PER",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "PER",
+    "Time": 2016,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PER",
+    "Time": 2017,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PHL",
+    "Time": 2007,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PHL",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "PHL",
+    "Time": 2009,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "PHL",
+    "Time": 2010,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "PHL",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "PHL",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "PHL",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "PHL",
+    "Time": 2014,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "PHL",
+    "Time": 2015,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "PHL",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "PHL",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "POL",
+    "Time": 2007,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "POL",
+    "Time": 2009,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "POL",
+    "Time": 2010,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "POL",
+    "Time": 2011,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "POL",
+    "Time": 2012,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "POL",
+    "Time": 2013,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "POL",
+    "Time": 2014,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "POL",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "POL",
+    "Time": 2016,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "POL",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "PRT",
+    "Time": 2008,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PRT",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PRT",
+    "Time": 2011,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "PRT",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "PRT",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "PRT",
+    "Time": 2014,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PRT",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PRT",
+    "Time": 2016,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "PRT",
+    "Time": 2017,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PRY",
+    "Time": 2007,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "PRY",
+    "Time": 2008,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "PRY",
+    "Time": 2009,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "PRY",
+    "Time": 2010,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PRY",
+    "Time": 2011,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PRY",
+    "Time": 2012,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PRY",
+    "Time": 2013,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "PRY",
+    "Time": 2014,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "PRY",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "PRY",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "PRY",
+    "Time": 2017,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "PSE",
+    "Time": 2007,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "PSE",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "PSE",
+    "Time": 2009,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "PSE",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "PSE",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "PSE",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "PSE",
+    "Time": 2013,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "PSE",
+    "Time": 2014,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "PSE",
+    "Time": 2015,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "PSE",
+    "Time": 2016,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "PSE",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "QAT",
+    "Time": 2009,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "QAT",
+    "Time": 2010,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "QAT",
+    "Time": 2011,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "QAT",
+    "Time": 2012,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "QAT",
+    "Time": 2015,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "ROU",
+    "Time": 2007,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "ROU",
+    "Time": 2009,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "ROU",
+    "Time": 2010,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "ROU",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "ROU",
+    "Time": 2012,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "ROU",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "ROU",
+    "Time": 2014,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "ROU",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "ROU",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "ROU",
+    "Time": 2017,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "RUS",
+    "Time": 2007,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "RUS",
+    "Time": 2008,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "RUS",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "RUS",
+    "Time": 2010,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "RUS",
+    "Time": 2011,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "RUS",
+    "Time": 2012,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "RUS",
+    "Time": 2013,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "RUS",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "RUS",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "RUS",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "RUS",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "RWA",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "RWA",
+    "Time": 2009,
+    "Happiness": 4
+  },
+  {
+    "Location": "RWA",
+    "Time": 2011,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "RWA",
+    "Time": 2012,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "RWA",
+    "Time": 2013,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "RWA",
+    "Time": 2014,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "RWA",
+    "Time": 2015,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "RWA",
+    "Time": 2016,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "RWA",
+    "Time": 2017,
+    "Happiness": 3.1
+  },
+  {
+    "Location": "SAU",
+    "Time": 2007,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "SAU",
+    "Time": 2008,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "SAU",
+    "Time": 2009,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SAU",
+    "Time": 2010,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SAU",
+    "Time": 2011,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "SAU",
+    "Time": 2012,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "SAU",
+    "Time": 2013,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "SAU",
+    "Time": 2014,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SAU",
+    "Time": 2015,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SAU",
+    "Time": 2016,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "SAU",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SDN",
+    "Time": 2009,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SDN",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "SDN",
+    "Time": 2011,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "SDN",
+    "Time": 2012,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "SDN",
+    "Time": 2014,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "SEN",
+    "Time": 2007,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SEN",
+    "Time": 2008,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SEN",
+    "Time": 2009,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "SEN",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "SEN",
+    "Time": 2011,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "SEN",
+    "Time": 2012,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "SEN",
+    "Time": 2013,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "SEN",
+    "Time": 2014,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "SEN",
+    "Time": 2015,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "SEN",
+    "Time": 2016,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "SEN",
+    "Time": 2017,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SGP",
+    "Time": 2007,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "SGP",
+    "Time": 2008,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "SGP",
+    "Time": 2009,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SGP",
+    "Time": 2010,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "SGP",
+    "Time": 2011,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "SGP",
+    "Time": 2013,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "SGP",
+    "Time": 2014,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "SGP",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "SGP",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "SGP",
+    "Time": 2017,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "SLE",
+    "Time": 2007,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "SLE",
+    "Time": 2008,
+    "Happiness": 3
+  },
+  {
+    "Location": "SLE",
+    "Time": 2010,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "SLE",
+    "Time": 2011,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SLE",
+    "Time": 2013,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SLE",
+    "Time": 2014,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SLE",
+    "Time": 2015,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "SLE",
+    "Time": 2016,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SLE",
+    "Time": 2017,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "SLV",
+    "Time": 2007,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "SLV",
+    "Time": 2008,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "SLV",
+    "Time": 2009,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "SLV",
+    "Time": 2010,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "SLV",
+    "Time": 2011,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SLV",
+    "Time": 2012,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SLV",
+    "Time": 2013,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SLV",
+    "Time": 2014,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SLV",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "SLV",
+    "Time": 2016,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SLV",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SOM",
+    "Time": 2009,
+    "Happiness": 5
+  },
+  {
+    "Location": "SOM",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SOM",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "SOM",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "SOM",
+    "Time": 2014,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "SOM",
+    "Time": 2015,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "SOM",
+    "Time": 2016,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "SRB",
+    "Time": 2007,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "SRB",
+    "Time": 2009,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "SRB",
+    "Time": 2010,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SRB",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "SRB",
+    "Time": 2012,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "SRB",
+    "Time": 2013,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "SRB",
+    "Time": 2014,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "SRB",
+    "Time": 2015,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "SRB",
+    "Time": 2016,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "SRB",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "SSD",
+    "Time": 2014,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "SSD",
+    "Time": 2015,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "SSD",
+    "Time": 2016,
+    "Happiness": 2.9
+  },
+  {
+    "Location": "SSD",
+    "Time": 2017,
+    "Happiness": 2.8
+  },
+  {
+    "Location": "SUR",
+    "Time": 2012,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "SVK",
+    "Time": 2010,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SVK",
+    "Time": 2011,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SVK",
+    "Time": 2012,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SVK",
+    "Time": 2013,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SVK",
+    "Time": 2014,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SVK",
+    "Time": 2015,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "SVK",
+    "Time": 2016,
+    "Happiness": 6
+  },
+  {
+    "Location": "SVK",
+    "Time": 2017,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "SVN",
+    "Time": 2009,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "SVN",
+    "Time": 2010,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SVN",
+    "Time": 2011,
+    "Happiness": 6
+  },
+  {
+    "Location": "SVN",
+    "Time": 2012,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "SVN",
+    "Time": 2013,
+    "Happiness": 6
+  },
+  {
+    "Location": "SVN",
+    "Time": 2014,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "SVN",
+    "Time": 2015,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "SVN",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "SVN",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "SWE",
+    "Time": 2007,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "SWE",
+    "Time": 2008,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "SWE",
+    "Time": 2009,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "SWE",
+    "Time": 2010,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "SWE",
+    "Time": 2011,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "SWE",
+    "Time": 2012,
+    "Happiness": 7.6
+  },
+  {
+    "Location": "SWE",
+    "Time": 2013,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "SWE",
+    "Time": 2014,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "SWE",
+    "Time": 2015,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "SWE",
+    "Time": 2016,
+    "Happiness": 7.4
+  },
+  {
+    "Location": "SWE",
+    "Time": 2017,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "SWZ",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "SYR",
+    "Time": 2008,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "SYR",
+    "Time": 2009,
+    "Happiness": 5
+  },
+  {
+    "Location": "SYR",
+    "Time": 2010,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "SYR",
+    "Time": 2011,
+    "Happiness": 4
+  },
+  {
+    "Location": "SYR",
+    "Time": 2012,
+    "Happiness": 3.2
+  },
+  {
+    "Location": "SYR",
+    "Time": 2013,
+    "Happiness": 2.7
+  },
+  {
+    "Location": "SYR",
+    "Time": 2015,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "TCD",
+    "Time": 2007,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "TCD",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "TCD",
+    "Time": 2009,
+    "Happiness": 3.6
+  },
+  {
+    "Location": "TCD",
+    "Time": 2010,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "TCD",
+    "Time": 2011,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "TCD",
+    "Time": 2012,
+    "Happiness": 4
+  },
+  {
+    "Location": "TCD",
+    "Time": 2013,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "TCD",
+    "Time": 2014,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "TCD",
+    "Time": 2015,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "TCD",
+    "Time": 2016,
+    "Happiness": 4
+  },
+  {
+    "Location": "TCD",
+    "Time": 2017,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "TGO",
+    "Time": 2008,
+    "Happiness": 2.8
+  },
+  {
+    "Location": "TGO",
+    "Time": 2011,
+    "Happiness": 2.9
+  },
+  {
+    "Location": "TGO",
+    "Time": 2014,
+    "Happiness": 2.8
+  },
+  {
+    "Location": "TGO",
+    "Time": 2015,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "TGO",
+    "Time": 2016,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "TGO",
+    "Time": 2017,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "THA",
+    "Time": 2007,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "THA",
+    "Time": 2008,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "THA",
+    "Time": 2009,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "THA",
+    "Time": 2010,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "THA",
+    "Time": 2011,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "THA",
+    "Time": 2012,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "THA",
+    "Time": 2013,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "THA",
+    "Time": 2014,
+    "Happiness": 7
+  },
+  {
+    "Location": "THA",
+    "Time": 2015,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "THA",
+    "Time": 2016,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "THA",
+    "Time": 2017,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "TJK",
+    "Time": 2007,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "TJK",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TJK",
+    "Time": 2009,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "TJK",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "TJK",
+    "Time": 2011,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "TJK",
+    "Time": 2012,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "TJK",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "TJK",
+    "Time": 2014,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "TJK",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TJK",
+    "Time": 2016,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TJK",
+    "Time": 2017,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "TKM",
+    "Time": 2009,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "TKM",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "TKM",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "TKM",
+    "Time": 2013,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "TKM",
+    "Time": 2014,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "TKM",
+    "Time": 2015,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "TKM",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "TKM",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "TTO",
+    "Time": 2008,
+    "Happiness": 6.7
+  },
+  {
+    "Location": "TTO",
+    "Time": 2011,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "TTO",
+    "Time": 2013,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "TTO",
+    "Time": 2017,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "TUN",
+    "Time": 2009,
+    "Happiness": 5
+  },
+  {
+    "Location": "TUN",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TUN",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "TUN",
+    "Time": 2012,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "TUN",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "TUN",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "TUN",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TUN",
+    "Time": 2016,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "TUN",
+    "Time": 2017,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "TUR",
+    "Time": 2007,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "TUR",
+    "Time": 2008,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "TUR",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "TUR",
+    "Time": 2010,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "TUR",
+    "Time": 2011,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "TUR",
+    "Time": 2012,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "TUR",
+    "Time": 2013,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "TUR",
+    "Time": 2014,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "TUR",
+    "Time": 2015,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "TUR",
+    "Time": 2016,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "TUR",
+    "Time": 2017,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "TWN",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "TWN",
+    "Time": 2010,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "TWN",
+    "Time": 2011,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "TWN",
+    "Time": 2012,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "TWN",
+    "Time": 2013,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "TWN",
+    "Time": 2014,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "TWN",
+    "Time": 2015,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "TWN",
+    "Time": 2016,
+    "Happiness": 6.5
+  },
+  {
+    "Location": "TWN",
+    "Time": 2017,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "TZA",
+    "Time": 2007,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "TZA",
+    "Time": 2008,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "TZA",
+    "Time": 2009,
+    "Happiness": 3.4
+  },
+  {
+    "Location": "TZA",
+    "Time": 2010,
+    "Happiness": 3.2
+  },
+  {
+    "Location": "TZA",
+    "Time": 2011,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "TZA",
+    "Time": 2012,
+    "Happiness": 4
+  },
+  {
+    "Location": "TZA",
+    "Time": 2013,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "TZA",
+    "Time": 2014,
+    "Happiness": 3.5
+  },
+  {
+    "Location": "TZA",
+    "Time": 2015,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "TZA",
+    "Time": 2016,
+    "Happiness": 2.9
+  },
+  {
+    "Location": "TZA",
+    "Time": 2017,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "UGA",
+    "Time": 2007,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "UGA",
+    "Time": 2008,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "UGA",
+    "Time": 2009,
+    "Happiness": 4.6
+  },
+  {
+    "Location": "UGA",
+    "Time": 2010,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "UGA",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "UGA",
+    "Time": 2012,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "UGA",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "UGA",
+    "Time": 2014,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "UGA",
+    "Time": 2015,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "UGA",
+    "Time": 2016,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "UGA",
+    "Time": 2017,
+    "Happiness": 4
+  },
+  {
+    "Location": "UKR",
+    "Time": 2007,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "UKR",
+    "Time": 2008,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "UKR",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "UKR",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "UKR",
+    "Time": 2011,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "UKR",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "UKR",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "UKR",
+    "Time": 2014,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "UKR",
+    "Time": 2015,
+    "Happiness": 4
+  },
+  {
+    "Location": "UKR",
+    "Time": 2016,
+    "Happiness": 4
+  },
+  {
+    "Location": "UKR",
+    "Time": 2017,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "URY",
+    "Time": 2007,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "URY",
+    "Time": 2008,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "URY",
+    "Time": 2009,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "URY",
+    "Time": 2010,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "URY",
+    "Time": 2011,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "URY",
+    "Time": 2012,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "URY",
+    "Time": 2013,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "URY",
+    "Time": 2014,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "URY",
+    "Time": 2015,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "URY",
+    "Time": 2016,
+    "Happiness": 6.2
+  },
+  {
+    "Location": "URY",
+    "Time": 2017,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "USA",
+    "Time": 2007,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "USA",
+    "Time": 2008,
+    "Happiness": 7.3
+  },
+  {
+    "Location": "USA",
+    "Time": 2009,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "USA",
+    "Time": 2010,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "USA",
+    "Time": 2011,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "USA",
+    "Time": 2012,
+    "Happiness": 7
+  },
+  {
+    "Location": "USA",
+    "Time": 2013,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "USA",
+    "Time": 2014,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "USA",
+    "Time": 2015,
+    "Happiness": 6.9
+  },
+  {
+    "Location": "USA",
+    "Time": 2016,
+    "Happiness": 6.8
+  },
+  {
+    "Location": "USA",
+    "Time": 2017,
+    "Happiness": 7
+  },
+  {
+    "Location": "UZB",
+    "Time": 2008,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "UZB",
+    "Time": 2009,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "UZB",
+    "Time": 2010,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "UZB",
+    "Time": 2011,
+    "Happiness": 5.7
+  },
+  {
+    "Location": "UZB",
+    "Time": 2012,
+    "Happiness": 6
+  },
+  {
+    "Location": "UZB",
+    "Time": 2013,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "UZB",
+    "Time": 2014,
+    "Happiness": 6
+  },
+  {
+    "Location": "UZB",
+    "Time": 2015,
+    "Happiness": 6
+  },
+  {
+    "Location": "UZB",
+    "Time": 2016,
+    "Happiness": 5.9
+  },
+  {
+    "Location": "UZB",
+    "Time": 2017,
+    "Happiness": 6.4
+  },
+  {
+    "Location": "VEN",
+    "Time": 2008,
+    "Happiness": 6.3
+  },
+  {
+    "Location": "VEN",
+    "Time": 2009,
+    "Happiness": 7.2
+  },
+  {
+    "Location": "VEN",
+    "Time": 2010,
+    "Happiness": 7.5
+  },
+  {
+    "Location": "VEN",
+    "Time": 2011,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "VEN",
+    "Time": 2012,
+    "Happiness": 7.1
+  },
+  {
+    "Location": "VEN",
+    "Time": 2013,
+    "Happiness": 6.6
+  },
+  {
+    "Location": "VEN",
+    "Time": 2014,
+    "Happiness": 6.1
+  },
+  {
+    "Location": "VEN",
+    "Time": 2015,
+    "Happiness": 5.6
+  },
+  {
+    "Location": "VEN",
+    "Time": 2016,
+    "Happiness": 4
+  },
+  {
+    "Location": "VEN",
+    "Time": 2017,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "VNM",
+    "Time": 2007,
+    "Happiness": 5.4
+  },
+  {
+    "Location": "VNM",
+    "Time": 2008,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "VNM",
+    "Time": 2009,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "VNM",
+    "Time": 2010,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "VNM",
+    "Time": 2011,
+    "Happiness": 5.8
+  },
+  {
+    "Location": "VNM",
+    "Time": 2012,
+    "Happiness": 5.5
+  },
+  {
+    "Location": "VNM",
+    "Time": 2013,
+    "Happiness": 5
+  },
+  {
+    "Location": "VNM",
+    "Time": 2014,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "VNM",
+    "Time": 2015,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "VNM",
+    "Time": 2016,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "VNM",
+    "Time": 2017,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "YEM",
+    "Time": 2007,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "YEM",
+    "Time": 2009,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "YEM",
+    "Time": 2010,
+    "Happiness": 4.4
+  },
+  {
+    "Location": "YEM",
+    "Time": 2011,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "YEM",
+    "Time": 2012,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "YEM",
+    "Time": 2013,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "YEM",
+    "Time": 2014,
+    "Happiness": 4
+  },
+  {
+    "Location": "YEM",
+    "Time": 2015,
+    "Happiness": 3
+  },
+  {
+    "Location": "YEM",
+    "Time": 2016,
+    "Happiness": 3.8
+  },
+  {
+    "Location": "YEM",
+    "Time": 2017,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2007,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2008,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2009,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2011,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2012,
+    "Happiness": 5.1
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2013,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2014,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2015,
+    "Happiness": 4.9
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2016,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "ZAF",
+    "Time": 2017,
+    "Happiness": 4.5
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2007,
+    "Happiness": 4
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2008,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2009,
+    "Happiness": 5.3
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2011,
+    "Happiness": 5
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2013,
+    "Happiness": 5.2
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2014,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2015,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2016,
+    "Happiness": 4.3
+  },
+  {
+    "Location": "ZMB",
+    "Time": 2017,
+    "Happiness": 3.9
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2007,
+    "Happiness": 3.3
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2008,
+    "Happiness": 3.2
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2009,
+    "Happiness": 4.1
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2010,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2011,
+    "Happiness": 4.8
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2012,
+    "Happiness": 5
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2013,
+    "Happiness": 4.7
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2014,
+    "Happiness": 4.2
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2015,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2016,
+    "Happiness": 3.7
+  },
+  {
+    "Location": "ZWE",
+    "Time": 2017,
+    "Happiness": 3.6
+  }
+]

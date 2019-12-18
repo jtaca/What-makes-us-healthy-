@@ -1,0 +1,6762 @@
+[
+  {
+    "LOCATION": "AFG",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AFG",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AGO",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2010,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2011,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2012,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2013,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2014,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2015,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2016,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ALB",
+    "TIME": 2017,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2012,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2013,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2014,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2015,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARE",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2010,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2012,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2013,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2014,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2015,
+    "Pollution": 98.3
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2016,
+    "Pollution": 96
+  },
+  {
+    "LOCATION": "ARG",
+    "TIME": 2017,
+    "Pollution": 96
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ARM",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2010,
+    "Pollution": 34.1
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2011,
+    "Pollution": 37.6
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2012,
+    "Pollution": 31.7
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2013,
+    "Pollution": 29.7
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2014,
+    "Pollution": 28.3
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2015,
+    "Pollution": 27.4
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2016,
+    "Pollution": 26
+  },
+  {
+    "LOCATION": "AUS",
+    "TIME": 2017,
+    "Pollution": 26
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2010,
+    "Pollution": 98.8
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2012,
+    "Pollution": 98
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2013,
+    "Pollution": 96.7
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2014,
+    "Pollution": 95.1
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2015,
+    "Pollution": 93
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2016,
+    "Pollution": 87
+  },
+  {
+    "LOCATION": "AUT",
+    "TIME": 2017,
+    "Pollution": 87
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "AZE",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BDI",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2012,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2013,
+    "Pollution": 97.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2014,
+    "Pollution": 95.8
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2015,
+    "Pollution": 96.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2016,
+    "Pollution": 93.3
+  },
+  {
+    "LOCATION": "BEL",
+    "TIME": 2017,
+    "Pollution": 93.5
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BEN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BFA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGD",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "BGR",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BHR",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BIH",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BLR",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BOL",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2010,
+    "Pollution": 91.4
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2011,
+    "Pollution": 92.3
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2012,
+    "Pollution": 87.5
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2013,
+    "Pollution": 85.9
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2014,
+    "Pollution": 77.9
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2015,
+    "Pollution": 75.5
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2016,
+    "Pollution": 68.1
+  },
+  {
+    "LOCATION": "BRA",
+    "TIME": 2017,
+    "Pollution": 68.3
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2010,
+    "Pollution": 1.3
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2011,
+    "Pollution": 1.3
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2012,
+    "Pollution": 1.3
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2013,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2014,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2015,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2016,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "BRN",
+    "TIME": 2017,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BTN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "BWA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAF",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2010,
+    "Pollution": 13.7
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2011,
+    "Pollution": 18.3
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2012,
+    "Pollution": 8.8
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2013,
+    "Pollution": 7.1
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2014,
+    "Pollution": 2.6
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2015,
+    "Pollution": 0.9
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2016,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "CAN",
+    "TIME": 2017,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2010,
+    "Pollution": 94.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2011,
+    "Pollution": 95.4
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2012,
+    "Pollution": 93.1
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2013,
+    "Pollution": 88.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2014,
+    "Pollution": 80.2
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2015,
+    "Pollution": 74.6
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2016,
+    "Pollution": 54.1
+  },
+  {
+    "LOCATION": "CHE",
+    "TIME": 2017,
+    "Pollution": 54
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2010,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2011,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2012,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2013,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2014,
+    "Pollution": 98
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2015,
+    "Pollution": 97.7
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2016,
+    "Pollution": 97.2
+  },
+  {
+    "LOCATION": "CHL",
+    "TIME": 2017,
+    "Pollution": 97.3
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CHN",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CIV",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CMR",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COD",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COG",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2010,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2012,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2013,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2014,
+    "Pollution": 97.3
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2015,
+    "Pollution": 96.3
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2016,
+    "Pollution": 93.7
+  },
+  {
+    "LOCATION": "COL",
+    "TIME": 2017,
+    "Pollution": 93.2
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CRI",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CUB",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CYP",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "CZE",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2012,
+    "Pollution": 98.6
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2013,
+    "Pollution": 98.1
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2014,
+    "Pollution": 96.4
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2015,
+    "Pollution": 96.5
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2016,
+    "Pollution": 90.3
+  },
+  {
+    "LOCATION": "DEU",
+    "TIME": 2017,
+    "Pollution": 90.3
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2010,
+    "Pollution": 95.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2011,
+    "Pollution": 98.6
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2012,
+    "Pollution": 85.1
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2013,
+    "Pollution": 79.5
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2014,
+    "Pollution": 83.2
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2015,
+    "Pollution": 76.7
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2016,
+    "Pollution": 62.8
+  },
+  {
+    "LOCATION": "DNK",
+    "TIME": 2017,
+    "Pollution": 62.7
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "DOM",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "DZA",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2016,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "ECU",
+    "TIME": 2017,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "EGY",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2010,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2012,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2013,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2014,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2015,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2016,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ERI",
+    "TIME": 2017,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2010,
+    "Pollution": 74.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2011,
+    "Pollution": 80.2
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2012,
+    "Pollution": 70.6
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2013,
+    "Pollution": 65.3
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2014,
+    "Pollution": 53.1
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2015,
+    "Pollution": 60.5
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2016,
+    "Pollution": 46
+  },
+  {
+    "LOCATION": "ESP",
+    "TIME": 2017,
+    "Pollution": 46.4
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2010,
+    "Pollution": 6.2
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2011,
+    "Pollution": 6
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2012,
+    "Pollution": 1.8
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2013,
+    "Pollution": 0.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2014,
+    "Pollution": 0.7
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2015,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2016,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "EST",
+    "TIME": 2017,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ETH",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2010,
+    "Pollution": 90.2
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2011,
+    "Pollution": 91.3
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2012,
+    "Pollution": 88.3
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2013,
+    "Pollution": 87.1
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2014,
+    "Pollution": 82.9
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2015,
+    "Pollution": 83.7
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2016,
+    "Pollution": 78.5
+  },
+  {
+    "LOCATION": "EU2",
+    "TIME": 2017,
+    "Pollution": 78.5
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2010,
+    "Pollution": 1.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2011,
+    "Pollution": 1.3
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2012,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2013,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2014,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2015,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2016,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FIN",
+    "TIME": 2017,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2010,
+    "Pollution": 77.5
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2011,
+    "Pollution": 77.5
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2012,
+    "Pollution": 77.5
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2013,
+    "Pollution": 77.4
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2014,
+    "Pollution": 77.4
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2015,
+    "Pollution": 77.2
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2016,
+    "Pollution": 71
+  },
+  {
+    "LOCATION": "FJI",
+    "TIME": 2017,
+    "Pollution": 63.1
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2010,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2012,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2013,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2014,
+    "Pollution": 88.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2015,
+    "Pollution": 91
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2016,
+    "Pollution": 79.8
+  },
+  {
+    "LOCATION": "FRA",
+    "TIME": 2017,
+    "Pollution": 79.8
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2010,
+    "Pollution": 91.9
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2011,
+    "Pollution": 92.8
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2012,
+    "Pollution": 90.6
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2013,
+    "Pollution": 89.5
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2014,
+    "Pollution": 87.8
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2015,
+    "Pollution": 87.6
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2016,
+    "Pollution": 85.9
+  },
+  {
+    "LOCATION": "G20",
+    "TIME": 2017,
+    "Pollution": 85.9
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2010,
+    "Pollution": 67.9
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2011,
+    "Pollution": 71.8
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2012,
+    "Pollution": 62.9
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2013,
+    "Pollution": 59.4
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2014,
+    "Pollution": 53
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2015,
+    "Pollution": 52.1
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2016,
+    "Pollution": 46.1
+  },
+  {
+    "LOCATION": "G7M",
+    "TIME": 2017,
+    "Pollution": 46.2
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2012,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2013,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2014,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2015,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GAB",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2010,
+    "Pollution": 86.9
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2011,
+    "Pollution": 89.4
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2012,
+    "Pollution": 83.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2013,
+    "Pollution": 81.5
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2014,
+    "Pollution": 71
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2015,
+    "Pollution": 70.8
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2016,
+    "Pollution": 65.6
+  },
+  {
+    "LOCATION": "GBR",
+    "TIME": 2017,
+    "Pollution": 65
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GEO",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GHA",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GIN",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GMB",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2010,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2011,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2012,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2013,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2014,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2015,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2016,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNB",
+    "TIME": 2017,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2010,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2011,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2012,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2013,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2014,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2015,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2016,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GNQ",
+    "TIME": 2017,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GRC",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "GTM",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2012,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2013,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2014,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2015,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HKG",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HND",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2010,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2011,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2012,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2013,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2014,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2015,
+    "Pollution": 98.2
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2016,
+    "Pollution": 97.8
+  },
+  {
+    "LOCATION": "HRV",
+    "TIME": 2017,
+    "Pollution": 97.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HTI",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "HUN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2010,
+    "Pollution": 95.8
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2011,
+    "Pollution": 97.4
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2012,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2013,
+    "Pollution": 93.3
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2014,
+    "Pollution": 93.8
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2015,
+    "Pollution": 95.2
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2016,
+    "Pollution": 94.8
+  },
+  {
+    "LOCATION": "IDN",
+    "TIME": 2017,
+    "Pollution": 94.8
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IND",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2010,
+    "Pollution": 52.5
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2011,
+    "Pollution": 60.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2012,
+    "Pollution": 31.6
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2013,
+    "Pollution": 29.1
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2014,
+    "Pollution": 6
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2015,
+    "Pollution": 5.2
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2016,
+    "Pollution": 2.3
+  },
+  {
+    "LOCATION": "IRL",
+    "TIME": 2017,
+    "Pollution": 2.3
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRN",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "IRQ",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2010,
+    "Pollution": 23.4
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2011,
+    "Pollution": 23.6
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2012,
+    "Pollution": 7
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2013,
+    "Pollution": 6.9
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2014,
+    "Pollution": 6.4
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2015,
+    "Pollution": 6.4
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2016,
+    "Pollution": 5.9
+  },
+  {
+    "LOCATION": "ISL",
+    "TIME": 2017,
+    "Pollution": 5.7
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ISR",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2010,
+    "Pollution": 97.8
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2011,
+    "Pollution": 98.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2012,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2013,
+    "Pollution": 97.1
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2014,
+    "Pollution": 96.4
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2015,
+    "Pollution": 96.6
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2016,
+    "Pollution": 94.5
+  },
+  {
+    "LOCATION": "ITA",
+    "TIME": 2017,
+    "Pollution": 94.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2010,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2011,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2012,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2013,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2014,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2015,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2016,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JAM",
+    "TIME": 2017,
+    "Pollution": 98.7
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JOR",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2010,
+    "Pollution": 93.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2011,
+    "Pollution": 93.3
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2012,
+    "Pollution": 90
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2013,
+    "Pollution": 90.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2014,
+    "Pollution": 88.2
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2015,
+    "Pollution": 89
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2016,
+    "Pollution": 79.4
+  },
+  {
+    "LOCATION": "JPN",
+    "TIME": 2017,
+    "Pollution": 80.6
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2010,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2011,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2012,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2013,
+    "Pollution": 97.4
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2014,
+    "Pollution": 95.5
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2015,
+    "Pollution": 95.9
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2016,
+    "Pollution": 92.3
+  },
+  {
+    "LOCATION": "KAZ",
+    "TIME": 2017,
+    "Pollution": 92.2
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KEN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2014,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2016,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "KGZ",
+    "TIME": 2017,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KHM",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2010,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2011,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2012,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2013,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2014,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2015,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2016,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KOR",
+    "TIME": 2017,
+    "Pollution": 99.2
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "KWT",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LAO",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBR",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LBY",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2010,
+    "Pollution": 87.9
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2011,
+    "Pollution": 98.3
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2012,
+    "Pollution": 87.9
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2013,
+    "Pollution": 86.8
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2014,
+    "Pollution": 86.8
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2015,
+    "Pollution": 85.6
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2016,
+    "Pollution": 85.6
+  },
+  {
+    "LOCATION": "LIE",
+    "TIME": 2017,
+    "Pollution": 85.6
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2016,
+    "Pollution": 69.5
+  },
+  {
+    "LOCATION": "LKA",
+    "TIME": 2017,
+    "Pollution": 46.8
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LSO",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2015,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2016,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "LTU",
+    "TIME": 2017,
+    "Pollution": 96.6
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2012,
+    "Pollution": 92.8
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2013,
+    "Pollution": 91.8
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2014,
+    "Pollution": 80.7
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2015,
+    "Pollution": 82.7
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2016,
+    "Pollution": 73
+  },
+  {
+    "LOCATION": "LUX",
+    "TIME": 2017,
+    "Pollution": 73
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2011,
+    "Pollution": 99
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2012,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2013,
+    "Pollution": 96.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2014,
+    "Pollution": 96.4
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2015,
+    "Pollution": 92.8
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2016,
+    "Pollution": 90.7
+  },
+  {
+    "LOCATION": "LVA",
+    "TIME": 2017,
+    "Pollution": 89.3
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAC",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MAR",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MDG",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "MEX",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MKD",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLI",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MLT",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MMR",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNE",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2010,
+    "Pollution": 98.1
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2011,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2012,
+    "Pollution": 98
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2013,
+    "Pollution": 97.3
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2014,
+    "Pollution": 97.1
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2015,
+    "Pollution": 97.8
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2016,
+    "Pollution": 96.7
+  },
+  {
+    "LOCATION": "MNG",
+    "TIME": 2017,
+    "Pollution": 96.7
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MOZ",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MRT",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MUS",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MWI",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2010,
+    "Pollution": 96.9
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2011,
+    "Pollution": 97.2
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2012,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2013,
+    "Pollution": 93.8
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2014,
+    "Pollution": 92.3
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2015,
+    "Pollution": 93.5
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2016,
+    "Pollution": 90.8
+  },
+  {
+    "LOCATION": "MYS",
+    "TIME": 2017,
+    "Pollution": 90.7
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NAM",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NER",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NGA",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "NIC",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2016,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "NLD",
+    "TIME": 2017,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2010,
+    "Pollution": 16.3
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2011,
+    "Pollution": 31.2
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2012,
+    "Pollution": 7.4
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2013,
+    "Pollution": 3.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2014,
+    "Pollution": 3.9
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2015,
+    "Pollution": 3.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2016,
+    "Pollution": 3.8
+  },
+  {
+    "LOCATION": "NOR",
+    "TIME": 2017,
+    "Pollution": 3.8
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NPL",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2010,
+    "Pollution": 10.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2011,
+    "Pollution": 10.7
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2012,
+    "Pollution": 5.5
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2013,
+    "Pollution": 1.4
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2014,
+    "Pollution": 0.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2015,
+    "Pollution": 0.3
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2016,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "NZL",
+    "TIME": 2017,
+    "Pollution": 0
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "Pollution": 74.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "Pollution": 77.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "Pollution": 71
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "Pollution": 68.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "Pollution": 63.8
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "Pollution": 63.3
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2016,
+    "Pollution": 58.6
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2017,
+    "Pollution": 58.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2010,
+    "Pollution": 88.5
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2011,
+    "Pollution": 89.9
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2012,
+    "Pollution": 86.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2013,
+    "Pollution": 85.1
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2014,
+    "Pollution": 80.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2015,
+    "Pollution": 81.4
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2016,
+    "Pollution": 75.7
+  },
+  {
+    "LOCATION": "OEC",
+    "TIME": 2017,
+    "Pollution": 75.7
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2010,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2011,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2012,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2013,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2014,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2015,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2016,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "OMN",
+    "TIME": 2017,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAK",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2010,
+    "Pollution": 94.5
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2011,
+    "Pollution": 95.4
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2012,
+    "Pollution": 94.8
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2013,
+    "Pollution": 92.2
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2014,
+    "Pollution": 89.4
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2015,
+    "Pollution": 87.6
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2016,
+    "Pollution": 74.4
+  },
+  {
+    "LOCATION": "PAN",
+    "TIME": 2017,
+    "Pollution": 73.6
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2010,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2011,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2012,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2013,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2014,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2015,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2016,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "PER",
+    "TIME": 2017,
+    "Pollution": 98.4
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2010,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2011,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2012,
+    "Pollution": 98.5
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2013,
+    "Pollution": 98.1
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2014,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2015,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2016,
+    "Pollution": 95.6
+  },
+  {
+    "LOCATION": "PHL",
+    "TIME": 2017,
+    "Pollution": 95.2
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2010,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2011,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2012,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2013,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2014,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2015,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2016,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "PNG",
+    "TIME": 2017,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "POL",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRK",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2010,
+    "Pollution": 50.9
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2011,
+    "Pollution": 55
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2012,
+    "Pollution": 29.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2013,
+    "Pollution": 29.4
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2014,
+    "Pollution": 23.8
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2015,
+    "Pollution": 26.2
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2016,
+    "Pollution": 14
+  },
+  {
+    "LOCATION": "PRT",
+    "TIME": 2017,
+    "Pollution": 15.1
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2016,
+    "Pollution": 99.3
+  },
+  {
+    "LOCATION": "PRY",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "QAT",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2012,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2013,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2014,
+    "Pollution": 97.9
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2015,
+    "Pollution": 98.9
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2016,
+    "Pollution": 97.6
+  },
+  {
+    "LOCATION": "ROU",
+    "TIME": 2017,
+    "Pollution": 97.5
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2010,
+    "Pollution": 95.9
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2011,
+    "Pollution": 95.2
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2012,
+    "Pollution": 94.4
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2013,
+    "Pollution": 92.2
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2014,
+    "Pollution": 92.1
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2015,
+    "Pollution": 90.3
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2016,
+    "Pollution": 90.4
+  },
+  {
+    "LOCATION": "RUS",
+    "TIME": 2017,
+    "Pollution": 90.3
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "RWA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2010,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2011,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2012,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2013,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2014,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2015,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SAU",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SDN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SEN",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SGP",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLE",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SLV",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2010,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2012,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2013,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2014,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2015,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2016,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SOM",
+    "TIME": 2017,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SRB",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVK",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "SVN",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2010,
+    "Pollution": 4.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2011,
+    "Pollution": 6.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2012,
+    "Pollution": 3.1
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2013,
+    "Pollution": 3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2014,
+    "Pollution": 3.2
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2015,
+    "Pollution": 3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2016,
+    "Pollution": 3
+  },
+  {
+    "LOCATION": "SWE",
+    "TIME": 2017,
+    "Pollution": 3
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SWZ",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2010,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2011,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2012,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2013,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2014,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2015,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2016,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "SYR",
+    "TIME": 2017,
+    "Pollution": 99.8
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TCD",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "TGO",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2016,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "THA",
+    "TIME": 2017,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TJK",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TKM",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TLS",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2010,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2011,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2012,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2013,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2014,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2015,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2016,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TTO",
+    "TIME": 2017,
+    "Pollution": 99.1
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2012,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2013,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2014,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2015,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TUN",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "TZA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UGA",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2010,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2011,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2012,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2013,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2014,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2015,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2016,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "UKR",
+    "TIME": 2017,
+    "Pollution": 99.9
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2010,
+    "Pollution": 88.2
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2011,
+    "Pollution": 95.3
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2012,
+    "Pollution": 67
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2013,
+    "Pollution": 61.8
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2014,
+    "Pollution": 22.5
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2015,
+    "Pollution": 19.8
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2016,
+    "Pollution": 16.1
+  },
+  {
+    "LOCATION": "URY",
+    "TIME": 2017,
+    "Pollution": 16.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2010,
+    "Pollution": 37.2
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2011,
+    "Pollution": 45.6
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2012,
+    "Pollution": 27.9
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2013,
+    "Pollution": 20.3
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2014,
+    "Pollution": 11.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2015,
+    "Pollution": 8.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2016,
+    "Pollution": 3.1
+  },
+  {
+    "LOCATION": "USA",
+    "TIME": 2017,
+    "Pollution": 3.1
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "UZB",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2010,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2011,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2012,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2013,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2014,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2015,
+    "Pollution": 99.7
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2016,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "VEN",
+    "TIME": 2017,
+    "Pollution": 99.6
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2010,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2011,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2012,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2013,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2014,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2015,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2016,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "VNM",
+    "TIME": 2017,
+    "Pollution": 99.5
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2010,
+    "Pollution": 94.3
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2011,
+    "Pollution": 94.9
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2012,
+    "Pollution": 93.4
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2013,
+    "Pollution": 92.6
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2014,
+    "Pollution": 91.5
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2015,
+    "Pollution": 91.3
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2016,
+    "Pollution": 90
+  },
+  {
+    "LOCATION": "WLD",
+    "TIME": 2017,
+    "Pollution": 89.9
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2010,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2011,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2012,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2013,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2014,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2015,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2016,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "YEM",
+    "TIME": 2017,
+    "Pollution": 99.4
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZAF",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZMB",
+    "TIME": 2017,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2010,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2011,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2012,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2013,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2014,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2015,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2016,
+    "Pollution": 100
+  },
+  {
+    "LOCATION": "ZWE",
+    "TIME": 2017,
+    "Pollution": 100
+  }
+]
