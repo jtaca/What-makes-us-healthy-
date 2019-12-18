@@ -1,0 +1,40 @@
+
+<meta charset="UTF-8">
+    <link rel="stylesheet" href="4viz.css">
+    <script src="../d3/d3.min.js" charset="utf-8"></script>
+    <script src="4viz.js"></script>
+    
+<h1>Student's First Multiple Coordinated View</h1>
+
+<div>
+  <label for="passenger-class"><strong>Passenger Class:</strong></label>
+  <select id="passenger-class">
+    <option value="" selected>All Classes</option>
+    <option value="1">First Class</option>
+    <option value="2">2nd Class</option>
+    <option value="3">3rd Class</option>
+  </select>
+  <strong>Selected Gender: </strong>
+  <span id="selectedSex"></span>
+  <strong>Selected Survived: </strong>
+  <span id="selectedSurvived"></span>
+</div>
+
+<main>
+  <section>
+    <h3>Gender Distribution</h3>
+    <svg id="sex"></svg>
+  </section>
+  <section>
+    <h3>Age Histogram</h3>
+    <svg id="age"></svg>
+  </section>
+  <section>
+    <h3>Fare Histogram</h3>
+    <svg id="fare"></svg>
+  </section>
+  <section>
+    <h3>Survived Distribution</h3>
+    <svg id="survived"></svg>
+  </section>
+</main>
